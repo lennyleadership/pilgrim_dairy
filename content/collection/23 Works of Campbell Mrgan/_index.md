@@ -10,6 +10,7 @@ series: null
 tags:
 title: The Works of G. Campbell Morgan
 toc: true
+layout: single-series
 ---
 
 
