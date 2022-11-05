@@ -34,9 +34,9 @@ params:
   customheadingFontFamily: Fraunces
   customtextFontFamily: Commissioner
   description: A modern, beautiful, and easily configurable blog theme for Hugo.
-  favicon: /img/pilgrim-icons.jpg
+  favicon: /img/favicon.png
   headingFontFamily: sans-serif
-  logo: /img/pilgrim-icons.jpg
+  logo: /img/favicon.png
   mainSections:
     - blog
     #- project
