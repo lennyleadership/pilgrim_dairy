@@ -9,7 +9,7 @@ series: null
 tags: [Lord's Prayer]
 title: The Practice of Prayer
 toc: true
-layout: single
+layout: single-sidebar
 ---
 
 This book is the exposition of the Lord's Prayer.  Luke 11:1-13 is referred.  
