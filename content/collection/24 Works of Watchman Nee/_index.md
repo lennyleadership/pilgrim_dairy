@@ -10,7 +10,7 @@ series: null
 tags:
 title: The Works of Watchman Nee
 toc: true
-layout: single-series
+layout: single-sidebar
 ---
 
 
