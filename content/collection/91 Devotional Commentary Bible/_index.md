@@ -10,7 +10,7 @@ series: null
 tags: 
 title: Devotional Commentary of Bible
 toc: true
-layout: single-series
+layout: single-sidebar
 ---
 
 
