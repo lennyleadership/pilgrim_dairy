@@ -26,78 +26,69 @@ toc: true
 
 <iframe width="360" height="270" src="https://www.youtube.com/embed/zundjUFazfg" title="CityAlight ~ Yet Not I But Through Christ In Me (Lyrics)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+Artist: CityAlight
 
-verse 1  
-What gift of grace   
-is Jesus my redeemer,   
-there is no more   
-for heaven now to give.   
-He is my joy,   
-my righteousness, and freedom.   
-My steadfast love,   
-my deep and boundless peace.   
+Verse 1  
+What gift of grace is Jesus my redeemer  
+There is no more for heaven now to give  
+He is my joy, my righteousness, and freedom  
+My steadfast love, my deep and boundless peace  
+  
+Refrain 1  
+To this I hold, my hope is only Jesus  
+For my life is wholly bound to his  
+Oh how strange and divine, I can sing: all is mine!  
+Yet not I, but through Christ in me  
+  
+Verse2  
+The night is dark but I am not forsaken  
+For by my side, the Saviour He will stay  
+I labour on in weakness and rejoicing  
+For in my need, His power is displayed  
+  
+Refrain 2  
+To this I hold, my Shepherd will defend me  
+Through the deepest valley He will lead  
+Oh the night has been won, and I shall overcome!  
+Yet not I, but through Christ in me  
+  
+Verse 3  
+No fate I dread, I know I am forgiven  
+The future sure, the price it has been paid  
+For Jesus bled and suffered for my pardon  
+And He was raised to overthrow the grave  
+  
+Refrain 3  
+To this I hold, my sin has been defeated  
+Jesus now and ever is my plea  
+Oh the chains are released, I can sing: I am free!  
+Yet not I, but through Christ in me  
+  
+Verse 4  
+With every breath I long to follow Jesus  
+For He has said that He will bring me home  
+And day by day I know He will renew me  
+Until I stand with joy before the throne  
+  
+Refrain 4  
+To this I hold, my hope is only Jesus  
+All the glory evermore to Him  
+When the race is complete, still my lips shall repeat:  
+Yet not I, but through Christ in me!  
+  
+Refrain 4  
+To this I hold, my hope is only Jesus  
+All the glory evermore to Him  
+When the race is complete, still my lips shall repeat:  
+Yet not I, but through Christ in me!  
+  
+Tag  
+When the race is complete, still my lips shall repeat:  
+Yet not I, but through Christ in me!  
+Yet not I, but through Christ in me!  
+Yet not I, but through Christ in me!  
 
-To this I hold,   
-my hope is only Jesus.  
-For my life  
-is wholly bound to his.   
-Oh how strange and divine,  
-I can sing: all is mine!  
-Yet not I, but through Christ in me.   
-
-verse 2  
-The night is dark 
-but I am not forsaken,  
-for by my side 
-the Saviour He will stay.   
-I labour on 
-in weakness and rejoicing 
-for in my need, 
-His power is displayed. 
-
-To this I hold,   
-my Shepherd will defend me  
-through the deepest valley   
-He will lead.   
-Oh the night has been won,   
-and I shall overcome!   
-Yet not I,   
-but through Christ in me.  
-
-verse 3  
-No fate I dread, 
-I know I am forgiven.  
-The future sure, 
-the price it has been paid 
-for Jesus bled 
-and suffered for my pardon 
-and He was raised to overthrow the grave. 
-
-To this I hold, 
-my sin has been defeated 
-Jesus now 
-and ever is my plea.  
-Oh the chains are released, 
-I can sing: I am free!  
-Yet not I, 
-but through Christ in me.  
-
-verse 4  
-With every breath 
-I long to follow Jesus 
-for He has said that He will bring me home.  
-And day by day 
-I know He will renew me 
-until I stand 
-with joy before the throne. 
-
-To this I hold, 
-my hope is only Jesus 
-all the glory 
-evermore to Him.  
-When the race is complete, 
-still my lips shall repeat: 
-Yet not I, but through Christ in me.
+Source: <a href = "https://cityalight.com/song/yet-not-i-but-through-christ-in-me/" target="_blank" rel="noopener noreferrer">Yet Not I but Through Christ in Me <br> Lyrics & Charts</a>
 
 </div>
 

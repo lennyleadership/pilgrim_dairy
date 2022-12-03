@@ -1,4 +1,6 @@
 ---
+weight: 1
+title: The Cross of Calvary
 authors: Jessie Penn-Lewis
 categories: null
 date: "2022-04-09"
@@ -7,11 +9,13 @@ draft: false
 lastmod: "2022-04-09"
 series: null
 tags: null
-title: 各各他的十字架
+
 toc: true
 ---
 
 <!--more-->
+
+
 
 各各他的十字架  
 宾路易师母  

@@ -1,14 +1,14 @@
 ---
 weight: 22
+title: The Cross of Calvary
 authors: Jessie Penn-Lewis - Edited by Lenny Lin
 categories: null
-date: "2022-04-09"
+tags:
 description: 
 draft: false
+date: "2022-04-09"
 lastmod: "2022-04-09"
 series: null
-tags:
-title: 各各他的十字架
 toc: true
 bookCollapseSection: true
 ---

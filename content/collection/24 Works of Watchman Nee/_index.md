@@ -1,15 +1,17 @@
 ---
 weight: 24
+title: Books of Watchman Nee
 authors:
 categories: null
-date: "2022-04-10"
+tags:
 description: 
 draft: false
+date: "2022-04-10"
 lastmod: "2022-07-06"
 series: null
-tags:
-title: 倪柝声著作
 toc: true
+# layout options: single, single-sidebar
+layout: single-sidebar
 bookCollapseSection: true
 ---
 
