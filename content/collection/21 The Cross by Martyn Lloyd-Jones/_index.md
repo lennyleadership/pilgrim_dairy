@@ -1,6 +1,6 @@
 ---
 weight: 21
-title: 只夸十字架
+title: The Cross
 authors: Martyn Lloyd-Jones
 categories: null
 tags: null
@@ -13,4 +13,3 @@ toc: true
 bookCollapseSection: true
 ---
 
-收集整理了钟马田关于十字架的信息。
