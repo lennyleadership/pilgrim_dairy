@@ -12,13 +12,14 @@ cascade:
     text_link_label: ""
     text_link_url: ""
     text_series_label: Outline
-    title: Documents
+    title: Collections
 description: "Collections of books"
-layout: list-sidebar
+# layout: option list, list-sidebar, list-grid
+layout: list-grid
 show_author_byline: false
 show_post_date: false
 show_post_thumbnail: true
 subtitle: 
 thumbnail_left: false
-title: Documents
+title: Collections
 ---

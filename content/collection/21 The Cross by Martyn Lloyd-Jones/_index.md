@@ -4,7 +4,7 @@ title: The Cross
 authors: Martyn Lloyd-Jones
 categories: null
 tags: null
-description: 
+description: The Cross by Martyn Lloyd-Jones
 draft: false
 date: "2021-11-27"
 lastmod: "2021-11-27"
