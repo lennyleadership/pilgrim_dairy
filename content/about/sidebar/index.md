@@ -8,7 +8,7 @@ audio_link_label: "" # leave blank to exclude
 link_list_label: "Book" # bookmarks, elsewhere, etc.
 link_list:
 - name: My Utmost for His Highest
-
+  url: https://https://utmost.org/
 ---
 
 ** index doesn't contain a body, just front matter above.
