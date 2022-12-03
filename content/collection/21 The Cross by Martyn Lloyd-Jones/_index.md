@@ -13,3 +13,4 @@ toc: true
 bookCollapseSection: true
 ---
 
+The Cross by Martyn Lloyd-Jones
