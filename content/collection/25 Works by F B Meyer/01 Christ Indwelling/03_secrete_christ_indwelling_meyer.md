@@ -1,6 +1,6 @@
 ---
-weight: 1
-title: Christ Indwelling
+weight: 3
+title: Chapter 3 The Secret of Christ’s Indwelling 
 authors: F. B. Meyer, Edited by Lenny Lin
 categories: null
 tags: [Christ Indwelling, F.B. Meyer]
@@ -12,11 +12,23 @@ series: null
 toc: true
 ---
 
+Christ Indwelling by F. B. Meyer
+
+
 <!--more-->
 ---
 
-## Chapter 3 The Secret of Christ’s Indwelling 
 
+
+<!-- Tab links -->
+<div class="tab">
+  <button class="tablinks active" onclick="tablabel(event, 'english')">English</button>
+  <button class="tablinks" onclick="tablabel(event, 'chinese')">中文</button>
+  
+</div>
+
+<!-- Tab content -->
+<div id="english" class="tabcontent" style="display:block">
 &emsp;IT IS APPROPRIATE that the largest church in the greatest Gentile city in the world should be dedicated to the apostle Paul, for Gentiles are under a great obligation to him as the Apostle of the Gentiles. It is to him that we owe, under the Spirit of God, the unveiling of two great mysteries, which especially touch us as Gentiles.   
 
 &emsp;The first of these, glorious as it is, we cannot now discuss, although it wrought a revolution when first preached and maintained by the apostle in the face of the most strenuous opposition. Till then, Gentiles were expected to become Jews before they were Christians, and to pass through the synagogue to the church. But Paul showed that this was not needful, and that Gentiles stood on the same level as Jews with respect to the privileges of the gospel—fellow-heirs, fellow-members of the body, and fellow-partakers of the promise in Christ Jesus through the gospel (Ephesians 3:6).   
@@ -93,3 +105,9 @@ toc: true
 
 ### Source:
 <a href = "https://chalkermen.files.wordpress.com/2015/01/f-b-meyer-the-secret-of-guidance.pdf" target="_blank" rel="noopener noreferrer">The Secret of Guidance by F.B. Meyer</a>
+</div>
+
+<div id="chinese" class="tabcontent">
+
+</div>
+
