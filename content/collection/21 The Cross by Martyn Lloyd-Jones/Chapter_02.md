@@ -1,4 +1,6 @@
 ---
+weight: 2
+title: Chapter 2
 authors: Martyn Lloyd-Jones
 categories: null
 date: "2021-11-27"
@@ -7,13 +9,28 @@ draft: false
 lastmod: "2021-11-27"
 series: null
 tags: null
-title: 《只夸基督十架》 第二章
+
 toc: true
 ---
 
 
 
 <!--more-->
+
+<!-- Tab links -->
+<div class="tab">
+  <button class="tablinks active" onclick="tablabel(event, 'english')">English</button>
+  <button class="tablinks" onclick="tablabel(event, 'chinese')">中文</button>
+  
+</div>
+
+<!-- Tab content -->
+<div id="english" class="tabcontent" style="display:block">
+
+</div>
+
+<div id="chinese" class="tabcontent">
+
 “但我断不以别的夸口，只夸我们主耶稣基督的十字架。因这十字架，就我而论，世界已经钉在十字架上；就世界而论，我已经钉在十字架上。”（加拉太书六14）  
 
 假教师们的教导混乱真道   
@@ -243,3 +260,4 @@ toc: true
 
 [http://blog.sina.com.cn/s/blog_96fdf2d70102xh6a.html]  
 [http://blog.sina.com.cn/s/blog_96fdf2d70102xixf.html]
+</div>

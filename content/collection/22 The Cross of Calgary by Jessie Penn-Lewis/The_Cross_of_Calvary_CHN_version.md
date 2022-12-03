@@ -15,8 +15,19 @@ toc: true
 
 <!--more-->
 
+<!-- Tab links -->
+<div class="tab">
+  <button class="tablinks active" onclick="tablabel(event, 'english')">English</button>
+  <button class="tablinks" onclick="tablabel(event, 'chinese')">中文</button>
+  
+</div>
 
+<!-- Tab content -->
+<div id="english" class="tabcontent" style="display:block">
 
+</div>
+
+<div id="chinese" class="tabcontent">
 各各他的十字架  
 宾路易师母  
 「看哪，神的羔羊，除去世人罪孽的」(约一29)。  
@@ -611,3 +622,5 @@ toc: true
 但在这里是否各各他就被忘记了呢？没有。那位死而复活者的名字仍是「羔羊」。基督其他的名字在这荣耀丰满的异象中都不需要了。所有的名号都消失在这个超绝的名里了，羔羊这名世世代代永远新鲜。
 那些与主在地上同受试探的蒙拣选的使徒的名字刻在圣城的根基上，因为他们在人的嘲笑和背逆下传扬了十字架的信息，立下了教会的根基，除了那些名字从创世以来就记在被杀羔羊生命册上的人，都与圣城无分(启十三8)。那些以祂的十字架为夸耀并接受因祂的死而来的生命的，都要被模成羔羊的形像。
 「我未见城内有殿，因主神全能者和羔羊为城的殿」；「神的荣耀光照，又有羔羊为城的灯」；「有神和羔羊的宝座，祂的众仆人都要事奉祂，也要看见祂的面」(启廿一22~23；廿二3~4)。
+</div>
+

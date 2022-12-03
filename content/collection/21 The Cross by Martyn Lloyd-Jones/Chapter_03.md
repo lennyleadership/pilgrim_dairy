@@ -1,15 +1,15 @@
 ---
-weight:
-title: ''
-authors: 
-- Watchman Nee
+weight: 3
+title: Chapter 3
+authors: Martyn Lloyd-Jones
 categories: null
-tags: null
+date: "2021-11-27"
 description: #1
 draft: false
-date: "2021-04-02"
-lastmod: "2021-07-02"
+lastmod: "2021-11-27"
 series: null
+tags: null
+
 toc: true
 ---
 
@@ -32,3 +32,5 @@ toc: true
 <div id="chinese" class="tabcontent">
 
 </div>
+
+[http://blog.sina.com.cn/s/blog_96fdf2d70102xh6a.html]
