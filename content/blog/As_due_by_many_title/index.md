@@ -1,28 +1,13 @@
 ---
-title: As Due by Many Titles 
 author: John Donne
-categories: null
-draft: false
+categories: [Poems]
 date: "2022-12-04"
-tags:
-layout: single
----
-
-
-author: Eric Anderson
-categories:
-- Theme Features
-date: "2019-07-01"
 draft: true
-excerpt: This theme has a form-to-email feature built in, thanks to the simple Formspree
-  integration. All you need to activate the form is a valid recipient email address
-  saved in the form front matter.
+excerpt: 
 layout: single
-subtitle: Form to email feature powered by Formspree
-tags:
-- hugo-site
-
-
+subtitle: .
+title: As Due by Many Titles
+---
 
 <!-- Tab links -->
 <div class="tab">
@@ -94,5 +79,3 @@ source: <a href = "https://en.wikipedia.org/wiki/As_Due_By_Many_Titles" target="
 
 来源：<a href = "https://mp.weixin.qq.com/s/ahsuPvi9YqjzEyPyydqMkQ" target="_blank" rel="noopener noreferrer">橡果阅读小空间</a>
 </div>
-
-
