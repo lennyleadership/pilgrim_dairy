@@ -14,15 +14,7 @@ bookCollapseSection: true
 layout: single-sidebar
 ---
 
-{{< columns >}}
 
-
-
-<--->
-
-
-
-{{< /columns >}}
 
 
 
