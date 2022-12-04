@@ -103,7 +103,7 @@ menu:
       title: A collection
       url: /collection/
       weight: 2
-    - name: Notes
+    - name: Posts
       title: Blog
       url: /blog/
       weight: 3
