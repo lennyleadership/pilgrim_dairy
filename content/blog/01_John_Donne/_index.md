@@ -1,17 +1,27 @@
 ---
-weight: 1
-title: As Due by Many Titles by John Donne
-authors:
+title: As Due by Many Titles 
+author: John Donne
 categories: null
-description: 
 draft: false
 date: "2022-12-04"
-lastmod: "2022-12-004"
-series: null
 tags:
-toc: true
 layout: single
 ---
+
+
+author: Eric Anderson
+categories:
+- Theme Features
+date: "2019-07-01"
+draft: true
+excerpt: This theme has a form-to-email feature built in, thanks to the simple Formspree
+  integration. All you need to activate the form is a valid recipient email address
+  saved in the form front matter.
+layout: single
+subtitle: Form to email feature powered by Formspree
+tags:
+- hugo-site
+
 
 
 <!-- Tab links -->
@@ -23,6 +33,10 @@ layout: single
 
 <!-- Tab content -->
 <div id="english" class="tabcontent" style="display:block">
+
+As Due by Many Titles
+
+- John Donne  
 
 As due by many titles I resign  
 &emsp;Myself to thee, O God. First I was made  
@@ -43,11 +57,12 @@ source: <a href = "https://en.wikipedia.org/wiki/As_Due_By_Many_Titles" target="
 </div>
 
 <div id="chinese" class="tabcontent">
-  <h2>我本有众多名分</h2>
+  <h2></h2>
   
-    
+我本有众多名分    
 
-约翰·多恩
+约翰·多恩  
+
 
 我本有众多名分，表明
 
