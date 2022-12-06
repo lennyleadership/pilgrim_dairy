@@ -72,7 +72,7 @@ Within *‘The Funeral’* a speaker’s wishes for his own funeral are made cle
 First, it appears as some sort of bracelet-like reliquary, a remembrance of a pure, much loved woman. As the poem progresses though the speaker’s tone shifts and the reader’s perception of the hair changes until the “wreath” becomes a manacle chaining the speaker to this woman he loved, and therefore, bringing her into the grave with him.
 
 
-### At the round earth’s imagin’d corners, blow
+### Holy Sonnet VII: At the round earth’s imagin’d corners, blow
 This poem contains speaker’s description of Judgment Day and an appeal to God to forgive him his sins. It begins with the speaker directing angels at the corners of the earth to blow their trumpets and wake the dead. With this action all those who have passed away, in all their “numberless infinites” will return to earth and seek out their bodies.
 
 From the first lines it is clear this is a slightly altered description of the Christian apocalypse. Although John Donne’s speaker seemed prepared for the end of the world in the first section, he changes his mind. He realizes he hasn’t adequately repented for his own sins and begs God to teach him how to do it. If he could, his life would be forgiven and he could join the ranks of the dead.
