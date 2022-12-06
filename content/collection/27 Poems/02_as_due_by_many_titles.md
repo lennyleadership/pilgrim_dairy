@@ -1,7 +1,7 @@
 ---
 weight: 2
 title: "Holy Sonnet II: As Due by Many Titles"
-authors:
+authors: John Donne
 categories: null
 tags:
 description: 
@@ -19,9 +19,9 @@ toc: true
 
 The [speaker](https://poemanalysis.com/diction/speaker-in-poetry/), who is commonly considered to be Donne himself, is talking to God about his soul and his future. He’s lived a sinful life and knows his mistakes have led him to Satan. Now, in *‘Holy [Sonnet](https://poemanalysis.com/poetic-form/sonnet/) II,’* he’s seeking a path away from the sin he’s been so focused on.
 
-```
-Holy Sonnet II
-John Donne
+
+Holy Sonnet II  
+John Donne  
 
 As due by many titles I resign  
 Myself to thee, O God. First I was made  
@@ -37,7 +37,7 @@ Except Thou rise and for Thine own work fight,
 O! I shall soon despair, when I shall see  
 That Thou lovest mankind well, yet wilt not choose me,  
 And Satan hates me, yet is loth to lose me.
-```
+
 
 ## Explore Holy Sonnet II
 
@@ -142,3 +142,6 @@ Readers who enjoyed this should also consider reading some other [John Donne poe
 - *‘[A Nocturnal upon St. Lucy’s Day](https://poemanalysis.com/john-donne/a-nocturnal-upon-st-lucys-day/)’* – is one of the poet’s best poems about love and loss. It depicts the speaker’s grief after the death of someone he loved.
 - ‘*[Death, be not Proud](https://poemanalysis.com/john-donne/death-be-not-proud-holy-sonnet-10/)’ –* tells the listener not to fear Death as he keeps morally corrupt company and only leads to Heaven.
 - ‘*[A Valediction: Forbidding Mourning](https://poemanalysis.com/john-donne/a-valediction-forbidding-mourning/)*‘ – uses one of his famous conceits to depict the steadfast nature of his love.
+
+
+Source: <a href = "https://poemanalysis.com/john-donne/holy-sonnet-ii/" target="_blank" rel="noopener noreferrer">Poem Analysis</a>
