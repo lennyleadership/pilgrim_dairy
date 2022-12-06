@@ -9,7 +9,8 @@ draft: false
 date: "2022-12-05"
 lastmod: "2022-12-05"
 series: null
-toc: true
+#toc: true
+layout: single-sidebar
 ---
 
 

@@ -53,7 +53,7 @@ The main theme of this poem is sin. It is coupled with the speaker’s need to r
 
 ## Structure and Form
 
-*‘Holy Sonnet II’* by John Donne is a fourteen-line poem that follows a [rhyme scheme](https://poemanalysis.com/definition/rhyme-scheme/) of ABBABBACDDCCC. This slightly unusual [rhyme](https://poemanalysis.com/literary-device/rhyme/) scheme uses the traditional pattern of a [Petrarchan sonnet](https://poemanalysis.com/poetic-form/petrarchan-sonnet/) in the first eight lines and an interesting variation in the final six lines. The poet also chose to structure this poem in [iambic pentameter](https://poemanalysis.com/poetic-meter/iambic-pentameter/). This means that the lines contain five sets of two beats the first of which is unstressed and the second of which is stressed. This is the common metrical pattern used in [sonnets](https://poemanalysis.com/poetic-form/sonnet/).
+*‘Holy Sonnet II’* by John Donne is a fourteen-line poem that follows a [rhyme scheme](https://poemanalysis.com/definition/rhyme-scheme/) of <mark class = "lemon">ABBABBACDDCCC</mark>. This slightly unusual [rhyme](https://poemanalysis.com/literary-device/rhyme/) scheme uses the traditional pattern of a [Petrarchan sonnet](https://poemanalysis.com/poetic-form/petrarchan-sonnet/) in the first eight lines and an interesting variation in the final six lines. The poet also chose to structure this poem in [iambic pentameter](https://poemanalysis.com/poetic-meter/iambic-pentameter/). This means that the lines contain five sets of two beats the first of which is unstressed and the second of which is stressed. This is the common metrical pattern used in [sonnets](https://poemanalysis.com/poetic-form/sonnet/).
 
 ## Literary Devices
 
@@ -68,26 +68,26 @@ Throughout this poem, the poet makes use of several literary devices. These incl
 
 ### Lines 1-4
 
-> As due by many titles I resign
+> As due by many titles I resign [A]
 > 
-> Myself to thee, O God. First I was made
+> Myself to thee, O God. First I was made [B]
 > 
-> By Thee; and for Thee, and when I was decay’d
+> By Thee; and for Thee, and when I was decay’d [B]
 > 
-> Thy blood bought that, the which before was Thine.
+> Thy blood bought that, the which before was Thine. [A]
 > 
 
 In the first lines of *‘Holy Sonnet II,’* the poet’s speaker begins the poem by addressing God. He tells God that he wants to give himself over entirely. His mind and body are both dedicated to God’s will. He was made for God, and by God, he adds.
 
 ### Lines 5-8
 
-> I am Thy son, made with Thyself to shine,
+> I am Thy son, made with Thyself to shine, [A]
 > 
-> Thy servant, whose pains Thou hast still repaid,
+> Thy servant, whose pains Thou hast still repaid, [B]
 > 
-> Thy sheep, Thine image, and—till I betray’d
+> Thy sheep, Thine image, and — till I betray’d [B]
 > 
-> Myself—a temple of Thy Spirit divine.
+> Myself — a temple of Thy Spirit divine. [A]
 > 
 
 In the second [quatrain](https://poemanalysis.com/poetic-form/quatrain/), the speaker provides readers with more images that help create a full understanding of how the speaker sees his relationship with God. He is a child of God, as are all human beings. He is made from God and therefore contains within him some of the shining divinity that God is defined by.
@@ -96,17 +96,17 @@ He’s also God’s servant, he says. But, he’s sinned in his life and betraye
 
 ### Lines 9-14
 
-> Why doth the devil then usurp on me?
+> Why doth the devil then usurp on me? [C]
 > 
-> Why doth he steal, nay ravish, that’s Thy right?
+> Why doth he steal, nay ravish, that’s Thy right? [D]
 > 
-> Except Thou rise and for Thine own work fight,
+> Except Thou rise and for Thine own work fight, [D]
 > 
-> O! I shall soon despair, when I shall see
+> O! I shall soon despair, when I shall see [C]
 > 
-> That Thou lovest mankind well, yet wilt not choose me,
+> That Thou lovest mankind well, yet wilt not choose me, [C]
 > 
-> And Satan hates me, yet is loth to lose me.
+> And Satan hates me, yet is loth to lose me. [C]
 > 
 
 In the next few lines, the speaker asks two [rhetorical questions](https://poemanalysis.com/literary-device/rhetorical-question/). He suggests that the devil has come into his life and removed from his soul the perfect goodness that God imbued him with. His shining divine soul has been corrupted and “ravish[ed]” by the devil.
