@@ -1,7 +1,7 @@
 ---
 weight: 1
 title: "Holy Sonnet I: Thou has made me"
-authors: John Donne
+authors:
 categories: null
 tags:
 description: 
@@ -11,7 +11,6 @@ lastmod: "2022-12-05"
 series: null
 toc: true
 ---
-
 
 
 <!--more-->

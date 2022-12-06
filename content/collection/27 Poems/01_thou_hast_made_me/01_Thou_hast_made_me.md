@@ -97,6 +97,10 @@ The speaker re-emphasizes the fact that only God is able to keep him away from t
 
 God is the “adamant,” or metal, to the speaker’s “iron heart.” He is drawn, like a magnet up to God’s grace. This final line is a great example of the [metaphysical](https://poemanalysis.com/movement/metaphysical-poetry/) conceits for which Donne is so well-known. This kind of clever [comparison](https://poemanalysis.com/literary-device/juxtaposition/) seeks to be original and relates two strangely opposite things in an interesting way.
 
+Sign up to unveil the best kept secrets in poetry,
 
+brought to you by the experts
+
+Emma graduated from East Carolina University with a BA in English, minor in Creative Writing, BFA in Fine Art, and BA in Art Histories. Literature is one of her greatest passions which she pursues through analyzing poetry on Poem Analysis.  
 
 Source: <a href = "https://poemanalysis.com/john-donne/thou-hast-made-me-and-shall-thy-work-decay/" target="_blank" rel="noopener noreferrer">Peom Analysis</a>
