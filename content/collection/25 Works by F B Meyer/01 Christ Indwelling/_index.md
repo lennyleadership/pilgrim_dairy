@@ -14,7 +14,8 @@ layout: single-sidebar
 bookCollapseSection: true
 ---
 
-Christ Indwelling by F. B. Meyer
+Christ Indwelling  
+by F. B. Meyer
 <!--more-->
 ---
 

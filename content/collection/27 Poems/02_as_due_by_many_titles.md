@@ -112,7 +112,7 @@ That Thou lovest mankind well, yet wilt not choose me,
 And Satan hates me, yet is loth to lose me.
 
 
-## Explore Holy Sonnet II
+
 
 ## Summary
 
