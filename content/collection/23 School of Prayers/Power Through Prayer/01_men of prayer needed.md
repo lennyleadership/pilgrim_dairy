@@ -2,13 +2,14 @@
 weight: 1
 title: Men of Prayer Needed
 authors: E. M. Bounds
-categories: 
-tags: 
+categories: [Prayer, "E. M. Bounds"]
+tags: [Prayer, "E. M. Bounds"]
+series: [Prayer, "E. M. Bounds"]
 description: 
 draft: false
 date: "2022-12-11"
 lastmod: "2022-12-11"
-series: [Prayer]
+
 toc: true
 ---
 
