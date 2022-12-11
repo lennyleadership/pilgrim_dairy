@@ -11,6 +11,7 @@ lastmod: "2022-07-05"
 series: null
 toc: true
 bookCollapseSection: true
+layout: single-sidebar
 ---
 
 This book is written by G Campbell Morgan.  
