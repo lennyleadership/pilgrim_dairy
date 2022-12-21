@@ -1,7 +1,9 @@
 ---
-author: Leny Lin
+author: Lenny Lin
 categories:
-- 
+- [The Apple of God's Eye]
+tag: [The Apple of God's Eye]
+series: [The Apple of God's Eye]
 date: "2022-12-21"
 draft: false
 excerpt: 
@@ -13,7 +15,10 @@ title: The Apple of His Eye
 
 There are some Bible verses describing God's people as the apple of His eye:  
 
-Psalm 17:8, Deuteronomy 32:10
+Strong number: H380: Psalm 17:8, Deuteronomy 32:10   
+
+Strong number: H892: Zechariah 2:8 
+
 
 Deuteronomy ‬32:9-13 NLT  
 9 “For the people of Israel belong to the Lord;   
@@ -49,7 +54,9 @@ He nourished them with honey from the rock and olive oil from the stony ground.
 
 There are some Bible verses describing His word as the apple of His eye:  
 
-‪Proverbs‬7:2 NLT  
+Strong number: H380: Proverbs 7:2  
+
+‪Proverbs ‬7:2 NLT    
 2 Obey my commands and live!   
 Guard my instructions as you guard your own eyes.  
 
