@@ -11,6 +11,7 @@ lastmod: "2021-11-27"
 series: null
 toc: true
 bookCollapseSection: true
+layout: single-sidebar
 ---
 
 The Cross by Martyn Lloyd-Jones

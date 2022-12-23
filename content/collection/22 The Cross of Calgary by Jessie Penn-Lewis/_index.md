@@ -11,6 +11,7 @@ lastmod: "2022-04-09"
 series: null
 toc: true
 bookCollapseSection: true
+layout: single-sidebar
 ---
 
 The Cross of Calvary by Jessie Penn-Lewis

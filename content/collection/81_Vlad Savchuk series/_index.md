@@ -1,5 +1,5 @@
 ---
-weight: 32
+weight: 81
 title: Vlad Savchuk Series
 authors:
 categories: null
@@ -10,6 +10,7 @@ date: "2022-11-13"
 lastmod: "2022-11-13"
 series: null
 toc: true
+layout: single-sidebar
 ---
 
 

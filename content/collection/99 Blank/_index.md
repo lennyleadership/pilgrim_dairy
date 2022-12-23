@@ -1,6 +1,6 @@
 ---
-weight: 5
-title: Hymns
+weight: 99
+title: 
 authors:
 categories: null
 description: 
@@ -15,6 +15,6 @@ layout: single-sidebar
 ---
 
 
-This book collects hymns.
+
 
 
