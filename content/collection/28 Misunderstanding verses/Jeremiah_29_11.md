@@ -32,7 +32,13 @@ So what? Some of you may be thinking. Even when the verse is taken out of contex
 
 We need to let the Bible speak to us, not allow our own personal bent to speak into the Scriptures. If Jeremiah 29 is speaking to the nation of Israel, and not just one person, then we should start with the truth in the Scriptures. Context matters—God speaks at a particular moment in time, to a particular people group, for a reason.  
 
-What this means is that God has plans for a whole group of people, namely the nation of Israel. And if we read on in the Scriptures we find that this promise was fulfilled: those in exile returned, and the nation of Israel was restored for a time. God made a promise through the prophets, and that promise came true. 
+What this means is that God has plans for a whole group of people, namely the nation of Israel. And if we read on in the Scriptures we find that this promise was fulfilled: those in exile returned, and the nation of Israel was restored for a time. God made a promise through the prophets, and that promise came true.   
+
+But how does any of this apply to us today? Can we still take heart in such a beautiful promise—even though it was spoken to people long ago, people in a far different situation than ours?  
+
+First and foremost, we are all in this together. This verse does not apply to isolated individuals or to a broad community. It applies to both, together, functioning as one. The image painted here is one of individuals in community, like the Body of Christ which Paul talks about. Here are a bunch of people, worshiping God together, hoping for a future redemption.  
+
+Even more important than our decision about which college to attend, which city to move to or what job offer to take is the future hope of the Kingdom of God foretold by the prophets and fulfilled in the reign of our now and coming King. In this way, the promise of Jeremiah 29:11 is bigger than any one of us — and far better.  
 
 Source: <a href = "https://relevantmagazine.com/faith/stop-taking-jeremiah-2911-out-context/" target="_blank" rel="noopener noreferrer">relevantmagazine.com | Stop Taking Jeremiah 29:11 Out of Context</a>
 </div>
