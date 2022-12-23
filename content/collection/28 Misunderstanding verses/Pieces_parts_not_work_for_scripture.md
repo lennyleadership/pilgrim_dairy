@@ -36,4 +36,4 @@ John 15:16: "You did not choose me, but I chose you and appointed you so that yo
 **1 John 5:14-15:** This is the confidence we have in approaching God: that if we ask anything according to his will, he hears us.  
 15 And if we know that he hears us—whatever we ask—we know that we have what we asked of him.
 
-<b><font class = "font_upper">Source</font></b>:
+<b><font class = "font_upper">Source</font></b>: 
