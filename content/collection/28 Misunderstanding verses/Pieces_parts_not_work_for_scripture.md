@@ -1,7 +1,7 @@
 ---
 weight: 11
 title: "Pieces Parts Doesn't Work for Scripture"
-authors: 
+authors: Gail Burton Purath
 categories: null
 tags: null
 description: 
@@ -11,16 +11,17 @@ lastmod: "2022-12-02"
 series: null
 toc: true
 ---
+We could misunderstand the Bible’s message about prayer by letting one or two of these verses stand alone to the exclusion of all others.
 
 <!--more-->
 
-Matthew 7:7: “Ask and it will be given to you; seek and you will find; knock and the door will be opened to you."  
+**Matthew 7:7**: “Ask and it will be given to you; seek and you will find; knock and the door will be opened to you."  
 
-John 14:14: "You may ask me for anything in my name, and I will do it."  
+**John 14:14**: "You may ask me for anything in my name, and I will do it."  
 
-John 15:7: "If you remain in me and my words remain in you, ask whatever you wish, and it will be done for you."  
+**John 15:7**: "If you remain in me and my words remain in you, ask whatever you wish, and it will be done for you."  
 
-John 15:16: "You did not choose me, but I chose you and appointed you so that you might go and bear fruit—fruit that will last—and so that whatever you ask in my name the Father will give you."  
+**John 15:16**: "You did not choose me, but I chose you and appointed you so that you might go and bear fruit—fruit that will last—and so that whatever you ask in my name the Father will give you."  
 
 **John 16:16, 23-24:** Jesus went on to say, “In a little while you will see me no more, and then after a little while you will see me.”   
 
@@ -36,4 +37,4 @@ John 15:16: "You did not choose me, but I chose you and appointed you so that yo
 **1 John 5:14-15:** This is the confidence we have in approaching God: that if we ask anything according to his will, he hears us.  
 15 And if we know that he hears us—whatever we ask—we know that we have what we asked of him.
 
-<b><font class = "font_upper">Source</font></b>: 
+<b><font class = "font_upper">Source</font></b>: <a href = "https://bitesizebiblestudy.blogspot.com/2013/03/pieces-parts-bible-study.html" target="_blank" rel="noopener noreferrer">bitesizebiblestudy.blogspot.com | Pieces Parts Bible Study</a>
