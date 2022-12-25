@@ -3,6 +3,7 @@ weight: 28
 title: Misunderstanding Bible Verses
 authors:
 categories: null
+excerpt: Bible verse most popular and yet misunderstanding
 description: 
 draft: false
 date: "2022-04-17"
