@@ -42,9 +42,9 @@ And he said, “The man on the middle cross said I can come.”
 
 Now, that is the only answer. That is the only answer. And if I don’t preach the Gospel to myself all day and every day, then I will find myself beginning to trust myself, trust my experience, which is part of my fallenness as a man. If I take my eyes off the cross, I can then give only lip service to its efficacy while at the same time living as if my salvation depends upon me. And as soon as you go there, it will lead you either to abject despair or a horrible kind of arrogance. And it is only the cross of Christ that deals both with the dreadful depths of despair and the pretentious arrogance of the pride of man that says, “You know, I can figure this out, and I’m doing wonderfully well.” No.
 
->Because the sinless Savior died,
-My sinful soul is counted free;
-For God the just is satisfied
+>Because the sinless Savior died,  
+My sinful soul is counted free;  
+For God the just is satisfied  
 To look on Him and pardon me. [^1]
 
 That’s why Luther says most of your Christian life is outside of you, in this sense: that we know that we’re not saved by good works, we’re not saved as a result of our professions, but we’re saved as a result of what Christ has achieved.
