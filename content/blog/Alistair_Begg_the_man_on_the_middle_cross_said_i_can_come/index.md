@@ -14,7 +14,7 @@ title: The Man on the Middle Cross Said I Can Come
 
 <iframe width="360" height="200" src="https://www.youtube.com/embed/592BE5w8Y7o" title="“The man on the middle cross said I can come.”" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-https://tflmedia-new.s3.amazonaws.com/free_downloads/3446-thepowerandmessageofthecross.mp3
+
 
 Without the preaching of the cross, without preaching the cross to ourselves all day and every day, we will very, very quickly revert to faith plus works as the ground of our salvation; so that, to go to the old Fort Lauderdale question — *“If you were to die tonight and you were getting entry into heaven, what would you say?”* — if you answer that, and if I answer it, in the first person, we’ve immediately gone wrong. “Because I…” “Because I believed. Because I have faith. Because I am this. Because I am continuing.” Loved ones, the only proper answer’s in the third person: “Because He…” “Because He…””
 
@@ -52,7 +52,7 @@ To look on Him and pardon me. [^1]
 That’s why Luther says most of your Christian life is outside of you, in this sense: that we know that we’re not saved by good works, we’re not saved as a result of our professions, but we’re saved as a result of what Christ has achieved.
 
 
-Listen to the message “The Power and Message of the Cross”
+Listen to the message “The Power and Message of the Cross”  
 <audio controls>
 <source src="tflmedia-new.s3.amazonaws.com/free_downloads/3446-thepowerandmessageofthecross.mp3" type = "audio/mpeg">
 </audio>
