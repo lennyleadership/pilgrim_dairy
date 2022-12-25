@@ -53,8 +53,8 @@ That’s why Luther says most of your Christian life is outside of you, in this 
 
 
 Listen to the message “The Power and Message of the Cross”  
-<audio controls>
-<source src="tflmedia-new.s3.amazonaws.com/free_downloads/3446-thepowerandmessageofthecross.mp3" type = "audio/mpeg">
+<audio controls
+src="https://tflmedia-new.s3.amazonaws.com/free_downloads/3446-thepowerandmessageofthecross.mp3" type = "audio/mpeg">
 </audio>
 
 
