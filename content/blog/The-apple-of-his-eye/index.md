@@ -1,17 +1,65 @@
 ---
-author: Alistar Begg
+author: Lenny Lin
 categories:
-- [The Cross]
-tag: []
-series: [The Cross]
-date: "2022-12-25"
+- [The Apple of God's Eye]
+tag: [The Apple of God's Eye]
+series: [The Apple of God's Eye]
+date: "2022-12-21"
 draft: false
-excerpt: The narrative of the speech
+excerpt: 
 layout: single
 subtitle: 
-title: The Man on the Middle Cross Said I Can Come
+title: The Apple of His Eye
 ---
 
-<iframe width="360" height="200" src="https://www.youtube.com/embed/xk9wgJBoEd8" title="The Man on the Middle Cross Said I Can Come | Alistair Begg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Without the preaching of the cross, without preaching the cross to ourselves all day and every day, we will very, very quickly revert to faith plus works as the ground of our salvation. So that to go to the Old Fort Lauderdale question, if you were to die tonight, and you were getting entry into heaven, what would you say? If you answer that, and if I answer it, in the first person, we have immediately gone wrong. Because I, because I believed, because I have faith, because I am this, because I am continuing. Loved ones the only proper answers in the third person. Because he, because he. Think about the thief on the cross, and went on a mess. I can't wait to find that fellow one day to ask him. How did that shake out for you? Because you are, you are, you are curse the guy out with your friend. You've never been in a Bible study, and never got baptized, you didn't know a thing about church membership. And yet, and yet, you made it. You made it. How did you make it? That is what the angel must say, you know, like, what are you doing here? I don't know. What? What do you mean, you don't know? Well, because I don't know. Well, you know, we did? Excuse me, let me get my supervisor. They go get their supervisor, Ranger. Sir. So we're just a few questions for you. First of all, are you? are you? Are you? Are you clear on the doctrine of justification by faith? Guy said, I never heard of it in my life. And what about? Let's just go to the doctrine of Scripture immediately. Sky's the steering and eventually, in frustration, he says on on what basis are you here? And he said, The man on the middle cross said, I can come. Now. Now, that's the that is the only answer. That is the only answer. And if I don't preach the gospel to myself all day and every day, then I will find myself beginning to trust myself, trust my experience, which is part of my fallenness as a man, if I take my eyes off the cross, I can then give only lip service to its efficacy, while at the same time living as if my salvation depends upon me. And as soon as you go there, it will lead you either to abject despair, or a horrible kind of arrogance. And it is only the cross of Christ that deals both with the dreadful depths of despair, and the pretentious arrogance of the pride of man that says, you know, I can figure this out and I'm doing wonderfully well, no, because the sinless Savior died, my sinful soul is counted free for God that Justice satisfied to look on him. And pardon me. That's why Luther says most of your Christian life is outside of you, in the sense that we know that we're not saved by good works. We're not saved as a result of our professions. But we're saved as a result of what Christ has achieved.
+There are some Bible verses describing God's people as the apple of His eye:  
+
+Strong number: H380: Psalm 17:8, Deuteronomy 32:10   
+
+Strong number: H892: Zechariah 2:8 
+
+
+Deuteronomy ‬32:9-13 NLT  
+9 “For the people of Israel belong to the Lord;   
+Jacob is his special possession.  
+10 He found them in a desert land, in an empty, howling waste land.   
+He surrounded them and watched over them;   
+he guarded them as he would guard his own eyes.  
+11 Like an eagle that rouses her chicks and hovers over her young,   
+so he spread his wings to take them up and carried them safely on his pinions.  
+12 The Lord alone guided them;   
+they followed no foreign gods.  
+13 He let them ride over the highlands and feast on the crops of the fields.   
+He nourished them with honey from the rock and olive oil from the stony ground.  
+
+9 耶和华的份本是他的百姓；  
+他的产业本是雅各。  
+
+10耶和华遇见他在旷野  
+荒凉野兽吼叫之地，  
+就环绕他，看顾他，  
+保护他，如同保护眼中的瞳人。  
+11又如鹰搅动巢窝，  
+在雏鹰以上两翅搧展，  
+接取雏鹰，背在两翼之上。  
+12这样，耶和华独自引导他，  
+并无外邦神与他同在。  
+13耶和华使他乘驾地的高处，  
+得吃田间的土产；  
+又使他从磐石中咂蜜，  
+从坚石中吸油；  
+
+----
+
+There are some Bible verses describing His word as the apple of His eye:  
+
+Strong number: H380: Proverbs 7:2  
+
+‪Proverbs ‬7:2 NLT    
+2 Obey my commands and live!   
+Guard my instructions as you guard your own eyes.  
+
+2遵守我的命令就得存活；  
+保守我的法则（或作“指教”），  
+好像保守眼中的瞳人，  
