@@ -6,7 +6,7 @@ tag: []
 series: [The Cross]
 date: "2022-12-25"
 draft: false
-excerpt: The narrative of the speech
+excerpt: The transcript of the speech
 layout: single
 subtitle: 
 title: The Man on the Middle Cross Said I Can Come
