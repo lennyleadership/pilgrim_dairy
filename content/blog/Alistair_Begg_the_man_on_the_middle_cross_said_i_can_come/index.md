@@ -54,13 +54,13 @@ That’s why Luther says most of your Christian life is outside of you, in this 
 
 
 
-Listen to the message “The Power and Message of the Cross”  
+This clip is from the sermon <a href = "https://www.truthforlife.org/resources/sermon/power-and-message-cross/#transcript" target="_blank" rel="noopener noreferrer">“The Power and Message of the Cross,”</a> which was preached at Baylor University’s inaugural National Preaching Conference in 2019. Listen to the message “The Power and Message of the Cross”  
+
 <audio controls
 src="https://tflmedia-new.s3.amazonaws.com/free_downloads/3446-thepowerandmessageofthecross.mp3" type = "audio/mpeg">
 </audio>
 
 
-<a href = "https://www.truthforlife.org/resources/sermon/power-and-message-cross/#transcript" target="_blank" rel="noopener noreferrer">Watch or read the full message</a>
 
 
 [^1]: Charitie L. Bancroft, “Before the Throne of God Above” (1863).
