@@ -52,6 +52,11 @@ To look on Him and pardon me. [^1]
 That’s why Luther says most of your Christian life is outside of you, in this sense: that we know that we’re not saved by good works, we’re not saved as a result of our professions, but we’re saved as a result of what Christ has achieved.
 
 
+<input type="checkbox" id="switch" class="checkbox" />
+<label for="switch" class="toggle">
+<p>OFF      ON</p>
+</label>  
+
 Listen to the message “The Power and Message of the Cross”  
 <audio controls
 src="https://tflmedia-new.s3.amazonaws.com/free_downloads/3446-thepowerandmessageofthecross.mp3" type = "audio/mpeg">
