@@ -18,10 +18,10 @@ toc: true
 
 <!-- Tab links -->
 <div class="tab">
-  <button class="tablinks active" onclick="tablabel(event, 'english1')">Hymn in English</button>
-  <button class="tablinks" onclick="tablabel(event, 'chinese1')">中文歌</button>
-  <button class="tablinks" onclick="tablabel(event, 'english2')">Story in English</button>
-  <button class="tablinks" onclick="tablabel(event, 'chinese2')">中文故事</button>
+  <button class="tablinks active" onclick="tablabel(event, 'english1')">Hymn</button>
+  <button class="tablinks" onclick="tablabel(event, 'english2')">Story</button>
+  <button class="tablinks" onclick="tablabel(event, 'chinese1')">圣歌</button>
+  <button class="tablinks" onclick="tablabel(event, 'chinese2')">故事</button>
   
 </div>
 
