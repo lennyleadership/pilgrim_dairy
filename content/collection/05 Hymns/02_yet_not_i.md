@@ -178,6 +178,8 @@ When the race is complete,
 still my lips shall repeat  
 不是我，乃是基督在裡面活  
 Yet not I, but through Christ in me  
+
+
 我心堅信，唯耶穌是我盼望  
 To this I hold, my hope is only Jesus  
 全榮耀一切都歸給祂  
@@ -188,6 +190,8 @@ When the race is complete,
 still my lips shall repeat  
 不是我，乃是基督在裡面活  
 Yet not I, but through Christ in me  
+
+
 當跑完所有路  
 When the race is complete,  
 我要唱  
