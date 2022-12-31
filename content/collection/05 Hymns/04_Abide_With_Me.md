@@ -1,13 +1,14 @@
 ---
+weight: 04
+title: Abide with Me
 authors: 
 categories: null
-date: "2021-11-27"
-description: Abide with Me
-draft: false
-lastmod: "2022-02-15"
 series: null
 tags: null
-title: Abide with Me
+description: Abide with Me
+draft: false
+date: "2021-11-27"
+lastmod: "2022-02-15"
 toc: true
 ---
 

@@ -1,5 +1,5 @@
 ---
-weight: 02
+weight: 03
 title: When I survey the wondrous cross
 authors: Isaac Watts
 categories: null
