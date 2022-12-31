@@ -30,7 +30,7 @@ toc: true
 <iframe width="360" height="200" src="https://www.youtube.com/watch?v=8YorYVEixAk" title="Abide With Me by Ahymn aWeek" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-<div id="english1" class="tabcontent" style="display:block">
+<div id="english2" class="tabcontent" style="display:block">
 
 The author of the hymn, Henry Francis Lyte, was an Anglican minister. He was a curate in County Wexford from 1815 to 1818. According to a plaque erected in his memory in Taghmon Church, he preached frequently in Killurin Church, about nine miles from there. During that time the rector of Killurin Parish, the Reverend Abraham Swanne, was a lasting influence on Lyte's life and ministry. Later he was vicar of All Saints' Church in Brixham, Devon, England. For most of his life Lyte suffered from poor health, and he would regularly travel abroad for relief, as was customary at that time.
 

@@ -53,7 +53,12 @@ Demands my soul, my life, my all.
 </div>
 
 
-<div id="chinese1" class="tabcontent" style="display:block">
+<div id="english2" class="tabcontent">
+
+</div>
+
+
+<div id="chinese1" class="tabcontent">
 
 <iframe width="360" height="200" src="https://www.youtube.com/embed/UrfIb1-g_lA" title="北067首 我每静念那十字架" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -99,11 +104,9 @@ Source: <a href = "http://shengmingshige.net/blog/cu-0067" target="_blank" rel="
 </div>
 
 
-<div id="english2" class="tabcontent" style="display:block">
 
-</div>
 
-<div id="chinese2" class="tabcontent" style="display:block">
+<div id="chinese2" class="tabcontent">
 
 我每靜念那十字架，並主如何在上受熬，  
 
@@ -126,41 +129,3 @@ Source: <a href = "http://shengmingshige.net/blog/cu-0067" target="_blank" rel="
 <a href = "http://m.yimaneili.net/gongyu/space.php?uid=7859&do=thread&id=19770" target="_blank" rel="noopener noreferrer"></a>
 
 </div>
-
-
-
-我每静念那十字架
-【第1节】
-
-我每静念那十字架，
-并主如何在上受熬，
-我就不禁浑忘身家，
-鄙视从前所有倨傲。
-
-【第2节】
-
-愿主禁我别有所夸，
-除了基督的十字架；
-前所珍爱虚空荣华，
-今为祂血情愿丢下。
-
-【第3节】
-
-看从祂头！祂脚！祂手！
-忧情、慈爱和血而流！
-那有爱忧如此相遘?
-荆棘编成如此冕旒?
-
-【第4节】
-
-看祂全身满披水血，
-如同穿上朱红衣饰！
-因此，我与世界断绝，
-世界向我也象已死。
-
-【第5节】
-
-假若宇宙都归我手，
-尽以奉主仍觉可羞；
-爱既如此奇妙、深厚，
-当得我心、我命-所有。
