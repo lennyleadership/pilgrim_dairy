@@ -14,7 +14,7 @@ layout: single
 
 The God's will is:  
 
-1) to refine us like pure silver;  
+1) to make us as pure as gold; (Job 23:10, Malachi 3:2-3)   
 
 2) to make us as if a potter makes a vessel out of clay; （Jeremiah 18:1-10, Jeremiah 18-20, Isaiah 64:8-9, 2 Thessalonians 1:11-12)  
 
