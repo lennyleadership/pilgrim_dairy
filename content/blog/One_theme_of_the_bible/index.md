@@ -23,3 +23,5 @@ The God's will is:
 4) to carry our cross and walk with the Lord;  
 
 5) to reach the end of the race and receive the heavenly prize; (Philippians 3:12-14)
+
+6) to have Christ live in me, have Christ live for me; (Galatians 2:20)
