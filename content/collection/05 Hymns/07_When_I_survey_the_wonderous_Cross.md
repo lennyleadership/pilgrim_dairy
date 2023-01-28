@@ -26,6 +26,32 @@ toc: true
 <!-- Tab content -->
 <div id="english1" class="tabcontent" style="display:block">
 
+<iframe width="360" height="200" src="https://www.youtube.com/embed/Tkx8WAycYAc" title="When I Survey The Wondrous Cross - Fernando Ortega" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+1  
+When I survey the wondrous cross  
+on which the Prince of glory died,  
+my richest gain I count but loss,  
+and pour contempt on all my pride.
+
+2   
+Forbid it, Lord, that I should boast  
+save in the death of Christ, my God!  
+All the vain things that charm me most,  
+I sacrifice them through his blood.
+
+3   
+See, from his head, his hands, his feet,  
+sorrow and love flow mingled down.  
+Did e'er such love and sorrow meet,  
+or thorns compose so rich a crown? 
+
+4   
+Were the whole realm of nature mine,  
+that were a present far too small.  
+Love so amazing, so divine,  
+demands my soul, my life, my all.
+
 </div>
 
 <div id="english2" class="tabcontent" style="display:block">
@@ -35,7 +61,7 @@ Isaac Watts based this hymn on the Scriptural reference of Galatians 6:14. “Bu
 
 He was forced to resign a pastorate because of poor health. 
 
-<a href = "https://plymouthbrethren.org/article/10165" target="_blank" rel="noopener noreferrer">[Source | Plymouth Brethren Writings]</a>
+<a href = "https://plymouthbrethren.org/article/10165" target="_blank" rel="noopener noreferrer">Source | Plymouth Brethren Writings</a>
 
 ---
 
@@ -50,7 +76,7 @@ And all the globe is dead to me."
 
 Other alterations have been made to this hymn through the years. For example, line 2 originally read "Young Prince of Glory," but in the second edition of the hymnal, Watts changed it to "When God, the Mighty Maker, died." It has also been "When Christ, the Lord of Glory, died," "When Christ, the Great Redeemer, died," and "When Christ, the Great Creator, died." In the nineteenth century there were numerous collections with extensive alterations to the hymn.
 
-<a href = "https://songsandhymns.org/hymns/detail/when-i-survey-the-wondrous-cross" target="_blank" rel="noopener noreferrer">[Source | Songs & Hymns]</a>
+<a href = "https://songsandhymns.org/hymns/detail/when-i-survey-the-wondrous-cross" target="_blank" rel="noopener noreferrer">Source | Songs & Hymns</a>
 
 ---
 
