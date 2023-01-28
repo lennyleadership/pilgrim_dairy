@@ -14,12 +14,14 @@
 }
   
 .column_left {
+  width: 50%;
   float: left;
   padding: 20px; /* space between two tables*/
   
 }
 
 .column_right {
+  width: 50%;
   float: right;
   padding: 20px; /* space between two tables*/
   
@@ -31,9 +33,10 @@
   clear: both;
   display: table;
 }
-/* end of side-by-side*/
+/* end of side-by-side*****************************************************************************/
 
 
+/***************************************************************************************************/
 figure {
   text-align: left;
   font-style: italic;
@@ -53,6 +56,7 @@ figcaption.bottom {
   display: table-caption;
   caption-side: bottom;
 }
+/***************************************************************************************************/
 
 /* section: Tooltip */
 .hovertip {
@@ -152,7 +156,7 @@ a:active {
   font-size: 1rem;
 }
 
-/* highlight options */
+/* highlight options ********************************************************************************/
 mark.black {
   background-color: black;
   color: white;
@@ -165,7 +169,7 @@ mark.grey {
 mark.lemon {
   background-color: #fffacd;
 }
-/* the end */
+/* the end ****************************************************************************************/
 
 
 .aligncenter {
@@ -224,26 +228,6 @@ audio {
   width: 400px; 
   
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 

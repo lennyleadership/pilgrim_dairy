@@ -29,7 +29,7 @@ toc: true
 <iframe width="360" height="200" src="https://www.youtube.com/embed/Tkx8WAycYAc" title="When I Survey The Wondrous Cross - Fernando Ortega" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 
-<video controls="" autoplay="" name="media"><source src="https://content.swncdn.com/godtube/2008/03/17/30821.mp4" type="video/mp4"></video>
+<video width="360" height="200" controls="" autoplay="" name="media"><source src="https://content.swncdn.com/godtube/2008/03/17/30821.mp4" type="video/mp4"></video>
 
 1  
 When I survey the wondrous cross  
