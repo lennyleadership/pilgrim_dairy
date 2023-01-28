@@ -31,21 +31,27 @@ toc: true
 
 <iframe width="360" height="200" src="https://www.youtube.com/embed/6A4cVYkYdTk" title="When I Survey the Wondrous Cross (Metropolitan Tabernacle)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+<iframe width="360" height="200" src="https://www.youtube.com/embed/Tkx8WAycYAc" title="When I Survey The Wondrous Cross - Fernando Ortega" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+1  
 When I survey the wondrous cross  
 On which the Prince of glory died,  
 My richest gain I count but loss,  
 And pour contempt on all my pride.  
 
+2  
 Forbid it, Lord, that I should boast,  
 Save in the death of Christ my God:  
 All the vain things that charm me most,  
 I sacrifice them to His blood.  
 
+3  
 See from His head, His hands, His feet,  
 Sorrow and love flow mingling down:  
 Did e’er such love and sorrow meet  
 Or thorns compose so rich a crown?  
 
+4  
 Were the whole realm of nature mine,  
 That were an offering far too small,  
 Love so amazing, so divine,  
