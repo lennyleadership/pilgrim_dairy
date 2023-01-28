@@ -57,44 +57,42 @@ demands my soul, my life, my all.
 
 </div>
 
-<div id="english2" class="tabcontent" style="display:block">
+<div id="english2" class="tabcontent">
+
 This is a deeply solemn hymn.
 
-Isaac Watts based this hymn on the Scriptural reference of Galatians 6:14. “But God forbid that I should glory, save in the cross of our Lord Jesus Christ, by whom the world is crucified unto me, and I unto the world.” 
-
-He was forced to resign a pastorate because of poor health. 
-
-<a href = "https://plymouthbrethren.org/article/10165" target="_blank" rel="noopener noreferrer">Source | Plymouth Brethren Writings</a>
 
 ---
+# Interpretation
+This hymn is particularly powerful because it includes many poetic devices. For example, oxymoron is found twice in the first stanza: “my richest gain I count but loss” and “pour contempt on all my pride.” The third stanza contains a paradox in a crown of thorns, and there are two rhetorical questions in the second half of this stanza: “Did e’er such love and sorrow met, or thorns compose so rich a crown?” The piece ends with a climax, “Demands my soul, my life, my all.” 
 
-Isaac Watts wrote "When I Survey the Wondrous Cross" in preparation for a communion service in 1707. Originally, the hymn was named "Crucifixion to the World by the Cross of Christ," following the practice of the day to summarize a hymn's theme in the title. It was first published in 1707 in Watt's collection Hymns and Spiritual Songs.
+<a href = "https://www.umcdiscipleship.org/resources/history-of-hymns-when-i-survey-the-wondrous-cross" target="_blank" rel="noopener noreferrer">Source | The United Methodist Church Discipleship Ministries | History of Hymns: “When I Survey the Wondrous Cross”</a>
+
+# Background
+Prolific hymn writer Isaac Watts wrote "When I Survey the Wondrous Cross" in preparation for a communion service in 1707. Originally, the hymn was named "Crucifixion to the World by the Cross of Christ," following the practice of the day to summarize a hymn's theme in the title. He based this hymn on the Scriptural reference of Galatians 6:14. “But God forbid that I should glory, save in the cross of our Lord Jesus Christ, by whom the world is crucified unto me, and I unto the world.” 
 
 Watts wrote five stanzas for the original version of "When I Survey the Wondrous Cross." However, he put his fourth stanza in brackets, indicating it was the most likely one to be left out, if need be:
 
-"His dying crimson, like a robe,
-Spreads o'er His body on the tree:
-Then am I dead to all the globe,
-And all the globe is dead to me."
+"His dying crimson, like a robe,  
+Spreads o'er His body on the tree:  
+Then am I dead to all the globe,  
+And all the globe is dead to me."  
 
-Other alterations have been made to this hymn through the years. For example, line 2 originally read "Young Prince of Glory," but in the second edition of the hymnal, Watts changed it to "When God, the Mighty Maker, died." It has also been "When Christ, the Lord of Glory, died," "When Christ, the Great Redeemer, died," and "When Christ, the Great Creator, died." In the nineteenth century there were numerous collections with extensive alterations to the hymn.
+Other alterations have been made to this hymn through the years. For example, line 2 originally read "Young Prince of Glory," but in the second edition of the hymnal, Watts changed it to "When God, the Mighty Maker, died." It has also been "When Christ, the Lord of Glory, died," "When Christ, the Great Redeemer, died," and "When Christ, the Great Creator, died." In the nineteenth century there were numerous collections with extensive alterations to the hymn.  
+
+It was first published in 1707 in Watt's collection Hymns and Spiritual Songs.  The music that is most often used with this hymn was composed by Lowell Mason. Isaac Watts is credited with writing over 750 hymns in his lifetime and is referred to as the “Father of English Hymnody.”
 
 <a href = "https://songsandhymns.org/hymns/detail/when-i-survey-the-wondrous-cross" target="_blank" rel="noopener noreferrer">Source | Songs & Hymns</a>
+<a href = "https://plymouthbrethren.org/article/10165" target="_blank" rel="noopener noreferrer">Source | Plymouth Brethren Writings</a>
 
----
 
-Prolific hymn writer Isaac Watts wrote the lyrics for “When I Survey the Wondrous Cross.” He is credited with writing over 750 hymns in his lifetime and is referred to as the “Father of English Hymnody.”
 
-Watts was born in Southampton, England, in 1674 and was brought up in a Nonconformist home, which was the term used to describe a Protestant Christian who did not conform with the Church of England. After receiving his education from Dissenting Academy at Stoke Newington, he spent two years at home, where most of his hymns were written. “When I Survey the Wondrous Cross” was published in 1707 in a collection called Hymns and Spiritual Songs. The music that is most often used with this hymn was composed by Lowell Mason.
+# Life
+Isaac Watts was born in Southampton, England, in 1674 and was brought up in a Nonconformist home, which was the term used to describe a Protestant Christian who did not conform with the Church of England. After receiving his education from Dissenting Academy at Stoke Newington, he spent two years at home, where most of his hymns were written.
 
+He was forced to resign a pastorate because of poor health. 
 <a href = "https://www.thetabernaclechoir.org/articles/when-i-survey-the-wondrous-cross.html#:~:text=%E2%80%9CWhen%20I%20Survey%20the%20Wondrous%20Cross%E2%80%9D%20was%20published%20in%201707,an%20Independent%20congregation%20in%20London." target="_blank" rel="noopener noreferrer">Source | The Tabernacle Choir Blog</a>
 
----
-This hymn is particularly powerful because it includes many poetic devices. For example, oxymoron is found twice in the first stanza: “my richest gain I count but loss” and “pour contempt on all my pride.” The third stanza contains a paradox in a crown of thorns, and there are two rhetorical questions in the second half of this stanza: “Did e’er such love and sorrow met, or thorns compose so rich a crown?” The piece ends with a climax, “Demands my soul, my life, my all.”
-
-The theology of this hymn functions powerfully in the context of a worship service. Adey continues: “About to receive the Sacrament, the poet meditates upon the love that turned that instrument of judicial torture and death into the channel of divine compassion.”
-
-<a href = "https://www.umcdiscipleship.org/resources/history-of-hymns-when-i-survey-the-wondrous-cross" target="_blank" rel="noopener noreferrer">Source | The United Methodist Church Discipleship Ministries | History of Hymns: “When I Survey the Wondrous Cross”</a>
 
 ---
 
