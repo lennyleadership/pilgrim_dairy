@@ -9,7 +9,7 @@ draft: false
 excerpt: 
 layout: single
 subtitle: 
-title: The Purpose Driven Life: What on Earth Am I Here For?
+title: "The Purpose Driven Life: What on Earth Am I Here For?"
 ---
 
 <!-- Tab links -->
