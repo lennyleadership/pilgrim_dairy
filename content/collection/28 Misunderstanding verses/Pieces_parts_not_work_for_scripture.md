@@ -3,7 +3,7 @@ weight: 11
 title: "Pieces Parts Doesn't Work for Scripture"
 authors: Gail Burton Purath
 categories: null
-tags: null
+tags: [Misunderstanding verses]
 description: 
 draft: false
 date: "2022-12-02"
