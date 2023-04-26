@@ -18,12 +18,16 @@ show_button_links: false
 show_post_date: true
 show_post_thumbnail: true
 sidebar:
+  title:
   author:
   description: ""
+  categories_link: true
+  series_link: true
+  tags_link: true
   show_sidebar_adunit: true
   text_link_label: 
   text_link_url: /index.xml
-  title:
+
 thumbnail_left: true
 title: Notes
 ---
