@@ -2,7 +2,7 @@
 author: Lenny Lin
 categories:
 - [The Apple of God's Eye]
-tag: [The Apple of God's Eye]
+tags: [The Apple of God's Eye]
 series: [The Apple of God's Eye]
 date: "2022-12-21"
 draft: false
