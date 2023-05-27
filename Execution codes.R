@@ -17,6 +17,16 @@ blogdown::find_hugo()
 
 
 #----
+# Steps to build a new website:
+# Create a new repository at github.com.
+# Copy the html link st github.com.
+# Create a new project at RStudio.
+# Select version control.
+# Paste the html link.
+# Give the name of the project.
+# run blogdown::new_site(theme = "hugo-apero/hugo-apero") in Console.
+
+#----
 # Steps to rebuild the website.
 # Step #1: Back up the folder 'content'.
 # Step #2: Delete the damaged repository at Github

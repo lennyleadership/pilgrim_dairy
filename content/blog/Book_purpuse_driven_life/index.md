@@ -12,6 +12,11 @@ subtitle:
 title: "The Purpose Driven Life: What on Earth Am I Here For?"
 ---
 
+<button type="button" class="collapsible">Collapsible Demo [not working right now]</button>
+<div class="content">
+  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+</div>
+
 <!-- Tab links -->
 <div class="tab">
   <button class="tablinks active" onclick="tablabel(event, 'chinese')">中文</button>
