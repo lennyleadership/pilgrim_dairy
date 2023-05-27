@@ -2,7 +2,7 @@
 author: Lenny Lin
 categories:
 - [Opinion-category]
-tag: [Opinion-tag]
+tag: [Opinion-tag, Collapsible Demo]
 series: [Opinion-series]
 date: "2023-04-19"
 draft: false
