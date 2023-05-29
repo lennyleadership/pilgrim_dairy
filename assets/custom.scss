@@ -364,7 +364,7 @@ label.margin-toggle:not(.sidenote-number) {
   margin-left: 5px;
 }
 
-.collapsible:after {
+.collapsible:active:after {
   content: "\2716"; /* Unicode character for "Heavy multiplication X" sign (X) */
   font-size: 13px;
   color: white;
