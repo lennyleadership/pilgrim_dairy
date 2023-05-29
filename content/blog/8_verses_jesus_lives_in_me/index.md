@@ -1,4 +1,16 @@
-
+---
+title: 8 Verses that Show Jesus Christ Lives in You
+author: Lenny Lin
+categories:
+- []
+tags: ["Christ Lives in Me"]
+series: []
+date: "2022-12-21"
+draft: false
+excerpt: 
+layout: single
+subtitle: 
+---
 
 In 2 Corinthians 13:5, the apostle Paul asks the Corinthian believers a question: “Or do you not realize about yourselves that **Jesus Christ is in you**?”
 
