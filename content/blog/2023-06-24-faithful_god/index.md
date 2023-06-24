@@ -29,4 +29,9 @@ title: "The Faithful God"
 <li>“The Lord isn’t really being slow about his promise, as some people think. No, he is being patient for your sake. He does not want anyone to be destroyed, but wants everyone to repent.”(NLT) (see 2 Peter 3:9 ESV)</li>
 <li>“Understand, therefore, that the Lord your God is indeed God. He is the faithful God who keeps his covenant for a thousand generations and lavishes his unfailing love on those who love him and obey his commands.”(NLT) (see Deuteronomy 7:9 ESV)</li> 
 </ol>
-https://jesus.net/miracle/15-verses-about-gods-faithfulness/
+
+<a href = "https://jesus.net/miracle/15-verses-about-gods-faithfulness/" target="_blank" rel="noopener noreferrer">jesus.net | 15 Verses about God's Faithfulness</a>
+
+<style>
+body{width: 110%;}
+</style>
