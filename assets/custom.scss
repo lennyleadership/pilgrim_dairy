@@ -2,7 +2,7 @@
 
 
 
-/* image and text side-by-side *********************************************************************/
+/* image and text side-by-side *////////////////////////////////////////////////////////////////////
 * {
   box-sizing: border-box;
 }
@@ -58,7 +58,8 @@ figcaption.bottom {
 }
 /***************************************************************************************************/
 
-/* section: Tooltip */
+
+/* section: Tooltip *///////////////////////////////////////////////////////////////////////////////
 .hovertip {
   position: relative;
   border-bottom: 1px dotted black;
@@ -106,14 +107,14 @@ figcaption.bottom {
 /* Section end*/
 
 
-/* set the figure caption with the same wide of figure*/
+/* set the figure caption with the same wide of figure*/////////////////////////////////////////////
 .caption_display {
    display: inline-block;
 }
 /* the end */
 
 
-/*color style of hyperlink*/
+/*color style of hyperlink*/////////////////////////////////////////////////////////////////////////
 a:link {
   color: darkred;
   background-color: transparent;
@@ -156,7 +157,7 @@ a:active {
   font-size: 1rem;
 }
 
-/* highlight options ********************************************************************************/
+/* highlight options *//////////////////////////////////////////////////////////////////////////////
 mark.black {
   background-color: black;
   color: white;
@@ -182,7 +183,7 @@ u.red{
 
 
 
-/*below is tab css*/
+/*below is tab css*/////////////////////////////////////////////////////////////////////////////////
 
 /* Style the tab */
 .tab {
@@ -233,9 +234,7 @@ audio {
 
 
 
-
-
-/*below is the tufte style */
+/*below is the tufte style *////////////////////////////////////////////////////////////////////////
 
 .sidenote,
 .marginnote {

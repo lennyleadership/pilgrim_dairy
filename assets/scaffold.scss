@@ -57,6 +57,7 @@ $font-path: '{{ "fonts" | relURL }}';
 body {
   @extend .bg-#{$siteBgColor}, .#{$textFontFamily}, .#{$textColor};
 }
+
 h1, h2, h3, h4, h5, h6 {
   @extend .#{$headingFontFamily}, .#{$headingColor};
 }

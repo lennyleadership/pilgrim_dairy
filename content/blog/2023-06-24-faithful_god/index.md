@@ -33,5 +33,5 @@ title: "The Faithful God"
 <a href = "https://jesus.net/miracle/15-verses-about-gods-faithfulness/" target="_blank" rel="noopener noreferrer">jesus.net | 15 Verses about God's Faithfulness</a>
 
 <style>
-body{width: 110%;}
+body{width: 100%;}
 </style>
