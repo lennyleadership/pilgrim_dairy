@@ -47,3 +47,7 @@ Jn 14:2-3 See also Mt 16:27; Mt 26:64; Jn 14:28
 <h1>Jesus Christ is faithful to believers in all circumstances</h1>
 
 2Ti 2:13 See also Mt 18:20; Mt 28:20; Jn 17:9; Ac 18:9-10; 2Th 3:3; Heb 10:23
+
+Reference:
+
+<a href = "https://www.biblegateway.com/resources/dictionary-of-bible-themes/2021-Jesus-Christ-faithfulness" target="_blank" rel="noopener noreferrer">biblegateway | 2021 Jesus Christ Faithfulness</a>
