@@ -9,7 +9,7 @@ draft: false
 excerpt: 
 layout: single
 subtitle: 
-title: "The Faithful Jesus"
+title: "Jesus, The Faithful God"
 ---
 
 2021 Jesus Christ, faithfulness of
