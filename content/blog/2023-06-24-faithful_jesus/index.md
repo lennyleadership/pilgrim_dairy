@@ -16,6 +16,8 @@ title: "Jesus, The Faithful God"
 
 The total reliability and constancy of Jesus Christ is shown in his personal character, and made known by his words and works.
 
+
+
 <h1>Jesus Christ’s faithfulness is seen in his character</h1>
 
 <b>He is faithful by nature</b> Rev 19:11 <i>A description of the exalted Christ</i>. See also Rev 1:5; Rev 3:14  
@@ -41,6 +43,8 @@ Moment examples:
 <li>The report of Jesus power spread around (Lk 4:37) and faster. When people saught Jesus' healing, Jesus withdraw to the wilderness and pray. (Lk 5:12-16)</li>
 <li>Jesus gave life to Jairus' daughter, and yet Jesus instructed them to tell no one what had happened. (Lk 8:49-56)</li>
 </ol>
+
+
 
 <h1>Jesus Christ’s faithfulness is seen in his words</h1>
 
