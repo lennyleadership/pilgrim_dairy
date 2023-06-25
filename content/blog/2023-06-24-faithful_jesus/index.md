@@ -25,8 +25,8 @@ The total reliability and constancy of Jesus Christ is shown in his personal cha
 <b>Jesus Christ is faithful because he never changes</b> Heb 13:8 See also Heb 1:11-12; Ps 102:26-27
 
 <b>Jesus Christ is faithful because he is the truth</b> Jn 1:14 “grace” and “truth” are often associated in Hebrew with love and faithfulness. See also Jn 1:17; Jn 14:6
-J
-<h1>esus Christ’s faithfulness demonstrated in his obedience</h1>
+
+<h1>Jesus Christ’s faithfulness demonstrated in his obedience</h1>
 
 <b>He is faithful to his Father</b> Heb 3:6 See also Lk 2:49; Jn 5:30; Jn 6:38; Jn 8:29; Jn 14:31; Heb 3:2
 
