@@ -26,11 +26,21 @@ The total reliability and constancy of Jesus Christ is shown in his personal cha
 
 <b>Jesus Christ is faithful because he is the truth</b> Jn 1:14 “grace” and “truth” are often associated in Hebrew with love and faithfulness. See also Jn 1:17; Jn 14:6
 
+
+
 <h1><span class = "overline">Jesus Christ’s faithfulness demonstrated in his obedience</span></h1>
 
 <b>He is faithful to his Father</b> Heb 3:6 See also Lk 2:49; Jn 5:30; Jn 6:38; Jn 8:29; Jn 14:31; Heb 3:2
 
 <b>He kept faithfully to his work</b> Lk 4:43 pp Mk 1:38 See also Jn 4:34; Jn 9:4; Jn 12:27; Jn 17:4; Jn 19:30; Heb 2:17-18
+
+This generation saught for a sign, but Jesus directed them to the forgiveness of sin. He said no sign will be given to you except the sign of Jonah.(Lk 11:29-32)
+
+Moment examples:  
+<ol>
+<li>The report of Jesus power spread around (Lk 4:37) and faster. When people saught Jesus' healing, Jesus withdraw to the wilderness and pray. (Lk 5:12-16)</li>
+<li>Jesus gave life to a daughter of the synagogue official, and yet Jesus instructed them to tell no one what had happened. (Lk 8:49-56)</li>
+</ol>
 
 <h1><span class = "overline">Jesus Christ’s faithfulness is seen in his words</span></h1>
 
@@ -53,6 +63,8 @@ Jn 21:18-19
 <b>In his promise of authority for believers</b> Mt 17:20 See also Mt 16:19; Mt 18:18; Mt 21:21 pp Mk 11:23; Mt 28:18-19; Lk 10:19
 
 <b>In his promise about the Holy Spirit</b> Jn 14:26 See also Lk 24:49; Jn 14:16; Jn 15:26; Jn 16:7; Ac 1:4,8; Ac 2:38-39; Ac 10:44-46; Ro 5:5; 1Co 12:7
+
+
 
 <h1><span class = "overline">Jesus Christ’s promises about the future are faithful</span></h1>
 
