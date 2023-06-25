@@ -9,7 +9,7 @@ draft: false
 excerpt: 
 layout: single
 subtitle: 
-title: "The Faithful God"
+title: "15 Verses about God’s Faithfulness"
 ---
 
 <ol>
