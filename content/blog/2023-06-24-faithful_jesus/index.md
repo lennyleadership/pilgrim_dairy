@@ -2,7 +2,7 @@
 author: Lenny Lin
 categories:
 - []
-tag: [Faithful Jesus]
+tag: [Faithfulness, Jesus qualities]
 series: []
 date: "2023-06-24"
 draft: false
