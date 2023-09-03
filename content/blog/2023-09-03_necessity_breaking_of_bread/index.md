@@ -34,9 +34,9 @@ So, what does this have to do with the Lord’s Supper? Jesus made clear that un
 
 However there is also a progressive dimension to our salvation. We are to grow daily in the grace and knowledge of Jesus Christ. We, however, battle indwelling sin every day of our lives, and we therefore constantly fall short of all that God requires of us. The preaching of God’s word is to reprove (convince or persuade them of the truth in the sermon), rebuke (show them where they are wrong), and to exhort (to move them to specific action, based on the sermon they are hearing). See 2 Timothy 4:1-5.
 
-So, what did you do the day God showed you your sin in your unconverted state? You repented and ran to Jesus for His new heart in regeneration, the cleansing of your sin, and the gift of the Holy Spirit who gave you power to live in holiness. That was a definitive action.
+So, <b>what did you do</b><sup>(1)</sup> the day God showed you your sin in your unconverted state? You repented and ran to Jesus for His new heart in regeneration, the cleansing of your sin, and the gift of the Holy Spirit who gave you power to live in holiness. That was a definitive action.
 
-But you sin daily, and the preaching of God’s word is to bring the sharp knife of conviction into your heart, mind, emotions, and will. So, what shall you do when the Spirit reveals your sin to you on Sunday morning? You should go to Jesus in the Lord’s Supper, asking him not only to cleanse you but also to feed you with his body and blood, so that you might have his holiness for further sanctification.
+But you sin daily, and the preaching of God’s word is to bring the sharp knife of conviction into your heart, mind, emotions, and will. So, <b>what shall you do</b><sup>(2)</sup> when the Spirit reveals your sin to you on Sunday morning? You should go to Jesus in the Lord’s Supper, asking him not only to cleanse you but also to feed you with his body and blood, so that you might have his holiness for further sanctification.
 
 On Sunday morning, you must go to Jesus in the Lord’s Supper for cleansing and power. But on Monday morning and every subsequent day of the week, you are unable to go to Jesus in the Supper so you go to him in your personal times of prayer as you read God’s word.
 
