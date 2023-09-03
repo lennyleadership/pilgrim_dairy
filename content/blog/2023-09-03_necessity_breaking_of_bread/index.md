@@ -1,5 +1,5 @@
 ---
-author: Lenny Lin
+author: Al Baker
 categories:
 - [Breaking of Bread]
 tag: [Banner of Truth]
