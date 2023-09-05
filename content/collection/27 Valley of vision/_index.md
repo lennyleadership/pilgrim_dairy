@@ -1,8 +1,8 @@
 ---
 weight: 99
-title: 
-authors:
-categories: null
+title: Valley of Vision
+authors: Banner of Truth
+categories: Devotional
 description: 
 draft: false
 date: "2023-09-05"

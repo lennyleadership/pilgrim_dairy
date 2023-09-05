@@ -1,8 +1,8 @@
 ---
 weight:
 title: 
-authors: 
-categories: null
+authors: Banner of Truth
+categories: [Devotional]
 tags: null
 description: 
 draft: false
