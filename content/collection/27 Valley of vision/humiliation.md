@@ -15,42 +15,42 @@ toc: true
 <!--more-->
 
 SOVEREIGN LORD,
-When clouds of darkness, atheism, and
-unbelief come to me,
-I see thy purpose of love
-in withdrawing the Spirit that I might prize him more,
-in chastening me for my confidence in
-past successes, that my wound of secret
-godlessness might be cured.
-Help me to humble myself before thee
-by seeing the vanity of honour
-as a conceit of men’s minds,
-as standing between me and thee;
-by seeing that thy will must alone be done,
-as much in denying as in giving spiritual enjoyments;
-by seeing that my heart is nothing but evil,
-mind, mouth, life void of thee;
-by seeing that sin and Satan are allowed power
-in me that I might know my sin, be humbled,
-and gain strength thereby;
-by seeing that unbelief shuts thee from me,
-so that I sense not thy majesty, power, mercy, or love.
-Then possess me, for thou only art good and worthy.
+<br>When clouds of darkness, atheism, and
+<br>unbelief come to me,
+<br>I see thy purpose of love
+<br>in withdrawing the Spirit that I might prize him more,
+<br>in chastening me for my confidence in
+<br>past successes, that my wound of secret
+<br>godlessness might be cured.
+<br>Help me to humble myself before thee
+<br>by seeing the vanity of honour
+<br>as a conceit of men’s minds,
+<br>as standing between me and thee;
+<br>by seeing that thy will must alone be done,
+<br>as much in denying as in giving spiritual enjoyments;
+<br>by seeing that my heart is nothing but evil,
+<br>mind, mouth, life void of thee;
+<br>by seeing that sin and Satan are allowed power
+<br>in me that I might know my sin, be humbled,
+<br>and gain strength thereby;
+<br>by seeing that unbelief shuts thee from me,
+<br>so that I sense not thy majesty, power, mercy, or love.
+<br>Then possess me, for thou only art good and worthy.
 
 Thou dost not play in convincing me of sin,
-Satan did not play in tempting me to it,
-I do not play when I sink in deep mire,
-for sin is no game, no toy, no bauble;
-Let me never forget that the heinousness of sin lies
-not so much in the nature of the sin committed,
-as in the greatness of the Person sinned against.
-When I am afraid of evils to come, comfort me,
-by showing me
-that in myself I am a dying, condemned wretch,
-but that in Christ I am reconciled, made alive,
-and satisfied;
-that I am feeble and unable to do any good,
-but that in him I can do all things;
-that what I now have in Christ is mine in part,
-but shortly I shall have it perfectly in heaven.
+<br>Satan did not play in tempting me to it,
+<br>I do not play when I sink in deep mire,
+<br>for sin is no game, no toy, no bauble;
+<br>Let me never forget that the heinousness of sin lies
+<br>not so much in the nature of the sin committed,
+<br>as in the greatness of the Person sinned against.
+<br>When I am afraid of evils to come, comfort me,
+<br>by showing me
+<br>that in myself I am a dying, condemned wretch,
+<br>but that in Christ I am reconciled, made alive,
+<br>and satisfied;
+<br>that I am feeble and unable to do any good,
+<br>but that in him I can do all things;
+<br>that what I now have in Christ is mine in part,
+<br>but shortly I shall have it perfectly in heaven.
 
