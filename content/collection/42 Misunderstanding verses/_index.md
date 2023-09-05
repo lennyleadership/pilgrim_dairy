@@ -1,5 +1,5 @@
 ---
-weight: 28
+weight: 42
 title: Misunderstanding Bible Verses
 authors:
 categories: null
