@@ -20,8 +20,8 @@ SOVEREIGN LORD,
 <br>I see thy purpose of love
 <br>&emsp;in withdrawing the Spirit that I might prize him more,
 <br>&emsp;in chastening me for my confidence in
-<br>&emsp;&emsp;past successes, that my wound of secret
-<br>&emsp;&emsp;godlessness might be cured.
+<br>&emsp;past successes, that my wound of secret
+<br>&emsp;godlessness might be cured.
 
 <br><b>Help me to humble myself before thee
 <br>by seeing the vanity of honour
@@ -31,12 +31,12 @@ SOVEREIGN LORD,
 <br>&emsp;as much in denying as in giving spiritual enjoyments;
 <br>by seeing that my heart is nothing but evil,
 <br>&emsp;mind, mouth, life void of thee;
-<br>;by seeing that sin and Satan are allowed power
+<br>by seeing that sin and Satan are allowed power
 <br>&emsp;in me that I might know my sin, be humbled,
 <br>&emsp;and gain strength thereby;
 <br>by seeing that unbelief shuts thee from me,
 <br>&emsp;so that I sense not thy majesty, power, mercy, or love.
-<br>T&emsp;hen possess me, for thou only art good and worthy.
+<br>&emsp;Then possess me, for thou only art good and worthy.
 
 Thou dost not play in convincing me of sin,
 <br>Satan did not play in tempting me to it,
