@@ -50,7 +50,7 @@ Thou dost not play in convincing me of sin,
 <br>&emsp;comfort me by showing me
 <br>&emsp;that in myself I am a dying, condemned wretch, 
 <br>&emsp;but that in Christ I am reconciled, made alive, and satisfied;
-<br>&emsp;that I am feeble and unable to do any good,
+<br>&emsp;that (in myself) I am feeble and unable to do any good,
 <br>&emsp;but that in him I can do all things;
 <br>&emsp;that what I now have in Christ is mine in part,
 <br>&emsp;but shortly I shall have it perfectly in heaven.
