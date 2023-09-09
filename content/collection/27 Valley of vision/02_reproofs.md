@@ -42,7 +42,7 @@ O MERCIFUL GOD,
 <br><b>How do poor souls live who have not thee,
 <br>&emsp;  or when helpless have no God to go to,
 <br>&emsp;  who feel not the constraining force of thy love,
-<br>&emsp;  and the sweetness of communion?</b><label for="text content" class="margin-toggle sidenote-number"></label><span class="sidenote">fruit for thoughts in the breaking of bread</span>
+<br>&emsp;  and the sweetness of communion<label for="text content" class="margin-toggle sidenote-number"></label><span class="sidenote">fruit for thoughts in the breaking of bread</span>?</b>
 <br>O how admirably dost thou captivate the soul,
 <br>&emsp;  making all desires and affections centre on thee!
 <br>Give me such vivacity in religion,
