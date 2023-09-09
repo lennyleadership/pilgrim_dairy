@@ -56,8 +56,3 @@ Thou dost not play in convincing me of sin,
 
 Source: <a href = "https://banneroftruth.org/us/devotional/humiliation/" target="_blank" rel="noopener noreferrer">Banner of Truth | Humiliation</a>
 
-<style>
-body {
-    width: 100%;
-}
-</style>
