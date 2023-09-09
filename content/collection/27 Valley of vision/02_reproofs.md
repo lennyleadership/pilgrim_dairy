@@ -33,16 +33,16 @@ O MERCIFUL GOD,
 <br>&emsp;  and make them beneficial to my soul.
 <br>May all thy people know how little, mean, and vile I am,
 <br>&emsp;  that they may see I am nothing, less than nothing,
-<br>&emsp;  to be accounted nothing,
+<br>&emsp;&emsp;  to be accounted nothing,
 <br>&emsp;  that so they may pray for me aright,
-<br>&emsp;  and have not the least dependence upon me.
+<br>&emsp;&emsp;  and have not the least dependence upon me.
 <br>It is sweet to be nothing and have nothing,
 <br>&emsp;  and to be fed with crumbs from thy hands.
 <br>Blessed be thy Name for anything that life brings.
-<br>How do poor souls live who have not thee,
+<br><b>How do poor souls live who have not thee,
 <br>&emsp;  or when helpless have no God to go to,
 <br>&emsp;  who feel not the constraining force of thy love,
-<br>&emsp;  and the sweetness of communion?
+<br>&emsp;  and the sweetness of communion?</b><label for="text content" class="margin-toggle sidenote-number"></label><span class="sidenote">fruit for thoughts in the breaking of bread</span>
 <br>O how admirably dost thou captivate the soul,
 <br>&emsp;  making all desires and affections centre on thee!
 <br>Give me such vivacity in religion,
