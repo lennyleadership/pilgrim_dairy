@@ -280,6 +280,7 @@ body {
 .sidenote-number:after {
     content: counter(sidenote-counter);
     font-size: .8rem;/*define the numbering index in the body*/
+    color: #2b8cc4;
     top: -0.5rem;
     left: 0.3rem;
 }
@@ -289,6 +290,7 @@ body {
     content: counter(sidenote-counter) " ";
     font-size: .8rem;
     font-style: italic; /* define the numbering index in the sidenote*/
+    color: #2b8cc4;
     top: -0.5rem;
 }
 
