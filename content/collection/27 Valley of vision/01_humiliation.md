@@ -41,18 +41,19 @@ SOVEREIGN LORD,
 
 Thou dost not play in convincing me of sin,
 <br>Satan did not play in tempting me to it,
-<br>I do not play when I sink in deep mire,
-<br>for sin is no game, no toy, no bauble;
+<br>&emsp;I do not play when I sink in deep mire,
+<br>&emsp;for sin is no game, no toy, no bauble;
 <br>Let me never forget that the heinousness of sin lies
-<br>not so much in the nature of the sin committed,
-<br>as in the greatness of the Person sinned against.
+<br>&emsp;not so much in the nature of the sin committed,
+<br>&emsp;as in the greatness of the Person sinned against.
 <br>When I am afraid of evils to come, 
-<br>comfort me by showing me
-<br>that in myself I am a dying, condemned wretch, but that in Christ I am reconciled, made alive, and satisfied;
-<br>that I am feeble and unable to do any good,
-<br>but that in him I can do all things;
-<br>that what I now have in Christ is mine in part,
-<br>but shortly I shall have it perfectly in heaven.
+<br>&emsp;comfort me by showing me
+<br>&emsp;that in myself I am a dying, condemned wretch, 
+<br>&emsp;but that in Christ I am reconciled, made alive, and satisfied;
+<br>&emsp;that I am feeble and unable to do any good,
+<br>&emsp;but that in him I can do all things;
+<br>&emsp;that what I now have in Christ is mine in part,
+<br>&emsp;but shortly I shall have it perfectly in heaven.
 
 Source: <a href = "https://banneroftruth.org/us/devotional/humiliation/" target="_blank" rel="noopener noreferrer">Banner of Truth | Humiliation</a>
 
