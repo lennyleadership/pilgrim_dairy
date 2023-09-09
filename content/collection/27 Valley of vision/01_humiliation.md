@@ -46,11 +46,9 @@ Thou dost not play in convincing me of sin,
 <br>Let me never forget that the heinousness of sin lies
 <br>not so much in the nature of the sin committed,
 <br>as in the greatness of the Person sinned against.
-<br>When I am afraid of evils to come, comfort me,
-<br>by showing me
-<br>that in myself I am a dying, condemned wretch,
-<br>but that in Christ I am reconciled, made alive,
-<br>and satisfied;
+<br>When I am afraid of evils to come, 
+<br>comfort me by showing me
+<br>that in myself I am a dying, condemned wretch, but that in Christ I am reconciled, made alive, and satisfied;
 <br>that I am feeble and unable to do any good,
 <br>but that in him I can do all things;
 <br>that what I now have in Christ is mine in part,
