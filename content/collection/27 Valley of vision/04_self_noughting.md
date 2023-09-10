@@ -18,7 +18,7 @@ toc: true
 
 O LORD,
 
-<span class = "mark.grey">Help me to approach thee</span>
+<a class = "mark.grey">Help me to approach thee</a>
 <br>&emsp;  with becoming conception of thy nature, relations and designs.
 <br>Thou inhabitest eternity, and my life is nothing before thee;
 <br>Thou dwellest in the highest heaven and
