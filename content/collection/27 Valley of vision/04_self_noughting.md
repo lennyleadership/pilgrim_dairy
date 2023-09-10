@@ -18,7 +18,7 @@ toc: true
 
 O LORD,
 
-<u class = "red">Help me to approach thee</u>
+<mark class = "lemon">Help me to approach thee</mark>
 <br>&emsp;  with becoming conception of thy nature, relations and designs.
 <br>Thou inhabitest eternity, and my life is nothing before thee;
 <br>Thou dwellest in the highest heaven and
