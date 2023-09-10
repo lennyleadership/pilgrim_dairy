@@ -18,7 +18,7 @@ toc: true
 
 O LORD,
 
-<mark class = "lemon">Help me to approach thee</mark>
+<u class = "red">Help me to approach thee</u>
 <br>&emsp;  with becoming conception of thy nature, relations and designs.
 <br>Thou inhabitest eternity, and my life is nothing before thee;
 <br>Thou dwellest in the highest heaven and
@@ -38,13 +38,13 @@ O LORD,
 <br>Grant that I may never trust my heart,
 <br>&emsp;  depend upon any past experiences,
 <br>&emsp;  magnify any present resolutions,
-<br>&emsp;  but be strong in the grace of Jesus:
+<br>&emsp;  but <u class = "red">be strong in the grace of Jesus</u>:
 <br>&emsp;  that I may know how to obtain relief from a guilty conscience
 <br>&emsp;  without feeling reconciled to my imperfections.
 <br>Sustain me under my trials and improve them to me;
-<br>&emsp;  give me grace to rest in thee, and assure me of deliverance.
+<br>&emsp;  <u class = "red">give me grace to rest in thee, and assure me of deliverance.
 <br>May I always combine thy majesty with thy mercy,
 <br>&emsp;  and connect thy goodness with thy greatness.
-<br>Then shall my heart always rejoice in praises to thee.
+<br>Then shall my heart always rejoice in praises to thee</u>.
   
 Source: <a href = "https://banneroftruth.org/us/devotional/self-noughting/" target="_blank" rel="noopener noreferrer">Banner of Truth | Self-Naughting</a>
