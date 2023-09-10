@@ -1,5 +1,5 @@
 ---
-weight: 27
+weight: 11
 title: Valley of Vision
 authors: Banner of Truth
 categories: Devotional
