@@ -38,7 +38,7 @@ The sabbath reminds me
 <br>&emsp;&emsp;    and am unfit for spiritual service.
 <br>When I enter it I come before thee as a sinner,
 <br>&emsp;  condemned by conscience and thy Word,
-For I am still in the body and in the wilderness,
+<br>For I am still in the body and in the wilderness,
 <br>&emsp;  ignorant, weak, in danger,
 <br>&emsp;  and in need of thine aid.
 <br>But encouraged by thy all-sufficient grace
@@ -46,11 +46,11 @@ For I am still in the body and in the wilderness,
 <br>&emsp;&emsp;    of meeting thee,
 <br>&emsp;  knowing that there thou wilt come to me
 <br>&emsp;&emsp;    and give me peace.
-My soul is drawn out to thee in longing desires
+<br>My soul is drawn out to thee in longing desires
 <br>&emsp;  for thy presence in the sanctuary, at the table,
 <br>&emsp;  where all are entertained on a feast of
 <br>&emsp;&emsp;    good things;
-Let me before the broken elements,
+<br>Let me before the broken elements,
 <br>&emsp;&emsp;    emblems of thy dying love,
 <br>&emsp;  cry to thee with broken heart for grace
 <br>&emsp;&emsp;    and forgiveness.
