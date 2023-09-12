@@ -59,4 +59,4 @@ The sabbath reminds me
 <br>These are they that follow the Lamb;
 <br>May I be of their company!
 
-Source: <a href = "" target="_blank" rel="noopener noreferrer">Banner of Truth | </a>
+Source: <a href = "https://banneroftruth.org/us/devotional/lords-day-morning/" target="_blank" rel="noopener noreferrer">Banner of Truth | Lord’s Day Morning</a>
