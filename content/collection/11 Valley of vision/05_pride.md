@@ -47,7 +47,7 @@ Let not pride swell my heart.
 <br>&emsp;  and quicken me to more watchful care.
 <br>When I am tempted to think highly of myself,
 <br>&emsp;  grant me to see the wily power<label for="wily" class="margin-toggle sidenote-number"></label><span class="sidenote">wily power</span> of my spiritual enemy;
-<br>Help me to stand with wary eye<label for="wary" class="margin-toggle sidenote-number">wily power</label><span class="sidenote">wary eye</span> on the watch-tower of faith,
+<br>Help me to stand with wary eye<label for="wary" class="margin-toggle sidenote-number"></label><span class="sidenote">wary eye</span> on the watch-tower of faith,
 <br>&emsp;  and to cling with determined grasp to my humble Lord;
 <br>If I fall let me hide myself in my Redeemer’s righteousness,
 <br>&emsp;  and when I escape, may I ascribe all deliverance to thy grace.
