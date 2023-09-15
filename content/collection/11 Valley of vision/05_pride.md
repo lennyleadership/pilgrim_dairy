@@ -27,7 +27,7 @@ Let not pride swell my heart.
 <br>Every faculty of mind and body is thy
 <br>&emsp;  undeserved gift.
 <br>Low as I am as a creature, I am lower as a sinner;
-<br>I have trampled thy law times without number;
+<br>I have trampled thy law times without number<label for="trampled" class="margin-toggle sidenote-number"></label><span class="sidenote">trampled thy law times without number</span>;
 <br>Sin’s deformity is stamped upon me,
 <br>&emsp;  darkens my brow, touches me with corruption:
 <br>How can I flaunt myself proudly?
@@ -46,8 +46,8 @@ Let not pride swell my heart.
 <br>&emsp;  deepen in me devotion to thy service,
 <br>&emsp;  and quicken me to more watchful care.
 <br>When I am tempted to think highly of myself,
-<br>&emsp;  grant me to see the wily power of my spiritual enemy;
-<br>Help me to stand with wary eye<label for="wary" class="margin-toggle sidenote-number"></label><span class="sidenote">wary eye</span> on the watch-tower of faith,
+<br>&emsp;  grant me to see the wily power<label for="wily" class="margin-toggle sidenote-number"></label><span class="sidenote"></span> of my spiritual enemy;
+<br>Help me to stand with wary eye<label for="wary" class="margin-toggle sidenote-number">wily power</label><span class="sidenote">wary eye</span> on the watch-tower of faith,
 <br>&emsp;  and to cling with determined grasp to my humble Lord;
 <br>If I fall let me hide myself in my Redeemer’s righteousness,
 <br>&emsp;  and when I escape, may I ascribe all deliverance to thy grace.
