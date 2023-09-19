@@ -24,8 +24,7 @@ Let not pride swell my heart.
 <br>In body I surpass not the meanest reptile;
 <br>Whatever difference of form and intellect is mine
 <br>&emsp;  is a free grant of thy goodness;
-<br>Every faculty of mind and body is thy
-<br>&emsp;  undeserved gift.
+<br>Every faculty of mind and body is thy undeserved gift.
 <br>Low as I am as a creature, I am lower as a sinner;
 <br>I have trampled thy law times without number<label for="trampled" class="margin-toggle sidenote-number"></label><span class="sidenote">trampled thy law times without number</span>;
 <br>Sin’s deformity is stamped upon me,
