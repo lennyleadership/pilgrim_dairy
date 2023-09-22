@@ -30,8 +30,8 @@ My first sin of the day leads into others,
 <br>&emsp;  that I have an eternal duty to love, honour and obey thee,
 <br>&emsp;  that thou art infinitely worthy of such;
 <br>&emsp;  that if I fail to glorify thee
-<br>I am guilty of infinite evil that merits infinite punishment,
-<br>&emsp;    for sin is the violation of an infinite obligation.
+<br>&emsp;&emsp;  I am guilty of infinite evil that merits infinite punishment,
+<br>&emsp;&emsp;      for sin is the violation of an infinite obligation.
 
 O forgive me if I have dishonoured thee,
 <br>Melt my heart, heal my backslidings,
