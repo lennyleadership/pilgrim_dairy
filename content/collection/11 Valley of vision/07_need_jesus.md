@@ -17,7 +17,7 @@ LORD JESUS,
 I am blind, be thou my light,
 <br>&emsp;    ignorant, be thou my wisdom,
 <br>&emsp;    self-willed, be thou my mind.
-Open my ear to grasp quickly thy Spirit’s voice,
+<br>Open my ear to grasp quickly thy Spirit’s voice,
 <br>&emsp;  and delightfully run after his beckoning hand;
 <br>Melt my conscience that no hardness remain,
 <br>&emsp;  make it alive to evil’s slightest touch;
@@ -46,7 +46,7 @@ Open my ear to grasp quickly thy Spirit’s voice,
 <br>May I always see thy beauty with the clear eye of faith,
 <br>&emsp;  and feel the power of thy Spirit in my heart,
 <br>&emsp;  for unless he move mightily in me
-<br>&emsp;  no inward fire will be kindled.
+<br>&emsp;  no <b>inward fire</b> will be kindled.
 
 
 
