@@ -19,7 +19,7 @@ toc: true
 O GOD MOST HIGH, MOST GLORIOUS,
 
 The thought of thine infinite serenity cheers me,
-<br>For I am toiling and moiling, troubled and distressed,
+<br>For I am toiling and moiling<label for="moil" class="margin-toggle sidenote-number"></label><span class="sidenote">toil and moil: work hard</span>, troubled and distressed,
 <br>&emsp;  but thou art for ever at perfect peace.
 <br>Thy designs cause thee no fear or care of unfulfilment,
 <br>&emsp;  they stand fast as the eternal hills.
@@ -34,8 +34,8 @@ The thought of thine infinite serenity cheers me,
 <br>Revive deep spirituality in my heart;
 <br>Let me live near to the great Shepherd,
 <br>&emsp;  hear his voice, know its tones, follow its calls.
-<br>Keep me from deception by causing me to abide in the truth,
-<br>&emsp;  from harm by helping me to walk in the power of the Spirit.
+<br>Keep me from deception by causing me to abide in the truth</b>,
+<br>&emsp;  from harm by <b>helping me to walk in the power of the Spirit</b>.
 <br>Give me intenser faith in the eternal verities,
 <br>&emsp;  burning into me by experience the things I know;
 <br>Let me never be ashamed of the truth of the gospel,
