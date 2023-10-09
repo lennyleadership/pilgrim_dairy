@@ -28,15 +28,15 @@ The thought of thine infinite serenity cheers me,
 <br>Thou bringest order out of confusion,
 <br>&emsp;  and my defeats are thy victories:
 <br>The Lord God omnipotent reigneth.
-<br>I come to thee as a sinner with cares and sorrows,
+<br>I come to thee as <b>a sinner with cares and sorrows</b><label for="sorrow" class="margin-toggle sidenote-number"></label><span class="sidenote">cares and sorrows: </span>,
 <br>&emsp;  to leave every concern entirely to thee,
 <br>&emsp;  every sin calling for Christ’s precious blood;
 <br>Revive deep spirituality in my heart;
 <br>Let me live near to the great Shepherd,
 <br>&emsp;  hear his voice, know its tones, follow its calls.
-<br>Keep me from deception by causing me to abide in the truth</b>,
+<br><b>Keep me from deception by causing me to abide in the truth</b>,
 <br>&emsp;  from harm by <b>helping me to walk in the power of the Spirit</b>.
-<br>Give me intenser faith in the eternal verities,
+<br>Give me >b>intenser faith</b> in the eternal verities,
 <br>&emsp;  burning into me by experience the things I know;
 <br>Let me never be ashamed of the truth of the gospel,
 <br>&emsp;  that I may bear its reproach,
