@@ -36,7 +36,7 @@ The thought of thine infinite serenity cheers me,
 <br>&emsp;  hear his voice, know its tones, follow its calls.
 <br><b>Keep me from deception by causing me to abide in the truth</b>,
 <br>&emsp;  from harm by <b>helping me to walk in the power of the Spirit</b>.
-<br>Give me >b>intenser faith</b> in the eternal verities,
+<br>Give me <b>intenser faith</b> in the eternal verities,
 <br>&emsp;  burning into me by experience the things I know;
 <br>Let me never be ashamed of the truth of the gospel,
 <br>&emsp;  that I may bear its reproach,
