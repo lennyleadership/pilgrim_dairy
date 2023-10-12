@@ -6,8 +6,8 @@ categories: [Devotional]
 tags: null
 description: 
 draft: false
-date: "2023-09-05"
-lastmod: "2023-09-05"
+date: "2023-10-12"
+lastmod: "2023-10-12"
 series: null
 toc: true
 ---
