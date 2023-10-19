@@ -1,12 +1,12 @@
 ---
-weight: 99
-title: 
+weight: 43
+title: The Palm Tree Blessing
 authors:
 categories: null
 description: 
 draft: false
-date: "2023-09-05"
-lastmod: "2023-09-05"
+date: "2023-10-18"
+lastmod: "2023-10-18"
 series: null
 tags:
 toc: true
