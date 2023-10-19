@@ -34,9 +34,7 @@ The object of this little book is to show some of the characteristics of the pal
 
 [Pg 7]
 
-## CHAPTER I
-
-### THE PALM TREE IS NOTED FOR ITS BEAUTY
+## CHAPTER I: THE PALM TREE IS NOTED FOR ITS BEAUTY
 
 It is certainly one of the most beautiful trees in nature. That is why so many are used in decorating the premises. People do not plant scrub oaks in their gardens, but they plant nature's beauties.
 
@@ -60,11 +58,7 @@ The climax of trinket wearing is to be found in the heathen world. There they de
 
 How different is all this from the beauty which the Holy Spirit gives! We have seen the faces of some saints that verily shone with the brightness of the indwelling Christ within. Sometimes in deathbed scenes[Pg 10] God has lifted the curtain just enough to let a little of heaven's halo fall across the features, and how it lighted up the face and made it radiant with a glory which at once was known to be unearthly. God surely knows how to beautify His people.
 
-## CHAPTER II
-
-[Pg 11]
-
-### THE PALM TREE IS NOTED FOR ITS STRAIGHTNESS
+## CHAPTER II: THE PALM TREE IS NOTED FOR ITS STRAIGHTNESS
 
 There is something in the very nature of this remarkable production, that scarcely allows of any departure from the perpendicular. The palm tree will grow straight. One seldom sees a crooked one. We remember seeing one, but it was dead.
 
@@ -76,11 +70,7 @@ The story is told of a man who was felling a tree, and was buried beneath the br
 
 It is said that the palm tree has such a natural tendency to grow straight, that it will not grow crooked though heavy burdens be placed upon it. It will push up in spite of all the load, and simply remain straight.[Pg 13] How like God's true saint! Satan has many burdens with which to break his back, or cause him to deviate from the straight course, but with this blessing, he is enabled to rise in spite of all and be a perfectly perpendicular pilgrim. Praise the Lord! Business burdens, domestic duties, religious responsibilities would crowd in and hold us down, or shift our course upward, but He who carries our cares, and bears our burdens will bring us up straight if we but look constantly to Him.
 
-## CHAPTER III
-
-[Pg 14]
-
-### IT IS NOTED FOR ITS PERENNIAL FRESHNESS
+## CHAPTER III IT IS NOTED FOR ITS PERENNIAL FRESHNESS
 
 The palm tree is an evergreen. It always has a fresh, green crown on top, on the heavenly side. Some parts may wither; some leaves fade and fall in time, but up at the top is a never-fading, fresh, beautiful crown that basks in the open sunlight and is a beauty to behold. Now, pilgrim, press up alongside of this characteristic and see if you have the mark.
 
@@ -100,11 +90,7 @@ The story is told of Amanda Smith, the colored evangelist, who felt one time tha
 
 The amusing story is told of Frederick Douglas who rose from slavery to quite a place in history. When in bondage in the South, he was wont to pray the Lord to give him his freedom. But he said the Lord did not answer his prayer. Again and again he prayed, but the Lord did not answer his petition. "One night," said he, "I went out and set my eyes on the North Star, and scratched gravel behind, and then the Lord answered my prayer." No wonder the paper he afterwards edited was called the *North Star*. If more people who are in bondage to fear, and are longing at the same time for deliverance, would do as this[Pg 18] man of color did—set their spiritual eyes on the pole star of freedom, and scratch gravel—they would soon find their prayers for liberty answered.
 
-## CHAPTER IV
-
-[Pg 19]
-
-### IT IS NOTED FOR ITS FRUITFULNESS
+## CHAPTER IV IT IS NOTED FOR ITS FRUITFULNESS
 
 In the orient, where the date palm thrives the best, it is astonishing the quantity of delicious fruit it bears. It affords one of the chief industries, and is one of the principal articles of food.
 
@@ -152,11 +138,7 @@ There is altogether too much failure in Christian service, because of the excuse
 
 "Such a gracious revival of religion! How did it all come about? Not by preaching; not by great manipulations; not by great singing, valuable as these all may be—they did not bring it about. It came about through a little half idiot boy, who had no better sense than to trust God the best he knew and do his level best."
 
-## CHAPTER V
-
-[Pg 26]
-
-### IT IS NOTED FOR THE SWEETNESS OF ITS FRUIT
+## CHAPTER V IT IS NOTED FOR THE SWEETNESS OF ITS FRUIT
 
 All palms are not of the same variety, but the date palm is the one specially noted for its sweet fruit. When the orientals dry their dates and press them and ship them into our country, we then learn how nearly akin to sugar they are.
 
@@ -246,11 +228,7 @@ Thomas Mayhew was one of those early missionaries to the North American Indians.
 
 I am thinking just now of an aged minister. For over half a century he has served God in the regular ministry, and now although over six years past the "allotted time" of life, he is untiring in his work and zeal for God. He is up to date in all the departments[Pg 40] of the work. He is superintendent of the home department of the Sunday school, and does work like a pastor in his regular visitations. He enters open doors and preaches many sermons. He is a most zealous advocate of prohibition, and stands in the forefront ranks in pushing that important work, and is president of the prohibition work in his community. His zeal for the foreign missionary field is most inspiring, and by faith, with all the other blessings of giving that he takes upon himself, he has just taken a native missionary to support from his limited means. While he is so active on all the live issues of the church, and is at his post to push and pull, yet he is seemingly most at home in the battle for souls. You can count on him at the revival unless he is providentially hindered. And when the seekers line up at the altar, he is at hand to pray and shout the battle on. He has the word "superannuated" applied somewhere, but we think it a misnomer and that a more appropriate word would be "superabundant."
 
-## CHAPTER VII
-
-[Pg 41]
-
-### THE PALM TREE IS NOTED FOR ITS UTILITY
+## CHAPTER VII THE PALM TREE IS NOTED FOR ITS UTILITY
 
 The uses to which the different palm tree varieties are put are something marvelous in the extreme. There is nothing like it in all the vegetable world. All parts are utilized, from the trunk and branches to the sap. From the branches they make cages for poultry, and fences for gardens. From the leaves they manufacture couches, baskets, bags, and mats. From the fiber they make thread, ropes, and rigging. From the sap is manufactured a drink, while seeds are ground up for provender for camels.
 
@@ -320,11 +298,7 @@ The first year of their stay in their new home was one of great hardship and sel
 
 A few years of consecrated service and Christian education have passed and we sum up the results. A faithful father and mother have trained their family for heaven, and gladly yielded their all to Christ. The mother has left the toils and cares of earth, and has gone to be with Jesus. One is now at the head of the Free Methodist missionary work in China. Another has been accepted as a missionary to China by the General Missionary Board and is to labor with his brother. One of the daughters is a successful missionary, laboring with her husband, who is at the head of the missionary work in Japan. She received her call while a student in the Seattle Seminary. Another heard the Macedonian call and gladly left all to go to China. One son is filling the principal's chair at the Free Methodist Seminary at Spring Arbor, Mich.,[Pg 55] while another is principal of a high school in Seattle. All the family are saved, and are proving the Scripture true: "Train up a child in the way he should go, and when he is old he will not depart from it." While Sister M—— has finished her work and gone home to heaven, "her children rise up and call her blessed."
 
-## CHAPTER VIII
-
-[Pg 56]
-
-### THE PALM TREE IS APPRECIATED
+## CHAPTER VIII THE PALM TREE IS APPRECIATED
 
 Search the world over; call for a consensus of opinion in civilized countries and heathen lands, and ask them what is the most appreciated tree in the world, and see if they do not with one voice exclaim, "The palm tree."
 
@@ -352,11 +326,7 @@ And when the struggle is over and the pearl of full salvation is found, it will 
 
 Reader, how much is Christ worth? How much do you appreciate His gift? Let us ask some who let it slip. Judas, what is it worth? What is Christ worth to you? The answer is, "Sixteen dollars and ninety-six cents." That was his price for the Savior; the price of a slave in the olden times if he were killed by a beast; the lowest price placed upon a human being. Demas, how much is it worth? The answer is, "The love of this present world," for that is what he obtained. Saul, what is your salvation worth? "The gratifying of a jealous disposition," for he sold out on that line, till it turned to anger, then hatred and then murder, till finally he was utterly forsaken by God, and he turned into a spiritualist, consulted the witch of Endor, went into battle, committed suicide and passed off from the stage of action here. Solomon,[Pg 65] what was yours worth? "Outlandish women," is the answer, not from Solomon's lips, but from the inspired pen of Nehemiah. "Nevertheless even him did outlandish women cause to sin." Young lady, what was the price of your soul? "Mother, hang my fine dresses upon the wall and let me see them. There, mother, is the price of my soul," and she passed out into the darkness of the outer world. Again, young lady, what is the price of *your* soul? "That young man. I gave up Christ for him. I had to decide between the two, and I took him. Christ has been a stranger to me ever since." Shall we sell out Christ for pleasure, or people, or pursuits, or popularity? God forbid. Let us raise the price of our soul and appreciate the gift of God and let nothing come between.
 
-## CHAPTER IX
-
-[Pg 66]
-
-### THE PALM TREE WILL GROW IN THE DESERT
+## CHAPTER IX THE PALM TREE WILL GROW IN THE DESERT
 
 It is such a hardy, thrifty tree, that if it has any chance at all, it will thrive where other trees will fail. Even in the hot sands of the Sahara, its green foliage is seen, and it grows in spite of discouraging environments.
 
@@ -382,11 +352,7 @@ Every night found this happy, sanctified cripple at the gospel mission with shin
 
 Why will souls not learn to seek their pleasure from the right source? With the failure of multiplied millions who have gone on before and those who are now trying to fill their cup with earth's deceiving joys, shall I be such an egotistical fool as to think I can succeed in something when all before me tried and failed? The way of true success is laid down in the Word; "This book of the law shall not depart out of thy mouth; but thou shalt meditate therein day and night, that thou mayest observe to do according to all that is written therein: for then thou shalt make thy way prosperous, and then thou shalt have good success" (Josh. 1:8).
 
-## CHAPTER X
-
-[Pg 71]
-
-### THE PALM TREE FINDS THE WATER
+## CHAPTER X THE PALM TREE FINDS THE WATER
 
 This marvelous production of nature is not hindered by the scorching sun of the desert, nor is it dependent upon the copious showers of rain. If the rain comes, all well and good; but if it fails, the palm flourishes right on anyway. But it will get to water. If it does not come down from above, then it sends down its roots till they drink at the subterranean stream below. Water it must have and water it will find.
 
@@ -408,11 +374,7 @@ There are some people, when we have not seen them for a few months, we hardly da
 
 In the economy of grace, God has made no provision for one to have less grace than in the past. The best experience of one's life should be up-to-date. It is[Pg 75] a sad epoch in one's life when he can take a retrospect and look down the lane of long ago and see a better experience than now. That person has certainly headed toward Egypt that sees the highest plane of his Christian experience, and then gets the consent of his mind to live on a lower plane. "Therefore, leaving the principles of the doctrine of Christ, let us go on unto perfection." When the children of Israel crossed the Red Sea they sang and shouted and had a hallelujah time; but their slogan was, "On to Canaan." When finally, the survivors and those who were born on the way crossed the River Jordan, they built a monument, which signified that they had come over there to stay.
 
-## CHAPTER XI
-
-[Pg 76]
-
-### THE PALM TREE GETS OTHERS STARTED
+## CHAPTER XI THE PALM TREE GETS OTHERS STARTED
 
 Where this remarkable tree finds root, and grows, it is almost sure, sooner or later, to cause other palms to spring up; so that it does not need to be alone.
 
@@ -426,11 +388,7 @@ There is something in the very nature and heart of the palm tree saint that long
 
 A certain preacher who was also a carpenter in southern California, was about to move to some new place. He carefully thought the matter over and decided to move to a place where he hoped in the near future to plant a grove of palm tree saints. He thought he and his family might form a nucleus and thus establish the church of his choice (for it was a holiness church) in that place. Accordingly he went, and worked at his trade and preached what he could and[Pg 80] got as many interested as he was able, and after a while the writer, together with a fine band of workers, went to this town and pitched a tent and began to preach holiness. Before we left we established a church, with this brother as pastor, and now after a very few years, this brother is enjoying holiness in the heavenly world, and the church planted in that town is flourishing, having built a church and parsonage. There is something in it that wants to get others started. That is the secret of successful missionary work among the heathen. Carey leaves the cobbler's bench and sails across the seas and soon has his palm grove growing in India's soil. Paton moves to the Hebrides and jeopardizes his life among the savages, but never lets up till he sees the groves flourishing in that dark and dreary land. Livingstone plunges into darkest Africa alone, but he does not remain alone; God reaches those black and benighted savages and turns them into saints, and the oases begin on African soil. And so on all over the world today are being planted God's palm tree saints who are getting others started and the big world is now being dotted with palm tree groves. Thank God forever. Reader, where are you living? Is your abode far off from sanctified people? Do not get discouraged; God answers prayer. Do your best, and the first thing you know you will have some one to take his place by your side to push the work, and who knows but that in a short time there may be a flourishing community of full salvation saints there?
 
-## CHAPTER XII
-
-[Pg 81]
-
-### THE PALM TREE MOUNTS HEAVENWARD
+## CHAPTER XII THE PALM TREE MOUNTS HEAVENWARD
 
 It would seem that the variety of palms which climbs upward into the sky, was bent on getting as far from the earth and as near heaven as possible. They ascend till they outstrip the other trees, and seemed determined to get above swamp, miasma and everything else of a groveling nature. There, in their exalted sphere, they wave their perennial boughs, and bear their fruit, and bask in the beautiful sunshine, and live in an element truly above the world.
 
@@ -454,11 +412,7 @@ The palm tree blessing is a high blessing. It is the "higher life" indeed. "And 
 
 The minds of many are turned toward the airships of the day. The aviators are vying with each other in long distances, speed, altitudes, and endurance; but the palm tree saints have solved the problems of aviation long ago. They have an heirship, though it may not be spelled exactly like those of the world, yet, for altitude, endurance, speed, and long traveling, it perfectly eclipses them all. The aviator of the world may break the world's record today, and break his neck tomorrow, but the possibilities of the Christian aviator are exceedingly charming and the dangers are reduced to naught. He is safer in his heirship than on the earth. Borne upward on the wings of faith, pushed onward by the propeller of perfect love, with a lateral stability which is a marvel to many who gave him "just three weeks to hold out," he is still rushing on toward the meridian sun, and has been out of sight for years. He never expects to come down again. Some day he will fly so far away from earth's attraction, and get so near heaven, that the gravitation, inversely to the square of their distances, will pull so in the other direction, that he will sail into glory and drop his pardon and purity biplane[Pg 85] on the gold-paved streets of the New Jerusalem, amidst the shouts and cheers of the angelic host and the multitudes that have sailed in before, there to enjoy an eternal "aviation meet" with prizes and crowns of glory for all.
 
-## CHAPTER XIII
-
-[Pg 86]
-
-### THE PALM TREE IS PECULIAR IN ITS GROWTH
+## CHAPTER XIII THE PALM TREE IS PECULIAR IN ITS GROWTH
 
 We have in the botanical world the exogenous and the endogenous tree. The exogenous tree grows by adding to its exterior. Year after year adds layers or rings to the outside, thus increasing its size. It is in this way that scientists are enabled to determine the age of trees. Some of the mammoth trees of California show an age of many hundred years. Most of the trees with which we have to do are of the exogenous type.
 
@@ -476,11 +430,7 @@ With the secret of growth internal, it is not hindered by elements external, for
 
 In the earlier days of persecution of holiness professors, how often the fighting faction has tried to snow some of God's fire-baptized saints under, only to see them rise up through the snowdrift, with perennial freshness and smiling face ready for the next cold blizzard of snow. Or, perhaps it was a wet blanket suddenly thrown over them and their testimony, but the fire within only burnt its way through and turned the wet into steam and proved the possessor to be practically invulnerable. It is indeed hard to cut off one's growth when it comes from within. There may be a momentary check at times when unforeseen obstacles are thrust in one's way, but the growth producing qualities within assert themselves and burst out with increasing force which make the tormentors wonder "what next?"
 
-## CHAPTER XIV
-
-[Pg 89]
-
-### THE PALM TREE HAS A COARSE, ROUGH EXTERIOR; BUT IT IS SOFT AT HEART
+## CHAPTER XIV THE PALM TREE HAS A COARSE, ROUGH EXTERIOR; BUT IT IS SOFT AT HEART
 
 In spite of its symmetry, its wonderful beauty and its perennial freshness, the palm tree has rather a harsh exterior. But being an endogenous tree, its pithy interior makes it always soft at the center, or heart.
 
@@ -514,11 +464,7 @@ A certain phrenologist was giving a public exhibition showing the science of phr
 
 Let us not judge by the external simply. Like the palm tree, one may be crude and rough outside, but inside he may meet the loving approbation of God.
 
-## CHAPTER XV
-
-[Pg 96]
-
-### THE LIFE OF THE PALM TREE IS AT THE CENTER
+## CHAPTER XV THE LIFE OF THE PALM TREE IS AT THE CENTER
 
 This is unlike the life of all the exogenous trees, which is at the surface, or rather just beneath the bark. When the life-giving sap circulates along the length of these trees, it moves in its course close to the outside surface. When the maple tree is tapped they catch this flow of sap, because it is near to the outside. When farmers want to destroy a tree, all they have to do is to girdle it, or, in other words, cut the bark down to the wood all around the tree, and thus stop the circulation of sap, and the tree soon withers and dies. Such a tree can not stand too much abuse. If it is chopped and hacked and peeled, or girdled, it seems to discourage it, and it gives up and dies. Not so with the palm tree. It has its life at the center. One may rip it and peel it and girdle it, and it grows just the same; it has a hidden life. We have actually seen a row of palms which had been burnt, and yet they had pushed out of their dismal darkness, and thrown out fresh foliage. They do not get discouraged and quit when the odds are against them.
 
@@ -656,11 +602,7 @@ Tarachus is then brought before Maximus.
 
 "Take him down; put him in chains and give him over to the gaoler. Call the next."
 
-## CHAPTER XVI
-
-[Pg 113]
-
-### THE PALM BRANCH IS THE SYMBOL OF VICTORY
+## CHAPTER XVI THE PALM BRANCH IS THE SYMBOL OF VICTORY
 
 "After this I beheld, and, lo, a great multitude, which no man could number, of all nations, and kindreds, and people, and tongues, stood before the throne, and before the Lamb, clothed with white robes, and *palms* in their hands; and cried with a loud voice, saying, Salvation to our God which sitteth upon the throne, and unto the Lamb. * * * These are they which came out of great tribulation, and have washed their robes, and made them white in the blood of the Lamb" (Rev. 7:9, 14).
 
@@ -742,11 +684,7 @@ Whoever became a conqueror that stayed always in one little, beaten path? The wo
 
 Many are hindered in their victorious life by the "little foxes which spoil the vines." Their spiritual wall which surrounds them seems to admit so many of the aggravating cares, that they find themselves frequently overcome thereby. "Salvation, will God appoint for walls and bulwarks" (Isa. 26:1). "But thou shalt call thy walls Salvation, and thy gates Praise" (Isa. 60:18). When we remember that "God is our salvation," and "Our God is a consuming fire," and this God, the consuming fire, is the wall of salvation around us, we believe the wall is so high that the devil's little foxes can not jump over it; so thick they can not bore through it, and so deep they can not dig under it. This is surely a blessed protection for those on the inside. But the promised protection of God is still more. He will insphere His trusting child and make him doubly safe, and make his surrounding simply glorious. Notice the divine insphering: "As the mountains are round about Jerusalem, so the Lord is round about his people from henceforth even forever" (Psalm 125:2). Here is the Lord all around us. "Because he is at my right hand, I shall not be moved" (Psa. 16:8). The Lord is by our side. "Underneath[Pg 126] are the everlasting arms" (Deut. 33:27). The Lord is beneath us. "He that dwelleth in the secret place of the Most High shall abide under the shadow of the Almighty" (Psalm 91:1). The Lord is over us. And we are also taught that we may abide in Him and He will abide in us. Think of this marvelous protection: the Lord all around us, by our side, underneath us, over us, in us and we in Him. Then shall we allow the trifling things of earth to conquer us and spoil our experience? How often we hear one say words like this: "I wouldn't give up my experience for all the world," and then possibly in an unguarded moment go down over something not worth a quarter. We once heard of a sailor that had braved the sea and storms for years, and finally got drowned in a bucket of water. While drinking he had some fit or accident which caused him to fall, so that his face was buried in the water and he was strangled to death. Be careful of the little things; they are sometimes more dangerous than the bigger ones. A brother was once accosted by one of the Lord's workers and asked how he was getting along in his Christian experience. He replied that he got along very well usually through the day, but when he went home from his work in the evening, his wife nagged at him so much that he invariably lost out. He would be blessed along through the day, but when that nagging spirit of his wife got started, even though he would hold out for some time and keep the victory, yet as sure as he would open his mouth, the victory was gone. He told the worker that he had an[Pg 127] experience like a pelican. He then described how the pelican would start out in the morning and load up its big pouch with fish, and then in the evening it would start for home, whereupon the little birds would get after it and peck it first on one side of the bill and then on the other, till the poor pelican would throw its head around from one side to the other, and finally its mouth would fly open and out would go the fish, which was just what the birds were after. He said he had a pelican experience; that he would get along well through the day, but the constant annoyance of the wife in the evening would finally cause him to open his mouth, and away would go his victory. Many a blessing has been lost, simply by opening the mouth. It is much harder sometimes to keep the mouth shut than to open it. "So he openeth not his mouth," was the attitude of Him who was our example.
 
-## CHAPTER XVII
-
-[Pg 128]
-
-### THE PALM TREE WILL NOT ADMIT OF GRAFTING
+## CHAPTER XVII THE PALM TREE WILL NOT ADMIT OF GRAFTING
 
 For many years the process of grafting has been known and practiced by horticulturists. This is accomplished by taking a scion, usually of the previous year's growth, from a shrub or tree, and inserting it into another shrub or tree more or less closely related to the first. It must be so inserted that the cambium layer of the scion, that is, the layer of formative tissue between the bark and natural wood, is closely united to that of the stock. In time, these two parts grow together into a perfect union. The scion thus inserted will derive its life and strength from the original root and stock, but will bear its fruit according to the nature of the scion.
 
@@ -790,11 +728,7 @@ Let us carry out the figure. Linen is the pure, clean, vegetable creation, and i
 
 Now for a word of application. "The righteous shall flourish like the palm tree" in preclusion of uniting or mixing with others. There is something in the very nature of the palm that precludes the graft, or intermixing. There is something in the spiritual makeup of the holy, palm tree saints that have no fellowship with the unfruitful works of darkness. They are a class by themselves. They will not mix their religion with the world. In doctrine they are clean, true, clear, and scriptural. They are holding to the old landmarks which their fathers have set. They are not running[Pg 141] after the new fads under the guise of religion. They are settled, rooted and grounded in the truth. In service they are separate from the world. They are not mixing with the fun, frolic and general pastime and pleasure of the worldly element. They scrupulously adhere to the admonition to "come out from among them" and not to be unequally yoked together in any way. In experience, they have no admixture of the carnal and spiritual elements. They have had their hearts cleansed from all sin, and are really clothed with the pure, spotless garment of salvation. They lack that cambium layer of formative tissue that unites them to any other stock. Of course the world hates them for standing out against them and failing to unite. The worldly minded church members steer clear of them, for these members retain a formative tissue that will admit of joining with the world and allowing the world to join with them; but the palm tree saints stand aloof; they do not mix.
 
-## CHAPTER XVIII
-
-[Pg 142]
-
-### IT IS ADAPTED TO WARM CLIMATES
+## CHAPTER XVIII IT IS ADAPTED TO WARM CLIMATES
 
 Our God is the God of nature as well as of grace. Trees thrive best when in the sphere that nature intended them for. The palm tree is especially a hot climate tree, and when taken out of its proper place it stands to reason that it will succumb. It can not stand the cold. It was not made that way. It matters not how hot the place may be, even in the broiling sun of the desert, it will thrive. But place it in the cold regions, and death will inevitably be the result.
 
