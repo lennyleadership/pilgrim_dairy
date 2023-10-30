@@ -19,25 +19,25 @@ toc: true
 O GOD OF GRACE,
 
 I bewail my cold, listless, heartless prayers;
-<br>&emsp;    their poverty adds sin to sin.  
+<br>&emsp;    their poverty adds sin to sin.
 <br>If my hope were in them I should be undone,
-<br>But the worth of Jesus perfumes my feeble breathings, and 
-<br>&emsp;  wins their acceptance.  
-<br>Deepen my contrition of heart,  
-<br>Confirm my faith in the blood that   
-<br>&emsp;  washes from all sin.  
-<br>May I walk lovingly with my great Redeemer.  
-<br>Flood my soul with true repentance  
-<br>&emsp;  that my heart may be broken for sin and unto sin.  
-<br>Let me be as slow to forgive myself  
-<br>&emsp;  as thou art ready to forgive me.  
-<br>Gazing on the glories of thy grace  
-<br>&emsp;  may I be cast into the lowest depths of shame,  
-<br>&emsp;  and walk with downcast head  
-<br>&emsp;  now thou art pacified towards me.  
-<br>O my great High Priest,  
-<br>&emsp;  pour down upon me streams of needful grace,  
-<br>&emsp;  bless me in all my undertakings,  
+<br>But the worth of Jesus perfumes my feeble breathings, and
+<br>&emsp;  wins their acceptance.
+<br>Deepen my contrition of heart,
+<br>Confirm my faith in the blood that
+<br>&emsp;  washes from all sin.
+<br>May I walk lovingly with my great Redeemer.
+<br>Flood my soul with true repentance
+<br>&emsp;  that my heart may be broken for sin and unto sin.
+<br>Let me be as slow to forgive myself
+<br>&emsp;  as thou art ready to forgive me.
+<br>Gazing on the glories of thy grace
+<br>&emsp;  may I be cast into the lowest depths of shame,
+<br>&emsp;  and walk with downcast head
+<br>&emsp;  now thou art pacified towards me.
+<br>O my great High Priest,
+<br>&emsp;  pour down upon me streams of needful grace,
+<br>&emsp;  bless me in all my undertakings,
 <br>&emsp;&emsp;    in every thought of my mind,
 <br>&emsp;&emsp;    every word of my lips,
 <br>&emsp;&emsp;    every step of my feet,
