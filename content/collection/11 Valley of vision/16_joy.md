@@ -52,7 +52,7 @@ All thy ways of mercy tend to and end in my delight.
 <br>&emsp;  sadness, sin, suffering,
 <br>&emsp;  persecutions, toils of duty.
 <br>O healthful place where none are sick!
-<br>O happy land where <b>all are kings<b>!
+<br>O happy land where <b>all are kings</b>!
 <br>O holy assembly where <b>all are priests</b>!
 <br>How free a state where none are servants
 <br>&emsp;  except to thee!
