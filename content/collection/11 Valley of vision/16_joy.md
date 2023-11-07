@@ -42,7 +42,7 @@ All thy ways of mercy tend to and end in my delight.
 <br>&emsp;    preservation, gloriﬁcation is ﬁnished
 <br>&emsp;    and perfected for ever,
 <br>&emsp;  where thou wilt rejoice over me with joy.
-<br>There is no joy like the joy of heaven,
+<br>There is no joy like the joy of heaven,<label for="joy" class="margin-toggle sidenote-number"></label><span class="sidenote">The meaning of joy</span>
 <br>&emsp;  for in that state are no sad divisions,
 <br>&emsp;  unchristian quarrels,
 <br>&emsp;  contentions, evil designs,
