@@ -30,6 +30,7 @@ All thy ways of mercy tend to and end in my delight.
 <br>Measure out to me my times and degrees of joy,
 <br>&emsp;  at my work, business, duties.
 <br>If I weep at night, give me joy in the morning.
+
 <br>Let me rest in the thought of thy love,
 <br>&emsp;  pardon for sin, my title to heaven,
 <br>&emsp;  my future unspotted state.
@@ -37,7 +38,8 @@ All thy ways of mercy tend to and end in my delight.
 <br>I often disesteem thy blood and slight thy love,
 <br>&emsp;  but can in repentance draw water
 <br>&emsp;  from the wells of thy joyous forgiveness.
-<br>Let my heart leap towards the eternal sabbath,
+
+<br>Let my heart leap towards <b>the eternal sabbath</b>,
 <br>&emsp;  where the work of redemption, sanctiﬁcation,
 <br>&emsp;    preservation, gloriﬁcation is ﬁnished
 <br>&emsp;    and perfected for ever,
