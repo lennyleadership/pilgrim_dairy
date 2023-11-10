@@ -28,6 +28,7 @@ GIVER OF ALL GOOD,
 <br>&emsp;      from folly to wisdom,
 <br>&emsp;      from error to truth,
 <br>&emsp;      from sin to victory.
+
 <br>Thanks be to thee for my high and holy calling.
 <br>I bless thee for ministering angels,
 <br>&emsp;  for the comfort of thy Word,
@@ -39,13 +40,13 @@ GIVER OF ALL GOOD,
 <br>&emsp;  for the recorded annals of holy lives,
 <br>&emsp;  for examples sweet to allure,
 <br>&emsp;  for beacons sad to deter.
+
 <br>Thy will is in all thy provisions
 <br>&emsp;  to enable me to grow in grace,
 <br>&emsp;  and to be meet for thy eternal presence.
 <br>My heaven-born faith gives promise of eternal sight,
 <br>&emsp;  my new birth a pledge of never-ending life.
-<br>I draw near to thee, knowing thou wilt draw near
-<br>&emsp;    to me.
+<br>I draw near to thee, knowing thou wilt draw near to me.
 <br>I ask of thee, believing thou hast already given.
 <br>I entrust myself to thee, for thou hast redeemed me.
 <br>I bless and adore thee, the eternal God,
