@@ -30,7 +30,7 @@ GIVER OF ALL GOOD,
 <br>&emsp;      from sin to victory.
 
 <br>Thanks be to thee for my high and holy calling.
-<br>I bless thee for ministering angels,
+<br><b>I bless thee</b> for ministering angels,
 <br>&emsp;  for the comfort of thy Word,
 <br>&emsp;  for the ordinances of thy church,
 <br>&emsp;  for the teaching of thy Spirit,
