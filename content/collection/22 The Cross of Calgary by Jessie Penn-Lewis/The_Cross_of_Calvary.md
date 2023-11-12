@@ -3,13 +3,12 @@ weight: 1
 title: The Cross of Calvary
 authors: Jessie Penn-Lewis
 categories: null
-date: "2022-04-09"
 description: 
 draft: false
-lastmod: "2022-04-09"
+date: "2022-04-09"
+lastmod: "2023-11-12"
 series: null
 tags: null
-
 toc: true
 ---
 
