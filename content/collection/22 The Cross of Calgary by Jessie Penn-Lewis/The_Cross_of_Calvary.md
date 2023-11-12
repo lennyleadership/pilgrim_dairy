@@ -1,6 +1,6 @@
 ---
 weight: 1
-title: 各各他的十字架
+title: The Cross of Calvary
 authors: Jessie Penn-Lewis
 categories: null
 date: "2022-04-09"

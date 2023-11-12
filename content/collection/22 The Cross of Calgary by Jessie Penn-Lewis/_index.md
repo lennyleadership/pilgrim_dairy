@@ -1,6 +1,6 @@
 ---
 weight: 22
-title: The Cross of Calvary
+title: The Works of Jessie Penn-Lewis
 authors: Jessie Penn-Lewis - Edited by Lenny Lin
 categories: null
 tags:
