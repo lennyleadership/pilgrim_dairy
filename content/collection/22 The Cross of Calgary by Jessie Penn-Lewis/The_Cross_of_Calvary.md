@@ -56,12 +56,13 @@ Isaiah foresees the questionings which would fill the minds of men as they heard
 He who was the precious, tender plant to the Father would be despised of men. He would be a "Man of sorrows, and acquainted with grief"; therefore they would reject and forsake Him, for suffering and sorrow are not attractive to men.  
 To Jehovah, His Righteous Servant would be "exalted and lifted up," even "very high," but to men He would be as one from whom they would hide their faces with astonishment, for His face and His form would be marred "more than the sons of men" (Isaiah 52:14).  
 How marred must have been the face of the Holy One of God from His crown of thorns! How lacerated the form of His sacred body from the scourging of the soldiers!—for the scourges were made from hundreds of leathern thongs, each armed at the point with an angular bony hook, or a sharp-edged cube (Krummacher).  
-4
+
 "Look at yonder pillar, black with the blood of murderers and rebels. . . . Look at the rude and barbarous beings who busily surround their victim." See them "tear off His clothes, bind those hands,... press His gracious visage firmly against the shameful pillar," binding Him, "with ropes in such a manner that He cannot move or stir." See! The scourging lasts a full quarter of an hour! The scourges cut ever deeper into the wounds already made, and penetrate almost to the marrow until "His whole back appears an enormous wound" (Krummacher). A purple robe is then thrown over the form of the agonized Sufferer, and the twigs of a long-spiked thorn bush are twisted into a circle, and pressed upon His brow.  
 It was thus that His face was marred, and His form more than the sons of men. The prophet Isaiah had even foretold the words of the Man of sorrows, saying in His hour of agony, "I was not rebellious, neither turned away backward. I gave my back to the smiters, and My cheeks to them that plucked off the hair: I hid not My face from shame and spitting. For the Lord Jehovah will help Me . . . therefore have I set My face like a flint" (Isaiah 50:5-7).  
 Men hid their faces from Him, but "He hid as it were His face from us" is the marginal reading of the A.S.V. Did the group who had seen His face shine as the sun on the Mount of Transfiguration remember the hidden glory in that marred frame? Nay, even they "esteemed Him not" and forsook Him in His hour of shame.  
 The divine and human estimations of the Man of sorrows in His pathway to the cross are thus fully foreshadowed by the prophet, and the Holy Spirit as plainly foretells the substitutionary object of His death.  
-The Purpose of the Cross (verses 4-6)  
+
+<h5>The Purpose of the Cross (verses 4-6)</h5>  
 "He hath borne our griefs. ...”  
 "He hath carried our sorrows. ...”  
 "He was wounded for our transgressions. ...”  
@@ -72,16 +73,20 @@ The Holy Spirit leaves no room for doubt as to the purpose and the cause of the 
 Beholding, as it were, the One thus wounded and stricken—Isaiah knows not actually how— the prophet becomes a spokesman for the whole human race as he cries: "We behold His sufferings, we esteem Him stricken, smitten of God, and afflicted. We, who have gone astray! We, who have turned every one to his own way! But the Lord has laid upon Him—the Holy Son of our God—our iniquity, the iniquity of us all.”  
 Thus briefly we have portrayed for us the result of the Fall in Eden and the cause and purpose of the cross.  
 Independence of God is the very essence of sin. To every man "his own way" ends in transgression and iniquity. The first all of verse 6 includes every human being brought into the world, and the second all proclaims the atoning sacrifice of Christ for every one under the curse of sin.  
-The Death of the Cross (verses 7-9)  
+
+<h5>The Death of the Cross (verses 7-9)</h5>  
 "He humbled Himself, and opened not His mouth. ...”  
 "A lamb that is led to the slaughter. ...”  
 "A sheep that before her shearers is dumb. ...”  
 "He was cut off out of the land of the living....”  
 "They made His grave with the wicked. ...”  
+
 Isaiah now depicts the obedience unto death of the suffering one. He sees Him as a sheep in the hands of the shearers, dumb and passive; as a lamb being led to the slaughter, innocent and powerless. He who was equal with God counted it not a thing to be grasped, but emptied Himself and came in the likeness of men. As man He humbled Himself yet more, even unto death, consenting to be "led to the slaughter" as a victim in the hands of men. How literally the prophecy was fulfilled in every detail the Gospels unfold.  
+
 The Christ standing before Pilate "when He was accused" answered nothing (Matthew 27:12), so that even the Governor marveled. From "oppression and judgment He was taken away" outside the city wall to the place called Calvary, and "as for His generation"—the people of His own nation and time—"who among them considered" the tragedy that was being enacted in their midst?  
+
 "Cut off out of the land of the living" in the very prime of life—how few realized that it was for the transgression of His people "to whom the stroke was due" (Isaiah 53:8).  
-5
+
 How many in Jerusalem during that awful time "considered" and pondered over the Scripture of the prophets, which gave them the portrait of the Man they crucified?  
 But the Man of sorrows knew! He said every step of His path must needs be "as it is written of Him." As He set His face to go on His last journey to Jerusalem, it was with the words "All the things that are written through the prophets shall be accomplished unto the Son of Man. For He shall be delivered up," "mocked," "shamefully treated," "spit upon," "and they shall scourge and kill Him" (Luke 18:31-33).  
 He said, "It is written," when Judas betrayed Him, and when His disciples forsook Him; and again, after He was risen from the dead, He reminded them that when He was yet with them He had sought to prepare them for His cross by telling them of "all things that must needs be fulfilled"—revelations written in "the Law of Moses, and the Prophets, and the Psalms" (Luke 24:44), concerning Him.  
@@ -89,7 +94,8 @@ Moreover, Isaiah not only foretold the sufferings and death of the Christ but th
 This was literally fulfilled; and the instrument prepared by God to carry out His counsels was found in "Joseph of Arimathea, a councilor of honorable estate," who was "looking for the kingdom of God" (Mark 15:43), and said to be a secret disciple of the Lord Jesus.  
 Joseph had sat in the council that condemned the Righteous One, but "he had not consented to their counsel and deed." He must have marveled with the Governor at the extraordinary silence of the Divine Sufferer, and in his heart re-echoed the verdict of Pilate that there was no cause worthy of death found in Him.  
 Unable to save the victim from His accusers, Joseph did what he could as soon as the sentence of death had been carried out by going boldly to Pilate and asking for the body of the Lord, then reverently laying it in his own new tomb.  
-The Provided Lamb of God (verse 10)  
+
+<h5>The Provided Lamb of God (verse 10)</h5>  
 "It pleased Jehovah to bruise Him. ...”  
 "He hath put Him to grief. ...”  
 "His soul a guilt-offering [mg.] for sin. . . .”  
@@ -98,26 +104,33 @@ Despised and rejected by men, wounded, bruised, cut off out of the land of the l
 Hitherto the worshipers had to bring the sacrifice, but when God provided the Lamb, and laid upon Him the iniquity of all, there would be nought for them to do but accept the provision made for them.  
 The One who had grown up before the Father as a "tender plant" is "put to grief" by the express will of Jehovah. It was His sovereign pleasure to "bruise Him.”  
 In this passage we see Calvary from the standpoint of the Father, who so loved the world that He spared not His own Son but delivered Him up for us all; just as in the preceding paragraph we have foretold the voluntary offering of the Son, when "He humbled Himself" and gave Himself up to death as a "lamb led to the slaughter," a sheep in the hands of the shearers, opening not His mouth.  
-The Fruit of the Cross (verses 10-11)  
+
+<h5>The Fruit of the Cross (verses 10-11)</h5>  
 "He shall see His seed. . . .”  
 "He shall prolong His days. . . .”  
 "He shall see of the travail of His soul. . . .”  
 "He shall... be satisfied. . . .”  
+
 Another aspect of the cross is referred to in these words. Calvary is viewed now as in harmony with a law of God—the law of sacrifice for fruitfulness.  
 Bruised and put to grief, the Christ is said to "prolong His days" through the seed thus brought into being, and "the pleasure of the Lord" in seeking fruit after His own image prospers in His hand.  
 The yearning of the Creator for fellowship with beings created after His own likeness is one of the greatest mysteries in the revelation of the heart and character of Jehovah. "Let Us make man in Our image, after Our likeness" (Genesis 1:26), the Triune God had said, when the beautiful earth, created by His word, lay before Him, but with no beings upon it answering to His heart.  
 "He shall see His seed." "He shall see and be satisfied with the travail of His soul" (mg.) reveals the same yearning in the heart of the God-Man. Grieved over the fall of the first creation, He gives His life on Calvary for the birth of a new race, a re-creation of those who had gone astray and turned each one to "his own way." By His death "making many righteous" through His bearing of their iniquities, He beholds the fruit of His travail and is satisfied.  
-6
+
 This new birth for the fallen children of the first Adam is declared to be the fruit of His cross by the Lord Jesus Himself, shortly after the beginning of His public ministry, when He told Nicodemus that sinful men "must" be born again, and that the Son of Man "must" be "lifted up" (John 3:14-16) to become the source of life eternal to them.  
-The Victory of the Cross (verse 12)  
+
+<h5>The Victory of the Cross (verse 12)</h5>  
+
 "Therefore will I divide Him a portion with the great. ...”  
 "He shall divide the spoil with the strong. . . .”  
+
 Yet another aspect of Calvary is shown us here. Another person, called the "strong," is mentioned, and the language used suggests a battle and the dividing of the "spoil" won in the fight. Elsewhere Isaiah speaks of the "prey of the terrible" and the deliverance of the "captives of the just" from the "mighty" (Isaiah 49:24-25, mg.).  
 It is also said that the spoil is given to the Man of sorrows "because He poured out His soul unto death," and "because He . . . was numbered with the transgressors.”  
 Calvary was thus to be not only the bearing of our iniquities that we might be healed; not merely the guilt-offering for sin through which we would be made righteous; not just a travail for the birth of a new race in the likeness of the Son of God. It was also a battle with a terrible foe—for the deliverance of those held captive by his power.  
 This accords with other passages of Scripture, for David in vision beheld the ascended Lord leading "captivity captive" into the sanctuary on high, and the inspired writer of the Epistle to the Hebrews, says that "through death" the Christ brought to nought the devil, that He might "deliver all them who through fear of death were all their lifetime subject to bondage" (Hebrews 2:15).  
 It is written that He took the spoil from the strong because He was "numbered with the transgressors." In perfect obedience to His Father's will, He accepted and drank the cup of suffering and death! How can we fathom what it meant to Him "who knew no sin" to be numbered with the transgressors" and "made sin on our behalf" (2 Corinthians 5:21)? This view of Calvary may reveal to us one cause of the victory of Christ over the terrible one. The devil had sought to be exalted even as the Most High, but the Son of God humbled Himself and consented to be made lower than the lowest. Therefore God highly exalted Him, and gave unto Him the Name which is above every name; for Calvary in its depth of shame on earth was exaltation in heaven.  
-The Effect of the Cross in Heaven (verse 12)  
+
+<h5>The Effect of the Cross in Heaven (verse 12)</h5>  
+
 "He bare the sin of many and made intercession for the transgressors.”  
 In this brief sentence we are given a glimpse into the heavens to see the Victor from Calvary within the veil, "before the face of God" (Hebrews 9:24) on behalf of all for whom He died.  
 "Numbered with the transgressors," He could make intercession for the transgressors; for He was "touched with the feeling" of their sorrows, having been Himself tempted in all points like as they (yet without sin). For prior to the cross He "suffered being tempted" (Hebrews 2:18) when He walked on earth as man.  
@@ -126,9 +139,10 @@ Sometime later, after the day of Pentecost had fully come, a man of authority wa
 Thus did the Holy Spirit bear witness that Isaiah had truly foreshown the Christ of God, and that  
 "He saw His glory, and he spake of Him" (John 12:41).  
 7
-CHAPTER 2
+<h3>CHAPTER 2</h3>
 "The Spirit of Truth . . . shall glorify Me: for He shall take of Mine, and shall declare it unto you.”—John 16:13-14.  
-The Cross Interpreted by the Ascended Christ  
+
+<h4>The Cross Interpreted by the Ascended Christ</h4>  
 "The gospel which was preached by me ... is not after man. For neither did I receive it from man, nor was I taught it, but it came to me through revelation of Jesus Christ."— Galatians 1:11-12.  
 We have already noticed the teaching of the Apostle Peter that the Spirit of Christ indwelt and controlled the old-time prophets when they testified beforehand about the sufferings of Christ and the glories that would follow.  
 This Spirit-testimony not only revealed the Son of God as suffering the death on the cross when His hour had come, but, in the broadest sense, set forth Christ as being the theme of prophecy from the beginning of the world. By the Holy Spirit He inspired the preaching of His coming sacrificial death during the centuries preceding His manifestation to the world. Since this was the case before His passion, there is no reason to think that after He ascended into heaven He then committed the interpretation and proclamation of His crucifixion entirely to the wisdom of men.  
@@ -145,14 +159,15 @@ We may well believe that an arrow of conviction pierced the heart of Saul that d
 Isaiah the prophet had been chosen and fitted by God to foreshadow the wondrous story of the cross and portray in tender language the characteristics of the Lamb of God. Even so was Paul chosen by the Lord to receive and proclaim the message of the cross.  
 Isaiah and Paul were each prepared for their special service by a personal meeting with God— a meeting which aroused in each such self-abhorrence that Isaiah could but cry, "Woe is me, for I am undone," and the Apostle say, "In me . . .dwelleth no good thing." Each also came to the same entire surrender to God, Isaiah saying, "Here am I, send me," and Paul, "Lord, what wilt Thou have me to do?”  
 "Isaiah's bitter weeping over his people" (Isaiah 22:4) and Paul's agony of soul over the blindness of Israel (Romans 9:3) also show that both were men capable of deep suffering and of utter abandonment to the service of God, and that both had largeness of spirit to receive and communicate the teachings of the Spirit of God. Each was given the theme of Calvary, the one in its germ and the other in its full fruition. Each was inspired by the Spirit of Christ Himself—in the one, testifying beforehand of His sufferings, and in the other, interpreting the glorious results of His death.  
-8
+
 We are not surprised, therefore, to find Paul declaring emphatically that the gospel which he preached was "not after man" nor did he "receive it from man"—not even from one who had been an eyewitness of the sufferings of Christ; that he was not taught it by anyone, but that it had been given to him by direct "revelation of Jesus Christ." And so he wrote to the Galatians, "The message you have heard from me was out and out divine, authentic from the throne. . . . The risen Lord personally unveiled it to me" (paraphrase outline of Galatians 1:11-24, Moule).  
 We have then this wonderful and solemn fact, that the risen and ascended Lord, with the marks of His passion upon the sacred body He carried into heaven, Himself interpreted to Paul the object of His death. If we keep this in mind as we meditate upon the message of Calvary as expressed in the writings of Paul, the "word of the cross" will in truth be unto us the "energy of God.”  
 That the gospel of the cross as preached by Paul was given him directly by the Lord Himself is also proved by the results of his visit to the leading apostles of Christ in Jerusalem. "By revelation" (Galatians 2:2) Paul is bidden to lay before the apostles the gospel he was preaching among the Gentiles, and when he did this he found that he had been taught so fully by the risen Lord Himself that they who had seen Christ die, had held converse with Him after He was risen from the dead, and had been filled with the Holy Spirit on the day of Pentecost, had nothing to impart to the one chosen of the Lord to proclaim the message of His love.  
 Not only had they nothing to impart, but they "perceived the grace given unto him," and acknowledged that this man had in truth been "entrusted with the gospel" (Galatians 2:6-9). Accordingly they gave unto him the "right hand of fellowship," proving for all time that the gospel preached by him was in full harmony with the gospel proclaimed by all the apostles—the gospel doubtless given to them by Christ Himself when after His passion He appeared unto them "by the space of forty days," "speaking the things concerning the kingdom of God" (Acts 1:3).  
 Since the message of Calvary was therefore given to Paul by direct revelation of the Lord, we do not marvel that it dominated his life and was woven into the very texture of all his writings. Burnt into his heart, he who had not seen the God-Man actually die1 preached His cross and passion with such intensity and such manifest illumination of the Holy Spirit that he could declare to the Galatians that "Jesus Christ had been painted large upon His cross to their very eyes" (translation of Galatians 3:1, Moule).  
 May God the Holy Spirit bear witness again to the gospel of the cross through Paul as we reverently listen to the Lord Himself, through His messenger, interpreting His death.  
-The Cross to the Natural Man
+
+<h5>The Cross to the Natural Man</h5>
 "The natural man receiveth not the things of the Spirit... they are foolishness unto him."—1 Corinthians 2:14.  
 "The word of the cross is to them that are perishing foolishness." — 1 Corinthians 1:18.  
 "Christ crucified, unto Jews a stumbling-block, and unto Gentiles foolishness." — 1 Corinthians 1:23.  
@@ -181,7 +196,7 @@ The word of the cross, unto those who are "being saved," is the power of God to 
 It is a wisdom which is a mystery to the natural man, but which is revealed by the Spirit of God unto all those who love God; a wisdom, writes the Apostle, which will be "unto our glory" when the wisdom of this world shall have passed away.  
 "God's wisdom in a mystery" is "the mystery of God, even Christ, in whom are all the treasures of wisdom and knowledge hidden" (Colossians 2:2-3). A Messiah crucified is unto the called, both Jews and Greeks, the power of God and the wisdom of God (1 Corinthians 1:23-24, mg.).  
 10
-CHAPTER 3
+<h3>Chapter 3</h3>
 "Forasmuch then as Christ suffered... arm ye yourselves with the same thought: for he that hath suffered in the flesh hath ceased from sin."—1 Peter 4:1, mg.  
 The Twofold Message of the Cross  
 "Having made peace through the blood of His cross ... you ... hath He reconciled in the body of His flesh through death."—Colossians 1:20-22.  
@@ -227,8 +242,8 @@ Hidden in Christ upon His cross and joined to Him in His life, your part, O chil
 "But now, being freed from the bondage of sin, and enslaved to the service of God" (Romans 6:22, C.H.), you must deal honesty with sin, calling sin, sin. Be steadfastly purposed to walk in obedience to your Lord, counting upon Him to work in you to will and to do of His good pleasure.  
 Let every stress of trial or temptation drive you to the searchlight of His face that you may see all things in His light. So shall you "walk in the light as He is in the light," with the precious blood of Jesus Christ cleansing you from all sin. "And if any man sin, we have an Advocate with the Father, Jesus Christ the Righteous"—He who is "the propitiation for our sins; and not for ours only, but also for the whole world" (1 John 2:1-2).  
 But before we crave deliverance we must necessarily feel the weight of our chains. At this point we come to the purpose of the law, unfolded in the seventh chapter of Romans.  
-13
-CHAPTER 4
+
+<h3>CHAPTER 4</h3>
 "Faithful is the saying: For if we died with Him, we shall also live with Him."—2 Timothy 2:11.  
 The Cross and the Law
 "Ye also were made dead to the law through the body of Christ.. . . Now we have been discharged from the law, having died to that wherein we were holden."—Romans 7:4-6.  
@@ -292,8 +307,8 @@ Then you are discharged from the claims of the law—"having died"! You are "joi
 You shall find that "what the law could not do" (Romans 8:3), by commanding you from without, God's own Son, sent in your likeness to die in your place, can do within you; and the very "requirement of the law" (Romans 8:4, mg.) which you have so utterly failed to obey, shall now be fulfilled in you as you yield to the Spirit of God and "walk not after the fleshy but after the Spirit?  
 Oh soul, you have lived in ceaseless condemnation. No longer need this be! Those who have cried for deliverance "through Jesus Christ our Lord" and recognized the answer of death within themselves that they should not trust in themselves but in God who raises the dead—for them "there is no condemnation." For "in Christ Jesus" they experience the force of a new law, an in-working Spirit of life, making them free from the old law with its reign of sin.  
 “For freedom did Christ set us free: standfast therefore, and be not entangled again in a yoke of bondage" (Galatians 5:1, mg.). See that you walk step by step in the Spirit, minding "the things of the Spirit" (Romans 8:5). By the power of the Spirit of life which dwells in you, realize the fact that you are a child of the Father, and if a child, then an heir—an heir of God, and joint-heir with Christ, if so be that you suffer with Him, that you may be glorified together (see Romans 8:16-17).  
-16
-CHAPTER 5
+
+<h3>CHAPTER 5</h3>
 "To this end Christ died and lived again, that He might be Lord."—Romans 14:9.  
 Crucified with Christ  
 "I through the law died unto the law, that I might live unto God. I have been crucified with Christ; and it is no longer I that live, but Christ."— Galatians 2:19-20.  
@@ -319,8 +334,8 @@ Once more we look to Calvary and see that we have died to the law, for God no lo
 Again we "look" to Calvary, and with clearer vision see ourselves—"/" crucified with Him. As the Spirit illuminates the message, we marvel that we did not understand the wondrous secret long before. We have but to make way for the living Christ by taking His cross as ours and He will manifest Himself through us.  
 And is this all? No, no. As He who died and rose again occupies the throne within, in His light we shall see light; and as new departments of our complex beings are brought into the searchlight of His Presence, we shall discover ever deeper depths of our need and find Calvary again and again the place of life.  
 "Crucified with Christ!" His cross is mine! I am there with Him. I consent to share His cross, and meet all things with "No longer I!" "I have no longer a separate existence. I am merged in Christ" (Lightfoot), so He, the Living One, will move forth through me, working in me that which is well-pleasing in His sight.  
-18
-CHAPTER 6
+
+<h3>CHAPTER 6</h3>
 "He shall come to be glorified in His saints, and to be admired in all them that believe"—2 Thessalonians 1:10, A. V.  
 The Cross and the Living Christ  
 "I have been crucified with Christ ... no longer I, but Christ liveth in me."—Galatians 2:20.  
@@ -368,8 +383,8 @@ O soul, redeemed by the precious blood of Christ, if the "word of the cross" has
 3) By faith in the risen Christ walk on with Him, refusing all temptation to look within or turn back upon yourself at all. Let His word dwell in you richly, teaching you His will for your manner of life, and pour out your heart's longings to Him that He might show Himself through you to all around.  
 4) By faith you stand. Be not high-minded, but fear. No past experience of His grace will avail you should you turn from simple dependence upon your Lord. You have no power but what you receive from Him hour by hour. You have a watchful foe, ready to ensnare you if you but give him place. Keep yourself safely hidden in your Lord who intercedes for you before the throne of God; for if you will walk in the light, bringing to the light your doings—that it may be shown to you whether they are "wrought in God" (John 3:21)—the blood of Jesus Christ His Son will keep cleansing you from all sin, and you shall walk in blessed fellowship with Him.  
 "Let us hold fast the confession of our hope that it waver not, for He is faithful that promised" (Hebrews 10:23). "If we are faithless, He abideth faithful; for He cannot deny Himself" (2 Timothy 2:13).  
-21
-CHAPTER 7
+
+<h3>CHAPTER 7</h3>
 "He showed unto them His hands and His side. . . . He breathed on them, and saith unto them, Receive ye the Holy Spirit"—John 20:20-22.  
 The Cross and the Holy Spirit  
 "Christ redeemed us from the curse ... having become a curse for us ... that we might receive the promise of the Spirit."—Galatians 3:13-14.  
@@ -408,8 +423,8 @@ Are you in the service of the King? As the Holy Spirit reveals the Christ in you
 The Christ Himself will work through you mightily by the Holy Spirit as you abandon yourself to His will. But remember: "There are diversities of gifts, but the same Spirit"; "diversities of workings, but the same God, who worketh all things in all." "All [are the work of] ... the same Spirit, dividing to each one severally even as He will" (see 1 Corinthians 12:4-11).  
 The Son of God was anointed with the oil of gladness above His fellows because He "loved righteousness and hated iniquity" (Hebrews 1:9). Even so will the Christ bring you into a deep hatred of sin and a love of all that pertains to the righteousness of God; you will love your Lord not only as a God of love but also as the God of terrible holiness. You will covet the severity of God upon all in yourself that is unlike Him and gladly be chastened that you may become a partaker of His holiness. So shall you become united in closer bonds to your Lord and a sharer in the anointing of Him whose scepter is a scepter of "rightness" or "straightness" (Hebrews 1:8, A.V., mg.).  
 Knowing that you have given room to the Holy Spirit, now walk step by step in the Spirit, depending alone upon Him and seeking only His will and pleasure; so will He lead you on and teach you how to abide in your Lord, being adjusted into your place in His mystical Body. And you shall know that "the anointing which ye have received of Him abideth in you . . . the [very] anointing [which] teacheth you of all things, and is truth, and is no lie; and even as it hath taught you, ye shall abide in Him" (1 John 2:27, A.V.).  
-24
-CHAPTER 8
+
+<h3>CHAPTER 8</h3>
 "Present yourselves unto God, as alive from the dead, and your members as weapons... unto God."—Romans 6:13, mg.  
 The Life Side of the Cross  
 "One died for all, therefore all died; and He died for all that they which live should no longer live unto themselves, but unto Him"—2 Corinthians 5:14-15.  
@@ -467,8 +482,8 @@ Measure thy life by loss instead of gain;
 Not by the wine drunk, but the wine poured forth;
 For love’s strength standeth in love's sacrifice—
 And whoso suffers most hath most to give.  
-27
-CHAPTER 9
+
+<h3>CHAPTER 9</h3>
 "Jesus... suffered without the gate. Let us there-fore go forth unto Him without the camp, bearing His reproach"—Hebrews 13:12-13.  
 Crucified to the World
 "Far be it from me to glory, save in the cross of our Lord Jesus Christ, through which [whom, mg.] the world hath been crucified unto me, and I unto the world."—Galatians 6:14.  
@@ -526,8 +541,8 @@ And yet even now in the professing Christian Church, called by the name of Chris
 30
 "Peace be unto you,”  
 uniting all the sections of the living members of His Church, "THROUGH THE CROSS"!  
-31
-CHAPTER 10
+
+<h3>CHAPTER 10</h3>
 "To this end was the Son of God manifested, that He might destroy the works of the devil."—1 John 3:8.  
 The Cross and the Powers of Darkness  
 "He blotted out the handwriting of our debts ... affixed [it] to His cross. And, by yielding up His body, He showed contempt for principalities and authorities; and put them to shame, openly, in His own Person."—Colossians 2:14-15, Syriac Version.  
@@ -604,8 +619,8 @@ You must quickly take, and hide behind, the "shield of faith" from the "fiery da
 In intimate converse with your Lord, speaking to Him at "all seasons in the Spirit" (Ephesians 6:18), you shall be equipped to meet the foe, and be more than conqueror through Him who loves you.  
 Knowing also the fierceness of the fight—and that when one member of the Body of Christ suffers, all suffer too—you will with "all perseverance" be pleading for "all saints," especially on the behalf of those who, like the warrior Paul, are in the front lines of the battle of the Lord.  
 Then you shall be taught by Him how to "stand in the battle in the day of the Lord," and will be sent forth as an armed warrior, clothed in shining armor, in aggressive warfare to win the trophies of the cross, seeing signs and wonders done in the name of the crucified and risen Lord.  
-35
-CHAPTER 11
+
+<h3>CHAPTER 11</h3>
 "If we died with Him, we shall also live with Him; if we endure, we shall also reign with Him.”—2 Timothy 2:11-12.  
 The Cross and Its Continuity  
 "That I may know Him, and the power of His resurrection, and the fellowships of His sufferings, becoming conformed unto His death.” —Philippians 3:10.  
@@ -665,8 +680,8 @@ This is the apostolic life that each of the redeemed may know—the life of frui
 Oh children of God, we may preach the cross, and even fight for the cross, but we render void our very message unless we are prepared to live the cross, and, in Paul's language, be ready to be "killed all the day long," that thereby death shall work in us and life in others, to the glory of Him who for our sakes died and rose again.  
 "So then death worketh in us, but life in you," writes the Apostle. In us—emptiness, weakness, suffering, pressure, perplexity, but in you—LIFE.  
 Even so, Father, for thus it seems good in Thy sight. Be it unto me according to Thy word.  
-38
-CHAPTER 12
+
+<h3>CHAPTER 12</h3>
 "He that overcometh, I will give to him to sit down with Me in My throne, as I also overcame."— Revelation 3:21.  
 The Call to the Cross  
 "He that doth not take his cross and follow after Me is not worthy of Me."—Matthew 10:38.  
@@ -727,8 +742,8 @@ Neither may he leave the cross to the Christ and think that he can escape it. He
 "Renounce all that he hath" seems to be the summing up of the claims of the cross, the holocaust by which Christ purchased His redeemed. But let us not forget that the believer "renounces" his all only to be given "a hundredfold, now in this time" and "in the age to come eternal life" (Mark 10:29-30, mg.).  
 In brief, we deny—or renounce—ourselves or else we deny the Lord who bought us. But if we have had the cross of Jesus unveiled to us in the power of the Spirit, our "own cross" will be lost sight of in His. We shall joyfully reckon that the sufferings of this present time are not worthy to be compared with the glory which shall be revealed in us by and by!  
 The call to the cross is imperative; the claims of the cross are unqualified; the glory of the cross unspeakable! Shall we not heed the call?  
-42
-CHAPTER 13
+
+<h3>CHAPTER 13</h3>
 "Hath the stumbling-block of the cross been done away?"—Galatians 5:11.  
 The Preaching of the Cross  
 "I determined not to know anything among you save Jesus Christ, and Him crucified."—1 Corinthians 2:2.  
@@ -779,8 +794,8 @@ The warning comes in this passage of the Scripture about the responsibility of l
 Oh that the Holy Spirit may so illumine the death on the cross to every child of God that the exceeding sinfulness of sin may be seen in the light of Calvary, and a resisting of sin, even unto death, be the mark of all the redeemed in these latter days, with the deep sense that, for those whom He has purchased with His own blood, all yielding to sin now is a "re-crucifixion, a re-binding, re-nailing, re-torturing, re-agonizing and re-killing" (Dean Vaughan) of the Son of God, who "suffered for sins once, the Righteous for the unrighteous, that He might bring us to God" (1 Peter 3:18).  
 "And one shall say unto Him, What are these wounds between Thine hands? Then He shall answer, Those with which I was wounded in the house of my friends" (Zechariah 13:6, mg.).  
 Oh child of God, beware of the deceitfulness of sin. Take heed that you do not presume on the grace of God by yielding to the least temptation with the thought that you can be freely forgiven. See, too, that you do not call sin by the name of "infirmity" nor in any degree excuse yourself for failure. Since Christ has died there is full victory for you, but you must walk in godly fear before the Lord and touch not anything that is to you the unclean thing.  
-45
-CHAPTER 14
+
+<h3>CHAPTER 14</h3>
 "By His own blood He entered in . . . having obtained eternal redemption for us."—Hebrews 9:12.  
 The Lamb in the Midst of the Throne  
 "Behold a door opened in heaven. . . ." "I saw in the midst of the throne... a Lamb standing, as though it had been slain."—Revelation 4:1, 5:6.  
