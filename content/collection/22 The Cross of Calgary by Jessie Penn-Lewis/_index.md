@@ -14,7 +14,6 @@ bookCollapseSection: true
 layout: single-sidebar
 ---
 
-The Cross of Calvary by Jessie Penn-Lewis
 
 
 
