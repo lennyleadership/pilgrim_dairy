@@ -33,11 +33,11 @@ The hour had come! The Lamb slain from the foundation of the world was now to be
 
 By picture lessons and prophetic voices, for centuries before, God had been foretelling this dread hour; and He has been directing the world back to it for nearly two thousand years.  
 
-Calvary—which means "The Skull"—is the very pivot of the world's history. All prior things pointed forward to it; and all subsequent things point back to it. Even the future rests upon it, for the redeemed in heaven find it the center of heaven as they behold a Lamb in the midst of the throne, "standing as though it had been slain.”  
+Calvary — which means "The Skull"—is the very pivot of the world's history. All prior things pointed forward to it; and all subsequent things point back to it. Even the future rests upon it, for the redeemed in heaven find it the center of heaven as they behold a Lamb in the midst of the throne, "standing as though it had been slain.”  
 
 Seven hundred years before the Man Christ Jesus was led to the place called Calvary, a prophet inspired of God foreshadowed the cross and gave such a word-picture of the Savior of the world that none but blinded hearts could fail to recognize Him when He came to earth—God manifest in the flesh.  
 
-Through the prophet Isaiah the Spirit of God poured a flood of light upon Calvary; depicting the pathway to the cross, its atoning sacrifice, its sufferings and its fruit—so all who knew the teachings of the book of Isaiah were without excuse as they crucified the Lord of glory.  
+Through the prophet Isaiah the Spirit of God poured a flood of light upon Calvary; depicting the pathway to the cross, its atoning sacrifice, its sufferings and its fruit — so all who knew the teachings of the book of Isaiah were without excuse as they crucified the Lord of glory.  
 
 The prophecy of Isaiah makes it clear that Christ was "delivered up by the determinate counsel and foreknowledge of God" (Acts 2:23), for God "foreshowed by the mouth of all the prophets, that His Christ should suffer" (Acts 3:18). And when at Calvary "lawless men did crucify and slay" the "Prince of Life," the rulers of Israel fulfilled the predictions of the prophets they read every sabbath day, by "condemning Him.”  
 
@@ -72,6 +72,7 @@ Men hid their faces from Him, but "He hid as it were His face from us" is the ma
 The divine and human estimations of the Man of sorrows in His pathway to the cross are thus fully foreshadowed by the prophet, and the Holy Spirit as plainly foretells the substitutionary object of His death.  
 
 <h5>The Purpose of the Cross (verses 4-6)</h5>  
+
 "He hath borne our griefs. ...”  
 
 "He hath carried our sorrows. ...”  
@@ -93,6 +94,7 @@ Thus briefly we have portrayed for us the result of the Fall in Eden and the cau
 Independence of God is the very essence of sin. To every man "his own way" ends in transgression and iniquity. The first all of verse 6 includes every human being brought into the world, and the second all proclaims the atoning sacrifice of Christ for every one under the curse of sin.  
 
 <h5>The Death of the Cross (verses 7-9)</h5>  
+
 "He humbled Himself, and opened not His mouth. ...”  
 
 "A lamb that is led to the slaughter. ...”  
@@ -123,6 +125,7 @@ Joseph had sat in the council that condemned the Righteous One, but "he had not 
 Unable to save the victim from His accusers, Joseph did what he could as soon as the sentence of death had been carried out by going boldly to Pilate and asking for the body of the Lord, then reverently laying it in his own new tomb.  
 
 <h5>The Provided Lamb of God (verse 10)</h5>  
+
 "It pleased Jehovah to bruise Him. ...”  
 
 "He hath put Him to grief. ...”  
@@ -140,6 +143,7 @@ The One who had grown up before the Father as a "tender plant" is "put to grief"
 In this passage we see Calvary from the standpoint of the Father, who so loved the world that He spared not His own Son but delivered Him up for us all; just as in the preceding paragraph we have foretold the voluntary offering of the Son, when "He humbled Himself" and gave Himself up to death as a "lamb led to the slaughter," a sheep in the hands of the shearers, opening not His mouth.  
 
 <h5>The Fruit of the Cross (verses 10-11)</h5>  
+
 "He shall see His seed. . . .”  
 
 "He shall prolong His days. . . .”  
@@ -187,167 +191,299 @@ Let us go to Calvary, and in the light thrown on it by the prophecy of Isaiah, b
 Sometime later, after the day of Pentecost had fully come, a man of authority was riding in his chariot in the desert, reading aloud the prophecy of Isaiah. At the moment he reached the words "He was led as a sheep to the slaughter... His life is taken from the earth," a certain disciple named Philip drew nigh, and was bidden of the Holy Spirit to run over to the chariot. Sitting beside the eunuch, he preached unto him JESUS from the prophecy of Isaiah. The Spirit-given foreshadowing of the cross was now the Spirit-given message to a seeking heart through a messenger instructed by Him (see Acts 8:26-35).  
 
 Thus did the Holy Spirit bear witness that Isaiah had truly foreshown the Christ of God, and that "He saw His glory, and he spake of Him" (John 12:41).  
-7
+
 <h3>CHAPTER 2</h3>
+
 "The Spirit of Truth . . . shall glorify Me: for He shall take of Mine, and shall declare it unto you.”—John 16:13-14.  
 
 <h4>The Cross Interpreted by the Ascended Christ</h4>  
+
 "The gospel which was preached by me ... is not after man. For neither did I receive it from man, nor was I taught it, but it came to me through revelation of Jesus Christ."— Galatians 1:11-12.  
+
 We have already noticed the teaching of the Apostle Peter that the Spirit of Christ indwelt and controlled the old-time prophets when they testified beforehand about the sufferings of Christ and the glories that would follow.  
+
 This Spirit-testimony not only revealed the Son of God as suffering the death on the cross when His hour had come, but, in the broadest sense, set forth Christ as being the theme of prophecy from the beginning of the world. By the Holy Spirit He inspired the preaching of His coming sacrificial death during the centuries preceding His manifestation to the world. Since this was the case before His passion, there is no reason to think that after He ascended into heaven He then committed the interpretation and proclamation of His crucifixion entirely to the wisdom of men.  
+
 The apostles were eyewitness of His sufferings, but they were not left to preach what each may have thought to be the meaning of the cross, for we find that in the upper room on the Day of Pentecost the Third Person of the blessed Trinity—the Spirit of Truth who proceeds from the Father—takes possession of the chosen band of witnesses to equip them for their work.  
+
 The Holy Spirit, the gift of the Father to the Son for His redeemed on earth, comes forth Himself to bear testimony to the Crucified One and, through His disciples, to witness to His death and rising again.  
+
 "Ye shall receive upon you the power of the Holy Spirit, and ye shall be witnesses unto Me," the risen Lord had declared. And now, energized by the Holy Spirit, we find these chosen witnesses bearing testimony to the death and resurrection of the Lord Jesus.  
+
 "Ye . . . did crucify and slay," but "God raised up" (Acts 2:23-24). "God hath made Him both Lord and Christ, this Jesus whom ye crucified" (Acts 2:36). "Ye denied the Holy and Righteous One, and asked for a murderer to be granted unto you, and killed the Prince of Life; whom God raised from the dead" (Acts 3:14-15).  
+
 "You crucified the one whom God has raised." This was the burden of the message borne witness to by "distributions of the Holy Spirit," and by signs and wonders done through the name of the crucified and risen Son of God.  
+
 Stephen in particular, "full of grace and power, wrought great wonders and signs among the people," bearing witness before the Jewish council to the crucified Jesus, and then crowning his testimony by laying down his life for the One who had died for him.  
+
 The fruit of the cross was manifested in a signal way through the death of Stephen, for from his death sprang the one who was to proclaim in mighty powers the full meaning of the sacrifice of the Son of God.  
+
 In the death of Stephen and the resulting conversion of Saul the Pharisee we have an object lesson of the way in which the message of the cross is the power of God. We learn that it is the word of the cross, spoken by the Holy Spirit in conjunction with the spirit of the cross imparted to the messenger, that produces the fruit of the cross in other souls.  
+
 It may even be said that Saul the Pharisee was an eyewitness of the sufferings of the Lord Jesus in His martyr Stephen, for he heard the dying Stephen pray, "Lord, lay not this sin to their charge"—just as the Lord had prayed on the cross for those who crucified Him, saying, "Father, forgive them, for they know not what they do.”  
+
 We may well believe that an arrow of conviction pierced the heart of Saul that day, and when he so suddenly met the risen Lord on the way to Damascus and heard him say, "Saul, Saul, why persecutest thou Me? It is hard for thee to kick against the pricks," Saul knew that he had seen the Spirit of Christ in the martyr Stephen ... and the "chosen vessel" was won to the feet of his Lord.  
+
 Isaiah the prophet had been chosen and fitted by God to foreshadow the wondrous story of the cross and portray in tender language the characteristics of the Lamb of God. Even so was Paul chosen by the Lord to receive and proclaim the message of the cross.  
+
 Isaiah and Paul were each prepared for their special service by a personal meeting with God— a meeting which aroused in each such self-abhorrence that Isaiah could but cry, "Woe is me, for I am undone," and the Apostle say, "In me . . .dwelleth no good thing." Each also came to the same entire surrender to God, Isaiah saying, "Here am I, send me," and Paul, "Lord, what wilt Thou have me to do?”  
+
 "Isaiah's bitter weeping over his people" (Isaiah 22:4) and Paul's agony of soul over the blindness of Israel (Romans 9:3) also show that both were men capable of deep suffering and of utter abandonment to the service of God, and that both had largeness of spirit to receive and communicate the teachings of the Spirit of God. Each was given the theme of Calvary, the one in its germ and the other in its full fruition. Each was inspired by the Spirit of Christ Himself—in the one, testifying beforehand of His sufferings, and in the other, interpreting the glorious results of His death.  
 
 We are not surprised, therefore, to find Paul declaring emphatically that the gospel which he preached was "not after man" nor did he "receive it from man"—not even from one who had been an eyewitness of the sufferings of Christ; that he was not taught it by anyone, but that it had been given to him by direct "revelation of Jesus Christ." And so he wrote to the Galatians, "The message you have heard from me was out and out divine, authentic from the throne. . . . The risen Lord personally unveiled it to me" (paraphrase outline of Galatians 1:11-24, Moule).  
+
 We have then this wonderful and solemn fact, that the risen and ascended Lord, with the marks of His passion upon the sacred body He carried into heaven, Himself interpreted to Paul the object of His death. If we keep this in mind as we meditate upon the message of Calvary as expressed in the writings of Paul, the "word of the cross" will in truth be unto us the "energy of God.”  
+
 That the gospel of the cross as preached by Paul was given him directly by the Lord Himself is also proved by the results of his visit to the leading apostles of Christ in Jerusalem. "By revelation" (Galatians 2:2) Paul is bidden to lay before the apostles the gospel he was preaching among the Gentiles, and when he did this he found that he had been taught so fully by the risen Lord Himself that they who had seen Christ die, had held converse with Him after He was risen from the dead, and had been filled with the Holy Spirit on the day of Pentecost, had nothing to impart to the one chosen of the Lord to proclaim the message of His love.  
+
 Not only had they nothing to impart, but they "perceived the grace given unto him," and acknowledged that this man had in truth been "entrusted with the gospel" (Galatians 2:6-9). Accordingly they gave unto him the "right hand of fellowship," proving for all time that the gospel preached by him was in full harmony with the gospel proclaimed by all the apostles—the gospel doubtless given to them by Christ Himself when after His passion He appeared unto them "by the space of forty days," "speaking the things concerning the kingdom of God" (Acts 1:3).  
-Since the message of Calvary was therefore given to Paul by direct revelation of the Lord, we do not marvel that it dominated his life and was woven into the very texture of all his writings. Burnt into his heart, he who had not seen the God-Man actually die1 preached His cross and passion with such intensity and such manifest illumination of the Holy Spirit that he could declare to the Galatians that "Jesus Christ had been painted large upon His cross to their very eyes" (translation of Galatians 3:1, Moule).  
+
+Since the message of Calvary was therefore given to Paul by direct revelation of the Lord, we do not marvel that it dominated his life and was woven into the very texture of all his writings. Burnt into his heart, he who had not seen the God-Man actually die<label for="die" class="margin-toggle sidenote-number"></label><span class="sidenote">If Paul had been present at the tragedy of Golgotha, surely he would have made some reference to it in his writings.</span> preached His cross and passion with such intensity and such manifest illumination of the Holy Spirit that he could declare to the Galatians that "Jesus Christ had been painted large upon His cross to their very eyes" (translation of Galatians 3:1, Moule).  
+
 May God the Holy Spirit bear witness again to the gospel of the cross through Paul as we reverently listen to the Lord Himself, through His messenger, interpreting His death.  
 
-<h5>The Cross to the Natural Man</h5>
+<h4>The Cross to the Natural Man</h4>
+
 "The natural man receiveth not the things of the Spirit... they are foolishness unto him."—1 Corinthians 2:14.  
+
 "The word of the cross is to them that are perishing foolishness." — 1 Corinthians 1:18.  
 "Christ crucified, unto Jews a stumbling-block, and unto Gentiles foolishness." — 1 Corinthians 1:23.  
+
 Although Paul received his gospel by direct revelation of Jesus Christ, he was under no delusion as to its reception by the natural man. Like Isaiah he knew that the cross as the "arm of the Lord" must be revealed by the Holy Spirit, for to the darkened intellect (Ephesians 4:18) and rebellious will of the children of unbelief, the whole message would appear but folly.  
+
 "Salvation through the death of another? It is contrary to all justice! Man unable to save himself? No, it is all folly!”  
+
 To the Jews the word of the cross would be a still greater stumbling block. Was it not written in their Scriptures, "He that is hanged is accursed in the sight of God" (Septuagint)?  
+
 Again and again Paul must have had the words cast in his teeth, "accursed of God," or "an insult to God," as he preached to the Jews a crucified Messiah, for in speaking of the Lord Jesus they often called Him by the name "the gibbetted one," which they found in the original Hebrew of Deuteronomy 21:23 (Lightfoot).  
+
 Apart from the illumination of the Spirit, the Jews could not see that the very words in Deuteronomy interpreted the cross of Christ, who became a "curse for us" on the tree of Calvary.  
+
 But the Jews were looking for a Messiah who would reign as a King on earth, and in reading the prophecy of Isaiah they had only seen foreshadowings of glory and kingship in the Coming One. With preconceived ideas as to the tokens of authority which would make known unto them their looked-for Messiah, the Jews had demanded of the Lord Jesus again and again to "show us a sign from heaven," and with pain the Lord had replied, "There shall no sign be given" but "the sign of Jonah." "For as Jonah ... so shall the Son of Man be ... in the heart of the earth" (Matthew 12:38-40).  
+
 Calvary and the grave, foretold by the prophet Isaiah and pictured again in the mysterious experience of Jonah the prophet, was the special "sign" promised by God to make known the Messiah, but Isaiah had written of Israel, "their ears are dull of hearing, and their eyes they have closed" (Matthew 13:14-16), and his prophecy concerning the blinded people was fulfilled.  
-1 If Paul had been present at the tragedy of Golgotha, surely he would have made some reference to it in his writings.  
-9
+
 "The Jews ask for signs," writes Paul, but have not eyes to see the signs foretold by God; the "Greeks seek after wisdom," and fail to perceive that "Christ crucified" is the power and wisdom of God.  
-The Cross and Human Wisdom
+
+<h4>The Cross and Human Wisdom</h4>
+
 "The word of the cross ... is the power of God. For it is written, I will destroy the wisdom of the wise."—1 Corinthians 1:18-19.  
+
 Paul, who had himself once been a Pharisee rejecting with bitter antagonism the story of a crucified Messiah, with heaven-lit vision sees deeply into the purpose of the cross. He beholds it as the master-stroke of Jehovah against one cause of the Fall in Eden.  
+
 "The woman saw that the tree . . . was to be desired to make one wise" (Genesis 3:6).  
+
 The desire of knowledge beyond the limit set by the Lord was one of the causes of the Fall, the effect thereof continuing unto this day, for pride of intellect is still a barrier between men and the knowledge of their Creator.  
+
 Salvation through the cross was a master-stroke of the All-wise Creator against the pride of knowledge in His fallen creatures, for the "word of the cross" is the power of God to "destroy" or bring to nought "the wisdom of the wise." The cross as the power of God is so wholly beyond the comprehension of the natural man that he must submit his intellect to his Creator and accept the message on the word of Jehovah alone.  
+
 "The foolishness of God is wiser than men," says the Scripture, and in the day when all men shall know themselves as they are known by their Creator, all that appeared to carnal reasoning as "foolishness" will be proved to be the highest wisdom of God.  
+
 The "word of the cross" is the energy of God and through it the All-wise Lord is already making "foolish" the "wisdom of the world"; for while the world "through its wisdom" is failing utterly to know Him, it is "God's good pleasure through the foolishness of the thing preached" (1 Corinthians 1:21, mg.) to "save them that believe." Through the "thing preached" which is accounted foolishness, God is working the miracle of salvation from the guilt and power of sin and recreating a new race after the likeness of Him who is the Firstborn of many brethren—the Firstborn from the dead.  
+
 The "weakness of God" manifested in Him who was "crucified through weakness" is "stronger than men." The weak and suffering Savior upon His cross of shame is mighty to save all who believe in Him.  
-The Cross and True Wisdom
+
+<h4>The Cross and True Wisdom</h4>
+
 "Howbeit we speak wisdom... yet a wisdom not of this world.... We speak God’s wisdom in a mystery."—1 Corinthians 2:6-8.  
+
 The word of the cross, unto those who are "being saved," is the power of God to bring to nought the pride of knowledge so that they may be taught God's wisdom: "things which eyes saw not, and ears heard not, and which entered not into the heart of man.”  
+
 It is a wisdom which is a mystery to the natural man, but which is revealed by the Spirit of God unto all those who love God; a wisdom, writes the Apostle, which will be "unto our glory" when the wisdom of this world shall have passed away.  
+
 "God's wisdom in a mystery" is "the mystery of God, even Christ, in whom are all the treasures of wisdom and knowledge hidden" (Colossians 2:2-3). A Messiah crucified is unto the called, both Jews and Greeks, the power of God and the wisdom of God (1 Corinthians 1:23-24, mg.).  
-10
+
 <h3>Chapter 3</h3>
+
 "Forasmuch then as Christ suffered... arm ye yourselves with the same thought: for he that hath suffered in the flesh hath ceased from sin."—1 Peter 4:1, mg.  
-The Twofold Message of the Cross  
+
+<h4>The Twofold Message of the Cross</h4>  
+
 "Having made peace through the blood of His cross ... you ... hath He reconciled in the body of His flesh through death."—Colossians 1:20-22.  
+
 The prophecy of Isaiah tells us that the sufferings and death of the Man of Sorrows were not for Himself but for those who had gone astray: "an offering for sin" by the express will of the Father, who was pleased to "bruise Him" and "put Him to grief.”  
+
 Paul the Apostle takes up the same theme and writes to the Romans that God Himself purposed the sacrifice of Christ Jesus to be "a propitiation through faith in His blood" (Romans 3:25), for only thus could He "pass over sin" and show His righteousness to a guilty world.  
+
 Jehovah spared not His own Son, but delivered Him up for us all! Yea, it is written that God Himself "was in Christ, reconciling the world unto Himself," for Father and Son are One.  
+
 Heralds sent forth and equipped by God the Holy Spirit must proclaim the tidings of peace. Commissioned by the risen Son of God as His ambassadors, they are to plead on "behalf of Christ" with perishing souls, and "as though God were entreating" by them they are to say, "Be ye reconciled to God.”  
+
 To the Colossians, Paul writes, "Having made peace through the blood of His cross" you—who were separated from God, and enemies to God, because of your evil doings—"you . . .now hath He reconciled in the body of His flesh through death" (1:20-22).  
+
 "Having made peace through the blood of His cross" refers to the propitiatory aspect of the sacrifice of Christ when He trod the winepress alone, and of the people there were none with Him (Isaiah 63:3, A.V.). However, the reconciliation of the sinner to God "in the body of His flesh through death" shows us the Savior and the saved becoming as one. In this latter aspect we see the second Adam as the Representative Man, and discern how, in His death, all who are united to Him by faith have suffered the penalty of their sins and are reconciled to God through Him.  
+
 "In the body of His flesh through death, [His intent is] to present you holy and without blemish and unreprovable before Him," continues the Apostle.  
+
 The cross is the gateway through which the reconciled soul passes into the new sphere where it is presented in Christ to the Father as "holy and without blemish and unreprovable before Him." Those who are thus reconciled die with Christ to their old sins. Their "evil works," which made them alienated and enemies to God in their mind, are now left behind. They are not reconciled to continue in the life they lived before.  
+
 The message of "peace through the blood of His cross" and reconciliation to God in the body of Christ through death, therefore, includes deliverance from the power as well as the guilt of sin.  
+
 In still plainer language does the Apostle Peter proclaim the deliverance from the bondage of sin in linkage with the remission of past sins. Writing in his First Epistle about the sufferings of Christ, he says, "His own self bare our sins in His body upon the tree, that we, having died unto sins, might live unto righteousness” (1 Peter 2:24). The alternative reading given in the margin of the A.S.V. is still more striking, for it says that Christ "carried up our sins in His body to the tree"— surely not that we might continue under their control and do them again and again!  
+
 The union of the believer with his Savior in death is thus clearly expressed by the Apostle. Having made peace by the atoning sacrifice of His cross, the Lord Jesus carried our sins to the tree so that in Him we have died to them and their power—and now, sharing His life from God, we may "live unto righteousness" by the might of the Holy and Righteous One who dwells within our hearts.  
+
 "By whose stripes ye were healed" adds the Apostle, quoting the prophecy of Isaiah, and linking the deliverance from the guilt and bondage of sin to that most sacred foreshadowing of the cross.  
+
 It was the Lamb of God who had the actual bruising and suffering on our behalf, and this was so that the healing power of His life might be imparted to us. We who believe that He has carried our sins to the tree, and in Him have died unto those sins, are henceforth to live unto God.  
+
 This is the message of Calvary as revealed unto Paul by the risen Lord, and by the words of Peter confirmed as the gospel preached by all the apostles in the days since Pentecost. Incalculable loss has come to the Church of God by the frequent severance of these two aspects of the "word of the cross" in its proclamation of the gospel of Calvary.  
+
 Moreover, deliverance from the power of sin was manifestly not taught by Paul as an "advanced" experience, for when he wrote to the converts in Rome he seemed to speak of our death with Christ as an elementary stage of experience—ignorance of which surprised him—for their fellowship with Christ's death was the only basis upon which they could realize the newness of life in Him.  
-11
-The Cross and the Bondage of Sin
+
+<h4>The Cross and the Bondage of Sin</h4>
+
 "Crucified with Him . . . that so we should no longer be in bondage to sin."—Romans 6:6.  
 "Reconciled to God through the death of His Son, much more, being reconciled, shall we be saved in His life" (Romans 5:10, mg.), writes Paul to the Romans, as he goes on to show the wondrous plan of God, that all who are thus reconciled and recipients of the gift of righteousness should "reign in life" (Romans 5:17). As sin had once reigned over them, even so might grace reign through Jesus Christ.  
+
 But someone may raise the question, "Should we not then continue in sin so that God may show more of His abounding grace?" (see Romans 6:1). "God forbid!" bursts forth the Apostle. The death of Christ, and the free grace of God abounding therefrom, can never be meant to minister to sin!  
+
 It is true that God's abounding grace is given to sinners through the death of His Son, but with the Son of God we "died." Then how shall we who have died to sin live any longer therein? (Romans 6:2).  
+
 The Apostle of the Cross is deeply moved as he writes! By "revelation of Jesus Christ" he had been shown the meaning of Calvary, and in the light of the cross had seen the depth of the Fall and the exceeding sinfulness of sin—which demanded nothing less than the death of the Son of God Himself, in unparalleled suffering and shame, to rescue the doomed sinner.  
+
 "Continue in sin" when Christ had died to deliver from sin? God forbid! Sin has abounded, but "grace did abound more exceedingly" to save the sinner from his bonds.  
+
 In the light shining upon Calvary as unveiled to him by Christ, the Apostle shows the meaning of that death so that none in Rome could be ignorant any longer of the purpose for which Christ died.  
+
 "Our old man was crucified with Him" is the message of Calvary to the fallen sinner, and is the secret of deliverance from the bondage of sin. All who were baptized into Christ "were baptized into His death." Through "baptism into death" they were buried into His grave for the express purpose "that like as Christ was raised from the dead" (Romans 6:4), they might look upon His cross and grave as a great gulf fixed between them and their past, and with the risen Christ emerge to "walk in newness of life" (Romans 6:4).  
+
 This, of course, was if they were really and intimately united with the Lord in His death! A mental assent alone would not produce a real union with the risen Lord. They must by the Holy Spirit be so vitally united with the crucified One that they shared the very "likeness" of His death (Romans 6:5).  
-And if this union existed, then they would realize the power of His resurrection and know that they were "crucified with Him." So they would "no longer be in bondage to sin"—slaves of sin—for "he that hath died is justified from sin" (Romans 6:6-7). Sin has no longer a claim to reign—its tyranny is over.  
-Moreover, the death of Christ meant more than negative deliverance. They were set free from the reign of sin not only by death but by life. The life of Christ which triumphed over death and the grave would be manifested in them; for if they truly "died" to the old they would live with Christ and share the life that He now lives—a new life, a life "unto God" (Romans 6:10).  
-Abundant life—a reigning in life—was the purpose of Calvary. The death Christ died He died unto sin for us, and He died "once for all" (Romans 6:10, mg.). So they were to reckon themselves dead unto sin with Him and utterly refuse to let it reign over them, for they were "alive unto God in Christ Jesus." Abiding in Him as their very life, they would reign in life in Jesus Christ their Lord.  
+
+And if this union existed, then they would realize the power of His resurrection and know that they were "crucified with Him." So they would "no longer be in bondage to sin" — slaves of sin — for "he that hath died is justified from sin" (Romans 6:6-7). Sin has no longer a claim to reign — its tyranny is over.  
+
+Moreover, the death of Christ meant more than negative deliverance. They were set free from the reign of sin not only by death but by life. The life of Christ which triumphed over death and the grave would be manifested in them; for if they truly "died" to the old they would live with Christ and share the life that He now lives — a new life, a life "unto God" (Romans 6:10).  
+
+Abundant life — a reigning in life — was the purpose of Calvary. The death Christ died He died unto sin for us, and He died "once for all" (Romans 6:10, mg.). So they were to reckon themselves dead unto sin with Him and utterly refuse to let it reign over them, for they were "alive unto God in Christ Jesus." Abiding in Him as their very life, they would reign in life in Jesus Christ their Lord.  
+
 But they must not forget that this must be lived out in practice! They cannot be truly crucified with Christ and at the same time yield to sin or hand over the members of their body as instruments of unrighteousness, or else they would be making "void the grace of God." If they desired to realize the full deliverance of Calvary, they must not only gladly recognize their death with the Crucified One but they must present themselves unto God as "men living after death" (Romans 6:13, Moule), and in "newness of life" yield the members of their bodies unto God as weapons of righteousness.  
+
 But another question arises here. Will not the grace that sets us free bring in a danger of license beyond the bounds of liberty? (Romans 6:15).  
+
 "God forbid!" again cries the Apostle. Did they not know that the change brought about by union with Christ in His death and resurrection meant a revolution deep down in the center of a man's being? That those who had thus proved the power of Christ's death became "obedient from the heart" to that pattern whereunto they "were delivered" (Romans 6:17, mg.)? In newness of life, true believers gladly became "servants of God" instead of servants to sin, and of their own free choice chose day by day to present their bodies as "bondservants of righteousness" in joyous obedience unto God.  
+
 In this chapter in Romans the severing power of the cross is clearly seen. The work of deliverance from the guilt and bondage of sin was accomplished at Calvary, and the Apostle calls upon the Roman Christians to enter upon the fruit of Christ's death by a decisive act of faith. With Christ upon the cross they died, and in His death they were cut off from their old life. "United with Him by the likeness of His death," they were to account themselves crucified with Him, "dead indeed unto sin" (Romans 6:11, A.V.), and living unto God in Him.  
+
 "But I have reckoned thus, and it seems nothing but reckoning a lie!” cries some longing heart.  
-12
+
 Ah, soul, maybe your eyes are in the wrong direction. You are looking within, occupied more with your "reckoning" than with the work of your Savior. The Holy Spirit will not bear witness to your "reckon" apart from the object of your reckoning.  
+
 Look away to Calvary. The Lord Jesus died on your behalf, and as your Representative carried you with Him to His cross. Are you honestly determined to part with every known sin, and willing for the death with Christ to be made practical in your experience? Then from this crucial moment see yourself as nailed to the tree with your crucified Lord.  
+
 Relying upon the Holy Spirit, and in faith in the word of God, "let not sin therefore reign," for God has said that through Christ's death and your sharing of that death "sin shall not have the mastery over you" (Romans 6:14, C.H.).  
+
 Hidden in Christ upon His cross and joined to Him in His life, your part, O child of God, is the continual choice of your will—for "to whom ye yield," his "servants ye are" (Romans 6:16, A.V.). In the hour of sore temptation, in the center of your being you must promptly retire, so to speak, to the cross, and, hiding in Him who carried you there, refuse to be drawn out of your place in Him. Do not struggle with anything that comes to you, but hand over all to Him whose life you do share, and you shall find that He is able to deliver and to keep you day by day.  
+
 "But now, being freed from the bondage of sin, and enslaved to the service of God" (Romans 6:22, C.H.), you must deal honesty with sin, calling sin, sin. Be steadfastly purposed to walk in obedience to your Lord, counting upon Him to work in you to will and to do of His good pleasure.  
+
 Let every stress of trial or temptation drive you to the searchlight of His face that you may see all things in His light. So shall you "walk in the light as He is in the light," with the precious blood of Jesus Christ cleansing you from all sin. "And if any man sin, we have an Advocate with the Father, Jesus Christ the Righteous"—He who is "the propitiation for our sins; and not for ours only, but also for the whole world" (1 John 2:1-2).  
+
 But before we crave deliverance we must necessarily feel the weight of our chains. At this point we come to the purpose of the law, unfolded in the seventh chapter of Romans.  
 
 <h3>CHAPTER 4</h3>
-"Faithful is the saying: For if we died with Him, we shall also live with Him."—2 Timothy 2:11.  
-The Cross and the Law
-"Ye also were made dead to the law through the body of Christ.. . . Now we have been discharged from the law, having died to that wherein we were holden."—Romans 7:4-6.  
+
+"Faithful is the saying: For if we died with Him, we shall also live with Him." — 2 Timothy 2:11.  
+
+<h4>The Cross and the Law</h4>
+"Ye also were made dead to the law through the body of Christ.. . . Now we have been discharged from the law, having died to that wherein we were holden." — Romans 7:4-6.  
+
 DELIVERANCE through death is still the message of the Apostle. The cross of Calvary is the place of reconciliation with God and of freedom from the power of sin, but he who is crucified with Christ dies with Him not only to the bondage of sin but to the bondage of the "law? which demanded from a helpless sinner an obedience it could not get and brought him deeper and deeper into the powerlessness of death. The Apostle's trend of thought in Romans 5, 6, 7 and 8 is marvelously in accord with the facts of actual experience in the Christian life. In fact, this group of chapters can only be clearly understood from the inside—that is, by having in some measure passed through these stages of experience, so as to be able to see things from the standpoint of Paul as he wrote to the Roman Christians.  
+
 "The law came in" he writes, "that the trespass might abound" (Romans 5:20-21). But God only purposed to reveal the "abounding" of the sin and its heinousness so that His grace might be shown to "abound more exceedingly.”  
+
 That "as sin reigned" (Romans 5:20-21) over the poor sinner, even so might "grace"—the free gift of righteousness—"reign" and triumph in the redeemed man.  
+
 The way that grace might come in and reign is then shown to be by death, for nothing but death could release the sinner from his chains. The wages of sin is death. The penalty of sin must be paid; the verdict of death must be carried out. And in the death of Christ as the Representative Man the penalty was carried out, and the reign of sin ends in all who have died with their crucified Lord.  
+
 The believer also dies to the law which condemned him to death. United to Christ in His death, he is "made dead to the law through the body of Christ" (Romans 7:4), and is therefore "discharged" from the claims of the law, "having died" to that which held him in bondage.  
+
 The law can no longer say to one who has died, "Thou shalt," for he has passed through the gateway of death to another sphere, where the law cannot follow him—a sphere "in Christ Jesus" wherein he serves God in a new way, with a new spirit of glad obedience to the letter of the law (Romans 7:6).  
+
 Another question occurs at this point: Are we then to say that the "law" given by God is sin? (cf. Romans 7:7). Once more the Apostle answers "God forbid!" and proceeds to show the reason why the law was given and the practical working of the law in bringing the soul to the place where he is ready to be delivered by the crucified and risen Lord. For the message of deliverance through death with Christ comes as glad tidings only to those who are at an end of themselves. The law is our schoolmaster, to bring us to Christ.  
+
 After speaking of the discharge from the claims of the law, the Apostle breaks out into vivid description of the bitter conflict in the soul of the one who delights in the will of God in his inward man but has failed to yet apprehend this deliverance through the death of Christ which Paul has been describing.  
+
 Whatever primary object Paul may have had in mind when he wrote the much-debated seventh chapter of Romans, at least we may safely say that it is a powerful picture of a man under the tyranny of sin who is roused to activity by his desire to fulfill the will of God.  
+
 It is the law that brings the soul to the place of death, for "death" is simply a cessation from struggling—the point at which the soul arrives when it can battle no more and cries in despair, "Who shall deliver me?”  
-"/ through the law died unto the law? writes Paul, "that I might live unto God" (Galatians 2:19).  
+
+"I through the law died unto the law? writes Paul, "that I might live unto God" (Galatians 2:19).  
+
 It is easy to discuss the seventh chapter of Romans from the academic point of view, but if we set ourselves in earnest to break our own bonds we will soon learn the reality of the picture and the bitterness of the experience it describes.  
+
 Let us look briefly at the passage and see how the law works in bringing souls to an end of themselves, ready to be delivered by Jesus Christ our Lord.  
-The Law Was Given to Make Us Know What Sin Is  
+
+<h4>The Law Was Given to Make Us Know What Sin Is</h4>  
+
 "I had not known sin, except through the law."—Verse 7.  
+
 For instance, unless God had given a law and said, "Thou shalt not covet," how could we know that to covet was a sin?  
-The Law Was Given to Show the Antagonism of Sin
-14
-"Sin, finding occasion, wrought in me... coveting: for apart from the law sin is dead."—Verse 8.  
+
+<h4>The Law Was Given to Show the Antagonism of Sin</h4>
+
+"Sin, finding occasion, wrought in me... coveting: for apart from the law sin is dead." — Verse 8.  
+
 How actually true in every human heart the picture is! If we are told not to covet, we find ourselves doing at once the very thing we are forbidden to do.  
+
 "Thou shalt not" arouses against the holy will of God all the antagonism that is in fallen human nature, for "the mind of the flesh is enmity against God" (Romans 8:7).  
+
 Apart from the commands of the law "sin is dead" i.e., there is no antagonism or fight. Let men go their own way and fulfill the desires of their flesh and of their mind and there is no battle; but let them come face to face with the law of God and try to obey it, then sin rouses up and works all manner of things in them contrary to the commandment of God.  
+
 The law is therefore given to show the man himself the antagonism that is within him to the law of God.  
-The Law Was Given to Bring Us to Death  
-"I was alive apart from the law once: but when the commandment came, sin revived, and I died."—Verse 9.  
+
+<h4>The Law Was Given to Bring Us to Death</h4>  
+
+"I was alive apart from the law once: but when the commandment came, sin revived, and I died." — Verse 9.  
+
 Once upon a time I knew nothing of the claims of God, "I was alive, apart from the law.”  
 I thought all was well—but suddenly I came face to face with the "Thou shalt" and "Thou shalt not" of my Creator. Something within me woke up and fought against God's law; "sin revived" where it had been dormant. I found I could not obey the law, for I was helpless.  
-Yes, sin took its opportunity and asserted its power and claim upon me through the very commandment of God. I found it actually stronger than myself. It beguiled me! I had to yield to its' temptations, even while knowing the consequences to be death. So to speak, sin "slew me" (v. 11) by showing me that I had nothing before me but the wages of sin—death.  
-God's commandment should have led me to live a better life, but instead it made me sink deeper into the helplessness of death (v .10), and in hopeless despair, "I died.”  
-The Law Was Given to Show the Sinfulness of Sin
+Yes, sin took its opportunity and asserted its power and claim upon me through the very commandment of God. I found it actually stronger than myself. It beguiled me! I had to yield to its' temptations, even while knowing the consequences to be death. So to speak, sin "slew me" (v. 11) by showing me that I had nothing before me but the wages of sin — death.  
+
+God's commandment should have led me to live a better life, but instead it made me sink deeper into the helplessness of death (v.10), and in hopeless despair, "I died.”  
+
+<h4>The Law Was Given to Show the Sinfulness of Sin</h4>
+
 "The law is holy . . . righteous, and good. But sin, . . . shown to be sin, ... through the commandment [became] exceeding sinful."—Verses 12-13.  
+
 "Sin ... shown to be sin” by the holiness of the law! How wonderful is the plan devised by the Creator to teach the creature—who has no conception of sin—what sin is, and still more to make him know his need of salvation.  
+
 Sin must become "exceeding sinful" before it is loathed—before one's desire is aroused to have it put away and deliverance known from its bonds.  
+
 The need of a Savior must be felt before the Savior Himself can be welcomed.  
+
 The depth of one's fall must be seen or else the height, and depth, and breadth, and length of salvation cannot be understood.  
-"Through the commandment"—holy, righteous, and good, and one's vain efforts to fulfill it—God brings the fallen one to know himself and his condition.  
-The Law Brings to the Helplessness of Death  
+
+"Through the commandment" — holy, righteous, and good, and one's vain efforts to fulfill it—God brings the fallen one to know himself and his condition.  
+
+<h4>The Law Brings to the Helplessness of Death</h4>  
+
 "Sin . . . working death to me.. . .”  
+
 "Sold under sin. ...”  
+
 "In me, that is, in my flesh, dwelleth no good thing."—Verses 13, 14, 18.  
+
 How bitter the strife! How humiliating to the pride of man! "The law is spiritual" cries the man, "but I—I am carnal, sold under sin? I am practically a slave, for "what I hate, that I do" (v. 15).  
+
 The very fact that I hate sin proves that my eyes are opened to the beauty and goodness of God's will (v. 16), so that I seem to be like two persons. In my will I desire to do right, but I am utterly unable to "do that which is good " (v. 18). Therefore, in one sense, it is not I that work the wrong but the sin which reigns and tyrannizes over me (v. 17).  
+
 I am truly a slave! What slavery is worse than this? At all events, I know now that .'"in me . . . dwelleth no good thing" (v. 18). I see no man on earth blacker than myself. I can never think again that "I am not as other men." Was ever a soul in such bonds before? The "good" I want to do, I do not do; and the "evil" which I abhor, I practice (v.19)!  
+
 To sum it all up, I find that "to me who would do good, evil is present (v. 21). I am in the condition that "/ delight in the law of God after the inward man" (v. 22), but I see a different law in my members "warring against the law of my mind" (v. 23). I am held as a slave under the tyranny of sin.  
-15
-The Point of Deliverance  
+
+<h4>The Point of Deliverance</h4>  
+
 "O wretched man that I am! Who shall deliver me out of this body of death?"—Verse 24, mg.  
 "I thank God through Jesus Christ our Lord."— Verse 25.  
+
 Yes, there is deliverance when the soul is ready to be delivered. The "wretched man" has cried out for help, and in his cry has confessed that he is unable to deliver himself!  
+
 The pride of life has been broken down.  
+
 The "inward man" desiring to obey the law, has not been able to conquer himself or his sins, notwithstanding all his efforts to do "that which is good" in the sight of God. He has failed as yet to apprehend the full message of the cross. He has not seen his death with Christ, and his freedom in Christ from the tyranny of sin and the claims of the law. So in this bitter conflict he has had to find out his need.  
+
 Maybe he thought that the "inward man," assisted by the grace of God, would be able to please God—that having begun in the Spirit, by reconciliation with God through the blood of the cross, he could be "perfected" (or grow in grace) by the aid of the flesh!  
+
 Not so, you "wretched man." Turn again to Calvary! You need another force within you—the power of the Holy Spirit, and the "law of the Spirit of life in Christ" alone can make you free through the work of Jesus Christ on Calvary.  
 The "law" which you have been struggling to obey in your own strength "hath dominion over a man" only for "so long a time as he liveth" (Romans 7:1).  
 You were crucified with your Savior, you have died with Him, and you are "made dead to the law" through the body of Christ.  
