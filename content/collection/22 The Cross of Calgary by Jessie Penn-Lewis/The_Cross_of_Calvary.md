@@ -43,41 +43,63 @@ The prophecy of Isaiah makes it clear that Christ was "delivered up by the deter
 <h5>The Foreshadowed Lamb of God (Isaiah 53:1-3)</h5>
 
 "He hath no form nor comeliness. . . .”  
-<br>"No beauty that we should desire Him.. . .”  
-<br>"He was despised and forsaken of men ..." (mg.).  
-<br>"A Man of sorrows, and acquainted with grief. . . .”  
-<br>"As one from whom men hide their face He was despised. ...”  
+
+"No beauty that we should desire Him.. . .”  
+
+"He was despised and forsaken of men ..." (mg.).  
+
+"A Man of sorrows, and acquainted with grief. . . .”  
+
+"As one from whom men hide their face He was despised. ...”  
 
 "Who hath believed that which we have heard?" (Isaiah 53:1, mg.) and "to whom hath the arm of Jehovah been revealed?" cries the prophet, who was reporting that which he had heard from God. But the message, or report, was so beyond all human thought, so contrary to all human ideas, that he wonders to whom the revelation will be given. For it was revealed to the old-time messengers of God that when they "testified beforehand the sufferings of Christ, and the glories that should follow them" (1 Peter 1:11-12), they were ministering to those who, in later years, would hear the message of the cross. And the Apostle Peter writes that the Spirit of Christ Himself was in the prophets, testifying to the sufferings that would come to Him on earth.  
 
 Isaiah foresees the questionings which would fill the minds of men as they heard the marvelous story of that which was told him from God seven hundred years before it came to pass. "Who hath believed?" and "to whom" is it revealed? he exclaims, as he describes the Christ growing up before the Father "as a tender plant; and as a root out of a dry ground." Very precious to God must have been the tender plant—the Branch that would "bear fruit" (Isaiah 11:1). For Israel, the choice vine, the plant of His delight (Isaiah 5:7, mg.), had disappointed the heavenly Husbandman and His cherished vineyard had become dry ground. But here was the Shoot out of a stock in Israel that would bring forth the fruit the Father wanted, although to the eyes of men there would be "no form nor comeliness," no beauty to cause them to desire Him.  
 
 He who was the precious, tender plant to the Father would be despised of men. He would be a "Man of sorrows, and acquainted with grief"; therefore they would reject and forsake Him, for suffering and sorrow are not attractive to men.  
+
 To Jehovah, His Righteous Servant would be "exalted and lifted up," even "very high," but to men He would be as one from whom they would hide their faces with astonishment, for His face and His form would be marred "more than the sons of men" (Isaiah 52:14).  
+
 How marred must have been the face of the Holy One of God from His crown of thorns! How lacerated the form of His sacred body from the scourging of the soldiers!—for the scourges were made from hundreds of leathern thongs, each armed at the point with an angular bony hook, or a sharp-edged cube (Krummacher).  
 
 "Look at yonder pillar, black with the blood of murderers and rebels. . . . Look at the rude and barbarous beings who busily surround their victim." See them "tear off His clothes, bind those hands,... press His gracious visage firmly against the shameful pillar," binding Him, "with ropes in such a manner that He cannot move or stir." See! The scourging lasts a full quarter of an hour! The scourges cut ever deeper into the wounds already made, and penetrate almost to the marrow until "His whole back appears an enormous wound" (Krummacher). A purple robe is then thrown over the form of the agonized Sufferer, and the twigs of a long-spiked thorn bush are twisted into a circle, and pressed upon His brow.  
+
 It was thus that His face was marred, and His form more than the sons of men. The prophet Isaiah had even foretold the words of the Man of sorrows, saying in His hour of agony, "I was not rebellious, neither turned away backward. I gave my back to the smiters, and My cheeks to them that plucked off the hair: I hid not My face from shame and spitting. For the Lord Jehovah will help Me . . . therefore have I set My face like a flint" (Isaiah 50:5-7).  
+
 Men hid their faces from Him, but "He hid as it were His face from us" is the marginal reading of the A.S.V. Did the group who had seen His face shine as the sun on the Mount of Transfiguration remember the hidden glory in that marred frame? Nay, even they "esteemed Him not" and forsook Him in His hour of shame.  
+
 The divine and human estimations of the Man of sorrows in His pathway to the cross are thus fully foreshadowed by the prophet, and the Holy Spirit as plainly foretells the substitutionary object of His death.  
 
 <h5>The Purpose of the Cross (verses 4-6)</h5>  
 "He hath borne our griefs. ...”  
+
 "He hath carried our sorrows. ...”  
+
 "He was wounded for our transgressions. ...”  
+
 "He was bruised for our iniquities. . . .”  
+
 "The chastisement of our peace was upon Him.”  
+
 The Holy Spirit leaves no room for doubt as to the purpose and the cause of the sufferings of Christ. The word substitution is not actually used, but the language is unmistakably clear. This One with the marred face was bearing the "griefs" and "sorrows" of others. His wounds were for their transgressions, and the bruises upon His body were for their iniquities.  
+
 "All we like sheep have gone astray; we have turned every one to his own way; and Jehovah hath made to light on Him the iniquity of us all" (verse 6, mg.).  
+
 Beholding, as it were, the One thus wounded and stricken—Isaiah knows not actually how— the prophet becomes a spokesman for the whole human race as he cries: "We behold His sufferings, we esteem Him stricken, smitten of God, and afflicted. We, who have gone astray! We, who have turned every one to his own way! But the Lord has laid upon Him—the Holy Son of our God—our iniquity, the iniquity of us all.”  
+
 Thus briefly we have portrayed for us the result of the Fall in Eden and the cause and purpose of the cross.  
+
 Independence of God is the very essence of sin. To every man "his own way" ends in transgression and iniquity. The first all of verse 6 includes every human being brought into the world, and the second all proclaims the atoning sacrifice of Christ for every one under the curse of sin.  
 
 <h5>The Death of the Cross (verses 7-9)</h5>  
 "He humbled Himself, and opened not His mouth. ...”  
+
 "A lamb that is led to the slaughter. ...”  
+
 "A sheep that before her shearers is dumb. ...”  
+
 "He was cut off out of the land of the living....”  
+
 "They made His grave with the wicked. ...”  
 
 Isaiah now depicts the obedience unto death of the suffering one. He sees Him as a sheep in the hands of the shearers, dumb and passive; as a lamb being led to the slaughter, innocent and powerless. He who was equal with God counted it not a thing to be grasped, but emptied Himself and came in the likeness of men. As man He humbled Himself yet more, even unto death, consenting to be "led to the slaughter" as a victim in the hands of men. How literally the prophecy was fulfilled in every detail the Gospels unfold.  
@@ -87,32 +109,50 @@ The Christ standing before Pilate "when He was accused" answered nothing (Matthe
 "Cut off out of the land of the living" in the very prime of life—how few realized that it was for the transgression of His people "to whom the stroke was due" (Isaiah 53:8).  
 
 How many in Jerusalem during that awful time "considered" and pondered over the Scripture of the prophets, which gave them the portrait of the Man they crucified?  
+
 But the Man of sorrows knew! He said every step of His path must needs be "as it is written of Him." As He set His face to go on His last journey to Jerusalem, it was with the words "All the things that are written through the prophets shall be accomplished unto the Son of Man. For He shall be delivered up," "mocked," "shamefully treated," "spit upon," "and they shall scourge and kill Him" (Luke 18:31-33).  
+
 He said, "It is written," when Judas betrayed Him, and when His disciples forsook Him; and again, after He was risen from the dead, He reminded them that when He was yet with them He had sought to prepare them for His cross by telling them of "all things that must needs be fulfilled"—revelations written in "the Law of Moses, and the Prophets, and the Psalms" (Luke 24:44), concerning Him.  
+
 Moreover, Isaiah not only foretold the sufferings and death of the Christ but the very way of His burial. His grave would be with the wicked, and He who had been despised and rejected of men would be "with a rich man in His death.”  
+
 This was literally fulfilled; and the instrument prepared by God to carry out His counsels was found in "Joseph of Arimathea, a councilor of honorable estate," who was "looking for the kingdom of God" (Mark 15:43), and said to be a secret disciple of the Lord Jesus.  
+
 Joseph had sat in the council that condemned the Righteous One, but "he had not consented to their counsel and deed." He must have marveled with the Governor at the extraordinary silence of the Divine Sufferer, and in his heart re-echoed the verdict of Pilate that there was no cause worthy of death found in Him.  
 Unable to save the victim from His accusers, Joseph did what he could as soon as the sentence of death had been carried out by going boldly to Pilate and asking for the body of the Lord, then reverently laying it in his own new tomb.  
 
 <h5>The Provided Lamb of God (verse 10)</h5>  
 "It pleased Jehovah to bruise Him. ...”  
+
 "He hath put Him to grief. ...”  
+
 "His soul a guilt-offering [mg.] for sin. . . .”  
+
 "God will provide Himself a lamb," Abraham had said to Isaac on Mount Moriah, and Isaiah foreshadows the Lamb provided by God Himself, to be revealed in the fullness of time.  
+
 Despised and rejected by men, wounded, bruised, cut off out of the land of the living, this One with the marred face is now plainly described as "a guilt-offering for sin"—the antitype of all the guilt-offerings sacrificed day by day in Israel, by the command of God Himself.  
+
 Hitherto the worshipers had to bring the sacrifice, but when God provided the Lamb, and laid upon Him the iniquity of all, there would be nought for them to do but accept the provision made for them.  
+
 The One who had grown up before the Father as a "tender plant" is "put to grief" by the express will of Jehovah. It was His sovereign pleasure to "bruise Him.”  
+
 In this passage we see Calvary from the standpoint of the Father, who so loved the world that He spared not His own Son but delivered Him up for us all; just as in the preceding paragraph we have foretold the voluntary offering of the Son, when "He humbled Himself" and gave Himself up to death as a "lamb led to the slaughter," a sheep in the hands of the shearers, opening not His mouth.  
 
 <h5>The Fruit of the Cross (verses 10-11)</h5>  
 "He shall see His seed. . . .”  
+
 "He shall prolong His days. . . .”  
+
 "He shall see of the travail of His soul. . . .”  
+
 "He shall... be satisfied. . . .”  
 
 Another aspect of the cross is referred to in these words. Calvary is viewed now as in harmony with a law of God—the law of sacrifice for fruitfulness.  
+
 Bruised and put to grief, the Christ is said to "prolong His days" through the seed thus brought into being, and "the pleasure of the Lord" in seeking fruit after His own image prospers in His hand.  
+
 The yearning of the Creator for fellowship with beings created after His own likeness is one of the greatest mysteries in the revelation of the heart and character of Jehovah. "Let Us make man in Our image, after Our likeness" (Genesis 1:26), the Triune God had said, when the beautiful earth, created by His word, lay before Him, but with no beings upon it answering to His heart.  
+
 "He shall see His seed." "He shall see and be satisfied with the travail of His soul" (mg.) reveals the same yearning in the heart of the God-Man. Grieved over the fall of the first creation, He gives His life on Calvary for the birth of a new race, a re-creation of those who had gone astray and turned each one to "his own way." By His death "making many righteous" through His bearing of their iniquities, He beholds the fruit of His travail and is satisfied.  
 
 This new birth for the fallen children of the first Adam is declared to be the fruit of His cross by the Lord Jesus Himself, shortly after the beginning of His public ministry, when He told Nicodemus that sinful men "must" be born again, and that the Son of Man "must" be "lifted up" (John 3:14-16) to become the source of life eternal to them.  
@@ -120,23 +160,32 @@ This new birth for the fallen children of the first Adam is declared to be the f
 <h5>The Victory of the Cross (verse 12)</h5>  
 
 "Therefore will I divide Him a portion with the great. ...”  
+
 "He shall divide the spoil with the strong. . . .”  
 
 Yet another aspect of Calvary is shown us here. Another person, called the "strong," is mentioned, and the language used suggests a battle and the dividing of the "spoil" won in the fight. Elsewhere Isaiah speaks of the "prey of the terrible" and the deliverance of the "captives of the just" from the "mighty" (Isaiah 49:24-25, mg.).  
+
 It is also said that the spoil is given to the Man of sorrows "because He poured out His soul unto death," and "because He . . . was numbered with the transgressors.”  
+
 Calvary was thus to be not only the bearing of our iniquities that we might be healed; not merely the guilt-offering for sin through which we would be made righteous; not just a travail for the birth of a new race in the likeness of the Son of God. It was also a battle with a terrible foe—for the deliverance of those held captive by his power.  
+
 This accords with other passages of Scripture, for David in vision beheld the ascended Lord leading "captivity captive" into the sanctuary on high, and the inspired writer of the Epistle to the Hebrews, says that "through death" the Christ brought to nought the devil, that He might "deliver all them who through fear of death were all their lifetime subject to bondage" (Hebrews 2:15).  
+
 It is written that He took the spoil from the strong because He was "numbered with the transgressors." In perfect obedience to His Father's will, He accepted and drank the cup of suffering and death! How can we fathom what it meant to Him "who knew no sin" to be numbered with the transgressors" and "made sin on our behalf" (2 Corinthians 5:21)? This view of Calvary may reveal to us one cause of the victory of Christ over the terrible one. The devil had sought to be exalted even as the Most High, but the Son of God humbled Himself and consented to be made lower than the lowest. Therefore God highly exalted Him, and gave unto Him the Name which is above every name; for Calvary in its depth of shame on earth was exaltation in heaven.  
 
 <h5>The Effect of the Cross in Heaven (verse 12)</h5>  
 
 "He bare the sin of many and made intercession for the transgressors.”  
+
 In this brief sentence we are given a glimpse into the heavens to see the Victor from Calvary within the veil, "before the face of God" (Hebrews 9:24) on behalf of all for whom He died.  
+
 "Numbered with the transgressors," He could make intercession for the transgressors; for He was "touched with the feeling" of their sorrows, having been Himself tempted in all points like as they (yet without sin). For prior to the cross He "suffered being tempted" (Hebrews 2:18) when He walked on earth as man.  
+
 Let us go to Calvary, and in the light thrown on it by the prophecy of Isaiah, behold Him who for the joy set before Him endured the cross, despising the shame. The hour had come for which he had entered into this world. Hear the God-Man cry "It is finished," as He bows His head and yields up His spirit into His Father's hand! We know now that He is the Father's provided Lamb, the guilt-offering for sin—the One who with a visage more marred than any man's was wounded and bruised for our iniquities, so that by His stripes we may be healed.  
+
 Sometime later, after the day of Pentecost had fully come, a man of authority was riding in his chariot in the desert, reading aloud the prophecy of Isaiah. At the moment he reached the words "He was led as a sheep to the slaughter... His life is taken from the earth," a certain disciple named Philip drew nigh, and was bidden of the Holy Spirit to run over to the chariot. Sitting beside the eunuch, he preached unto him JESUS from the prophecy of Isaiah. The Spirit-given foreshadowing of the cross was now the Spirit-given message to a seeking heart through a messenger instructed by Him (see Acts 8:26-35).  
-Thus did the Holy Spirit bear witness that Isaiah had truly foreshown the Christ of God, and that  
-"He saw His glory, and he spake of Him" (John 12:41).  
+
+Thus did the Holy Spirit bear witness that Isaiah had truly foreshown the Christ of God, and that "He saw His glory, and he spake of Him" (John 12:41).  
 7
 <h3>CHAPTER 2</h3>
 "The Spirit of Truth . . . shall glorify Me: for He shall take of Mine, and shall declare it unto you.”—John 16:13-14.  

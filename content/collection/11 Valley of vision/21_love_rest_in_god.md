@@ -53,6 +53,6 @@ I depend wholly upon thee,
 <br>&emsp;    joy to the mind where it is.
 <br>Grant me grace to distinguish
 <br>&emsp;    between the genuine and the false,
- <br>&emsp;     and to rest in thee who art all love.
+<br>&emsp;     and to rest in thee who art all love.
 
 Source: <a href = "https://banneroftruth.org/us/devotional/love-rest-in-god/" target="_blank" rel="noopener noreferrer">Banner of Truth | Love Rest in God</a>
