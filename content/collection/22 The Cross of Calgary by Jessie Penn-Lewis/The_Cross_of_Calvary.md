@@ -26,6 +26,7 @@ toc: true
 "Behold the Lamb of God, which beareth the sin of the world."—John 1:29, margin.  
 
 <h4>Calvary and the Foreshadowed Cross</h4>
+
 "And when they were come to the place, which is called Calvary, there they crucified Him."—Luke 23:33, A.V.  
 
 The hour had come! The Lamb slain from the foundation of the world was now to be slain before the eyes of the world. "Herod and Pontius Pilate, with the Gentiles and the peoples of Israel, were gathered together, to do" what had been "foreordained to come to pass" (Acts 4:27-28).  
