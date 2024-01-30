@@ -6,7 +6,7 @@ categories: null
 tags: null
 description: The Cross by Martyn Lloyd-Jones
 draft: false
-date: "2021-11-27"
+date: "2024-01-29"
 lastmod: "2024-01-29"
 series: null
 toc: true

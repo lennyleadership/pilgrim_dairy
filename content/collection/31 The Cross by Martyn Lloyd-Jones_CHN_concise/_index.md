@@ -1,6 +1,6 @@
 ---
 weight: 31
-title: 只夸十字架
+title: 只夸十字架[简版1]
 authors: Martyn Lloyd-Jones
 categories: null
 tags: null
