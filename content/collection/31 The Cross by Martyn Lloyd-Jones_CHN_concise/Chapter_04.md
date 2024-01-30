@@ -1,13 +1,13 @@
 ---
 weight: 4
-title: Chapter 4
+title: 第四章
 authors: Martyn Lloyd-Jones
 categories: null
 tags: null
 description: #1
 draft: false
 date: "2021-11-27"
-lastmod: "2021-11-27"
+lastmod: "2024-01-29"
 series: null
 toc: true
 ---
@@ -16,21 +16,6 @@ toc: true
 
 <!--more-->
 
-<!-- Tab links -->
-<div class="tab">
-  <button class="tablinks active" onclick="tablabel(event, 'english')">English</button>
-  <button class="tablinks" onclick="tablabel(event, 'chinese')">中文</button>
-  
-</div>
-
-<!-- Tab content -->
-<div id="english" class="tabcontent" style="display:block">
-
-</div>
-
-<div id="chinese" class="tabcontent">
-
-</div>
 
 “但我断不以别的夸口，只夸我们主耶稣基督的十字架。因这十字架，就我而论，世界已经钉在十字架上；就世界而论，我已经钉在十字架上。”（加拉太书6：14）
 真基督徒明白十字架的意义\

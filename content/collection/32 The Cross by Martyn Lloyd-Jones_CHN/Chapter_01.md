@@ -1,6 +1,6 @@
 ---
 weight: 1
-title: Chapter 1
+title: 第一章
 authors: Martyn Lloyd-Jones
 categories: null
 description: #1
@@ -16,20 +16,6 @@ toc: true
 
 
 <!--more-->
-
-<!-- Tab links -->
-<div class="tab">
-  <button class="tablinks active" onclick="tablabel(event, 'english')">English</button>
-  <button class="tablinks" onclick="tablabel(event, 'chinese')">中文</button>
-  
-</div>
-
-<!-- Tab content -->
-<div id="english" class="tabcontent" style="display:block">
-
-</div>
-
-<div id="chinese" class="tabcontent">
 
 [文字有删减]
 “十字架如何救我们？”得救意味着你的罪被赦免，你得以与神和好。你成为神的儿女，开始接受他所赐的福气。你不再惧怕死亡、坟墓、审判。你知道你将继承荣耀。那么十字架如何救我们呢？这是问题中的问题。让使徒用他自己的话回答你：“我断不以别的夸口，只夸我们主耶稣基督的十字架。”  
@@ -73,4 +59,4 @@ toc: true
 告诉我，你是否以主耶稣基督的十字架为可夸的？你是否心甘乐意把你的一生花在歌唱赞美那爱你、为你舍命的神儿子上？让我们审察自己。每一个人都问自己这个问题，并且找出答案。
 
 [http://blog.sina.com.cn/s/blog_96fdf2d70102xh5s.html]
-</div>
+

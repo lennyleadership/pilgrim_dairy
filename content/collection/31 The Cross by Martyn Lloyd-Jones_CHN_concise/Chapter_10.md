@@ -7,7 +7,7 @@ tags: null
 description: #1
 draft: false
 date: "2021-11-27"
-lastmod: "2022-12-02"
+lastmod: "2024-01-29"
 series: null
 toc: true
 ---
@@ -16,19 +16,6 @@ toc: true
 
 <!--more-->
 
-<!-- Tab links -->
-<div class="tab">
-  <button class="tablinks active" onclick="tablabel(event, 'english')">English</button>
-  <button class="tablinks" onclick="tablabel(event, 'chinese')">中文</button>
-  
-</div>
-
-<!-- Tab content -->
-<div id="english" class="tabcontent" style="display:block">
-
-</div>
-
-<div id="chinese" class="tabcontent">
 20世纪英国杰出的牧者钟马田，已经离世归天三十多年，他的属灵影响，在悄无声息中进入华语世纪，也进入中国大陆。最初听到这本书，是在一家北京的家庭教会的神学院里，一个牧师、作者、神学老师，讲课不仅具有语言上的吸引力，而且对耶稣基督十字架的强调，让人感觉这就是他的生命。这样一个强调十字架的人，推荐了一本宣讲十字架的书籍——《只夸基督十架》。  
 
 几乎过去了一年，现在才看这本书。  
@@ -56,5 +43,4 @@ toc: true
 在属灵上也一样，传的是十字架，才会从十字架上收割。  
 
 [http://m.yimaneili.net/gongyu/space.php?uid=7859&do=thread&id=19770]
-</div>
 
