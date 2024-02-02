@@ -1,6 +1,6 @@
 ---
 weight: 3
-title: Chapter 3
+title: "Chapter 3 Why All Christians Should Glory in the Cross of Christ"
 authors: 
 categories: null
 tags: null
@@ -17,7 +17,7 @@ toc: true
 <!-- Tab links -->
 <div class="tab">
   <button class="tablinks active" onclick="tablabel(event, 'english')">English</button>
-  <button class="tablinks" onclick="tablabel(event, 'chinese')"></button>
+  <button class="tablinks" onclick="tablabel(event, 'chinese')">中文版</button>
   
 </div>
 

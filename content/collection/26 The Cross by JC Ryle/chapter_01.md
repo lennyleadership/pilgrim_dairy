@@ -1,6 +1,6 @@
 ---
 weight: 1
-title: Chapter 1
+title: "Chapter 1 What the Apostle Paul Did Not Glory In"
 authors: 
 categories: []
 tags: null
@@ -17,7 +17,7 @@ toc: true
 <!-- Tab links -->
 <div class="tab">
   <button class="tablinks active" onclick="tablabel(event, 'english')">English</button>
-  <button class="tablinks" onclick="tablabel(event, 'chinese')"></button>
+  <button class="tablinks" onclick="tablabel(event, 'chinese')">中文版</button>
   
 </div>
 
