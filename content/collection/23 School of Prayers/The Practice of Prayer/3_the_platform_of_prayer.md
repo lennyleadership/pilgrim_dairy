@@ -1,9 +1,9 @@
 ---
 title: 3 The Platform of Prayer
 authors: G Campbell Morgan, edited by Lenny Lin
+categories: [Pray]
 series: null
 tags: [Lord's Prayer]
-categories: [Lord's Prayer]
 description: 
 draft: false
 date: "2022-07-05"
