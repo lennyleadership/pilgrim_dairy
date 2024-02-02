@@ -2,7 +2,7 @@
 weight: 22
 title: The Works of Jessie Penn-Lewis
 authors: Jessie Penn-Lewis - Edited by Lenny Lin
-categories: null
+categories: [Soriterology]
 tags:
 description: The Cross of Calvary by Jessie Penn-Lewis
 draft: false

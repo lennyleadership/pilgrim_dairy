@@ -2,7 +2,7 @@
 weight: 10
 title: Book Review
 authors: Martyn Lloyd-Jones
-categories: null
+categories: [Soteriology]
 tags: null
 description: #1
 draft: false

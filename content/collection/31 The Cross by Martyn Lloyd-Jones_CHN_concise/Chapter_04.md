@@ -2,7 +2,7 @@
 weight: 4
 title: 第四章
 authors: Martyn Lloyd-Jones
-categories: null
+categories: [Soteriology]
 tags: null
 description: #1
 draft: false
