@@ -1,7 +1,7 @@
 ---
 title: 1 Preliminary
 authors: G Campbell Morgan, edited by Lenny Lin
-categories: [Lord's Prayer]
+categories: [Pray]
 series: null
 tags: [Lord's Prayer]
 description: 
