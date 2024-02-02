@@ -1,5 +1,5 @@
 ---
-weight: 24
+weight: 51
 title: Books of Watchman Nee
 authors:
 categories: null
