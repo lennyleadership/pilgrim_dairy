@@ -2,7 +2,7 @@
 weight: 1
 title: Power Through Prayer
 authors: Edward M. Bounds
-categories: 
+categories: [Pray]
 tags: 
 description: 
 draft: false

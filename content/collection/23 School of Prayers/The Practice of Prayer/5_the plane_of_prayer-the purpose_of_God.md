@@ -1,13 +1,13 @@
 ---
+title: 5 The Plane of Prayer - The Purpose of God
 authors: G Campbell Morgan, edited by Lenny Lin
-categories: [Lord's Prayer]
-date: "2022-07-05"
-description: 
-draft: false
-lastmod: "2022-07-05"
+categories: [Pray]
 series: null
 tags: [Lord's Prayer]
-title: 5 The Plane of Prayer - The Purpose of God
+description: 
+draft: false
+date: "2022-07-05"
+lastmod: "2022-07-05"
 toc: true
 ---
 

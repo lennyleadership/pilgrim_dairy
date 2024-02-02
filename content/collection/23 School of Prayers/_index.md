@@ -2,7 +2,7 @@
 weight: 23
 title: School of Prayers
 authors: 
-categories: null
+categories: [Pray]
 tags:
 description: 
 draft: false

@@ -2,7 +2,7 @@
 weight: 1
 title: Men of Prayer Needed
 authors: E. M. Bounds
-categories: [Prayer, "E. M. Bounds"]
+categories: [Pray]
 tags: [Prayer, "E. M. Bounds"]
 series: [Prayer, "E. M. Bounds"]
 description: 

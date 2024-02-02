@@ -2,7 +2,7 @@
 weight: 1
 title: The Practice of Prayer
 authors: G Campbell Morgan
-categories: [Lord's Prayer]
+categories: [Pray]
 tags: [Lord's Prayer]
 date: "2022-07-05"
 description: 

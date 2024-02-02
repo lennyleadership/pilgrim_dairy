@@ -1,13 +1,13 @@
 ---
+title: 6 The Plane of Prayer - The Pilgrimage of Man
 authors: G Campbell Morgan, edited by Lenny Lin
 categories: [Lord's Prayer]
-date: "2022-07-05"
-description: 
-draft: false
-lastmod: "2022-07-05"
 series: null
 tags: [Lord's Prayer]
-title: 6 The Plane of Prayer - The Pilgrimage of Man
+description: 
+draft: false
+date: "2022-07-05"
+lastmod: "2022-07-05"
 toc: true
 ---
 

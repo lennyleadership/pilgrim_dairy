@@ -2,7 +2,7 @@
 weight: 2
 title: 各各他的十字架
 authors: Jessie Penn-Lewis
-categories: null
+categories: [Soteriology]
 description: 
 draft: false
 date: "2022-04-09"

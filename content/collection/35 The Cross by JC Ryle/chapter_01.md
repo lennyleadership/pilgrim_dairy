@@ -2,7 +2,7 @@
 weight: 1
 title: Chapter 1
 authors: 
-categories: null
+categories: [Soteriology]
 tags: null
 description: 
 draft: false

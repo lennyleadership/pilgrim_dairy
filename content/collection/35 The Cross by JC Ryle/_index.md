@@ -1,8 +1,8 @@
 ---
 weight: 35
 title: 十字架
-authors: JC Ryle
-categories: null
+authors: J C Ryle
+categories: [Soteriology]
 description: 
 draft: false
 date: "2024-"

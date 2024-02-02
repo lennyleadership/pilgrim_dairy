@@ -1,13 +1,13 @@
 ---
+title: 7 The Practice of Prayer
 authors: G Campbell Morgan, edited by Lenny Lin
-categories: [Lord's Prayer]
-date: "2022-07-05"
-description: 
-draft: false
-lastmod: "2022-07-05"
+categories: [Pray]
 series: null
 tags: [Lord's Prayer]
-title: 7 The Practice of Prayer
+description: 
+draft: false
+date: "2022-07-05"
+lastmod: "2022-07-05"
 toc: true
 ---
 

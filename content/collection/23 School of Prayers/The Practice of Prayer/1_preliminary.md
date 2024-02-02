@@ -1,13 +1,14 @@
 ---
+title: 1 Preliminary
 authors: G Campbell Morgan, edited by Lenny Lin
 categories: [Lord's Prayer]
-date: "2022-07-05"
-description: 
-draft: false
-lastmod: "2022-07-05"
 series: null
 tags: [Lord's Prayer]
-title: 1 Preliminary
+description: 
+draft: false
+date: "2022-07-05"
+lastmod: "2022-07-05"
+
 toc: true
 ---
 
