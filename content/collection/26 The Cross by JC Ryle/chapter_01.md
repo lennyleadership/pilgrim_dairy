@@ -35,7 +35,7 @@ toc: true
 有什么值得夸口的地方的话，那个人就非这位伟大的使徒
 莫属。要是他都不敢自夸，谁又敢呢？
 
-使徒保罗从来没有以他的民族的特权自夸<label for="" class="margin-toggle sidenote-number"></label><span class="sidenote">论出身，保罗可以夸口</span>。他出生为犹
+使徒保罗从来没有以他的民族的特权自夸<label for="特权" class="margin-toggle sidenote-number"></label><span class="sidenote">论出身，保罗可以夸口</span>。他出生为犹
 太人，如他告诉我们的，他是希伯来人中的希伯来人（腓三
 5）。就像他的许多同胞一样，他也可以说：“我有亚伯拉罕
 为我的先祖。我不是一个蒙昧、不开化的异教徒。我是神
@@ -45,7 +45,7 @@ toc: true
 的，我现在因基督都当做有损的。」（腓三7）他从来没有以
 那一类的东西自夸。从来没有！哪怕是一分钟也没有过！
 
-使徒保罗从来没有以他自己的作为自夸<label for="" class="margin-toggle sidenote-number"></label><span class="sidenote">论功劳，保罗可以夸口</span>。从来没有一个
+使徒保罗从来没有以他自己的作为自夸<label for="作为" class="margin-toggle sidenote-number"></label><span class="sidenote">论功劳，保罗可以夸口</span>。从来没有一个
 人像他那样为神如此辛苦地劳作。他比所有其他的使徒都
 多受劳苦（林后十一23）。没有一位曾活在世上的人像他那
 样，传道得那么多，旅行得那么多，并为了基督的缘故受苦
