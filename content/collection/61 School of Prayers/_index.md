@@ -1,5 +1,5 @@
 ---
-weight: 23
+weight: 61
 title: School of Prayers
 authors: 
 categories: [Pray]
