@@ -2,7 +2,7 @@
 weight: 2
 title: 第二章
 authors: Martyn Lloyd-Jones
-categories: [Soteriology]
+categories: []
 series: null
 tags: null
 description: #1

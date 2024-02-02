@@ -2,7 +2,7 @@
 weight: 3
 title: 第三章
 authors: Martyn Lloyd-Jones
-categories: [Soteriology]
+categories: []
 date: "2021-11-27"
 description: #1
 draft: false

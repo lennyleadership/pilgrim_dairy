@@ -2,7 +2,7 @@
 weight: 32
 title: 只夸十字架 [简版2]
 authors: Martyn Lloyd-Jones
-categories: null
+categories: [Soteriology]
 tags: null
 description: The Cross by Martyn Lloyd-Jones
 draft: false

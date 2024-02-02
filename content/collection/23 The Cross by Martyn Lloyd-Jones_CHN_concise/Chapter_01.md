@@ -2,7 +2,7 @@
 weight: 1
 title: 第一章
 authors: Martyn Lloyd-Jones
-categories: [Soteriology]
+categories: 
 description: #1
 draft: false
 date: "2021-11-27"

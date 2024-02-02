@@ -2,7 +2,7 @@
 weight: 1
 title: The Cross of Calvary
 authors: Jessie Penn-Lewis
-categories: [Soteriology]
+categories: []
 description: 
 draft: false
 date: "2022-04-09"
