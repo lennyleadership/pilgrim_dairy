@@ -1,4 +1,5 @@
 ---
+title: "Necessity for the Believer: Breaking Bread"
 author: Al Baker
 categories:
 - [Breaking of Bread]
@@ -9,7 +10,6 @@ draft: false
 excerpt: 
 layout: single
 subtitle: 
-title: "Necessity for the Believer: Breaking Bread"
 ---
 
 *‘They were continually devoting themselves to the apostles’ teaching and to fellowship, to the breaking of bread and to prayer.’*
