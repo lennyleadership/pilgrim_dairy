@@ -101,7 +101,7 @@ toc: true
 
 我能够找到比这所有一切都更强有力的爱的证据！我
 <b>凝视着十字架</b>。在其中，我不是看到父神的爱的原因，而
-是祂的爱的果效<label for="" class="margin-toggle sidenote-number"></label><span class="sidenote">注视基督的十字架使我看到上帝的爱的果效</span>。「唯有基督在我们还做罪人的时候为我
+是祂的爱的果效<label for="爱的果效" class="margin-toggle sidenote-number"></label><span class="sidenote">注视基督的十字架使我看到上帝的爱的果效</span>。「唯有基督在我们还做罪人的时候为我
 们死，神的爱就在此向我们显明了。」（罗五8）在那里，我
 看到神是如此地爱这个邪恶的世界，祂甚至将祂的独生子
 赐给他们——将他交给苦难和死亡——以致于「叫一切信
@@ -110,7 +110,7 @@ toc: true
 
 有些时候我可能会思考，神，这位父亲，太高大，太圣
 洁，怎么可能会关心像我们这样悲惨、败坏的被造物呢？
-但是，当我<b>注视这十字架</b><label for="" class="margin-toggle sidenote-number"></label><span class="sidenote">注视基督的十字架使我看到罪是何等的邪恶和可憎 恶。</span>时，我不可，不能，更不敢于去这
+但是，当我<b>注视这十字架</b><label for="败坏" class="margin-toggle sidenote-number"></label><span class="sidenote">注视基督的十字架使我看到罪是何等的邪恶和可憎 恶。</span>时，我不可，不能，更不敢于去这
 么想。10 我能否知道在神的眼中，罪是何等的邪恶和可憎
 恶？在哪里我可以看到这个被完全地揭示出来？我是否应
 该回到大洪水的历史，并读一读罪如何让世界被淹没？我
@@ -118,14 +118,14 @@ toc: true
 场？我是否应该转去看看犹太人如何漂流，观察罪如何使
 他们被分散到这地球的各处？不，我可以找到更好的证据。
 
-我<b>注视基督的十字架</b><label for="" class="margin-toggle sidenote-number"></label><span class="sidenote">注视基督的十字架使我知道除了耶稣的血别无他物可以除罪。</span>。在那里，我看到罪是如此黑暗
+我<b>注视基督的十字架</b><label for="耶稣的血" class="margin-toggle sidenote-number"></label><span class="sidenote">注视基督的十字架使我知道除了耶稣的血别无他物可以除罪。</span>。在那里，我看到罪是如此黑暗
 和可咒诅以致除了神亲生儿子的血没有任何东西可以把它
 洗净。在那里，我看到罪是如此地把我和我的圣洁的造物
 主分离，以致天上所有的天使都无法在我与神之间成就和
 平。若基督没有死，就没有任何东西可以使我与神和好。要
 是我去听那些骄傲的人可憎的说教的言语，我也许有时会
 胡思乱想，觉得罪也许并没有那么可恨。但是当我<b>注视着
-基督的十字架</b><label for="" class="margin-toggle sidenote-number"></label><span class="sidenote">注视基督的十字架使我知道罪很可恨。</span>时，我就绝不能轻乎罪了。11
+基督的十字架</b><label for="可恨" class="margin-toggle sidenote-number"></label><span class="sidenote">注视基督的十字架使我知道罪很可恨。</span>时，我就绝不能轻乎罪了。11
 
 我能否知道神为罪人所提供的救恩是何等丰富和全备？
 在哪里我能最特别地看清这一点呢？我应该回到圣经中关
