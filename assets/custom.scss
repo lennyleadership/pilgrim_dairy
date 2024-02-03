@@ -245,12 +245,12 @@ audio {
 /* Tufte webpage (body and margine) layout *********************************/
 
 body {
-    width: 87.5%; /* 87.5*/
-    margin-left: auto;
+    /*width: 87.5%; /* 87.5*/
+    /*margin-left: auto;
     margin-right: auto;
     padding-left: 5%; /*left margin: 12.5*/
-    max-width: 1400px;
-    line-height: 1.9;
+    /*max-width: 1400px;
+    line-height: 1.9;*/
     counter-reset: sidenote-counter;
 }
 
@@ -269,10 +269,6 @@ body {
     position: relative;
 }
 
-/*end****************************************************************/
-
-
-/* sidenote numbering ************************************************/
 
 .sidenote-number {
     counter-increment: sidenote-counter;
@@ -287,27 +283,27 @@ body {
 }
 
 
-.sidenote-number:after {
+.sidenote-number:after {/*define the numbering index in the body*/
     content: counter(sidenote-counter);
-    font-size: .8rem;/*define the numbering index in the body*/
+    font-size: .8rem;
     color: darkred;
     top: -0.5rem;
     left: 0.1rem;
 }
 
 
-.sidenote:before {
+.sidenote:before {/* define the numbering index in the sidenote*/
     content: counter(sidenote-counter) " ";
     font-size: .8rem;
-    font-style: italic; /* define the numbering index in the sidenote*/
+    font-style: italic; 
     color: darkred;
     top: -0.5rem;
 }
 
 
-label.sidenote-number {
+label.sidenote-number {/* should be less than or equal to paragraph line-height */
     display: inline-block;
-    max-height: 2rem; /* should be less than or equal to paragraph line-height */
+    max-height: 2rem; 
     font-style: italic;
 }
 
