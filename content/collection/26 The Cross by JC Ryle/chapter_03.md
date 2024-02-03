@@ -125,7 +125,7 @@ toc: true
 平。若基督没有死，就没有任何东西可以使我与神和好。要
 是我去听那些骄傲的人可憎的说教的言语，我也许有时会
 胡思乱想，觉得罪也许并没有那么可恨。但是当我<b>注视着
-基督的十字架</b><label for="可恨" class="margin-toggle sidenote-number"></label><span class="sidenote">注视基督的十字架使我知道罪很可恨。</span>时，我就绝不能轻乎罪了。11
+基督的十字架</b><label for="可恨" class="margin-toggle sidenote-number"></label><span class="sidenote">注视基督的十字架使我知道罪很可恨。</span>时，我就绝不能轻乎罪了。
 
 我能否知道神为罪人所提供的救恩是何等丰富和全备？
 在哪里我能最特别地看清这一点呢？我应该回到圣经中关
@@ -133,7 +133,7 @@ toc: true
 神这样一个普遍的真理吗？哦，不，我要<b>注视基督的十字
 架</b>。我没有看到任何与此相似的证据。对一个痛苦的良心
 和困惑的心灵，除了耶稣在那被咒诅的木头上为我而死之
-外，我找不到任何别的医治的恩膏<label for="医治" class="margin-toggle sidenote-number"></label><span class="sidenote">注视基督的十字架使我得医治。</span>。在那里，我看到我所
+外，我找不到任何别的医治的恩膏<label for="医治" class="margin-toggle sidenote-number"></label><span class="sidenote">注视基督的十字架使我知道救恩是何等丰富和全备。</span>。在那里，我看到我所
 欠无力清偿的债务已经完全付清了。因着我破坏了律法，
 它的咒诅临到那一位身上，他处在我的位置上为我受苦。
 
