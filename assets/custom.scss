@@ -260,7 +260,7 @@ body {
     clear: right;
     margin-right: -60%; /*60*/
     width: 50%; /*50*/
-    margin-top: 0.3rem;
+    margin-top: 0.3;
     margin-bottom: 0;
     font-size: .8rem; /*define the side note font size*/
     font-style: italic;
@@ -280,6 +280,7 @@ body {
 
 .sidenote-number:after,
 .sidenote:before {
+    content: counter(sidenote-counter) " ";
     font-family: Calibri;
     position: relative;
     vertical-align: baseline;
@@ -291,7 +292,7 @@ body {
     font-size: .8rem;/*define the numbering index in the body*/
     color: darkred;
     top: -0.5rem;
-    left: 0.3rem;
+    left: 0.1rem;
 }
 
 
@@ -314,6 +315,39 @@ label.sidenote-number {
 label.margin-toggle:not(.sidenote-number) {
     display: none;
 }
+
+@media (max-width: 760px) {
+    body {
+        width: 84%;
+        padding-left: 8%;
+        padding-right: 8%;
+    }
+  
+    label.margin-toggle:not(.sidenote-number) {
+        display: inline;
+    }
+    
+    .sidenote,
+    .marginnote {
+        display: inline;
+    }
+    
+    .margin-toggle:checked + .sidenote,
+    .margin-toggle:checked + .marginnote {
+        display: block;
+        float: left;
+        left: 1rem;
+        clear: both;
+        width: 95%;
+        margin: 1rem 2.5%;
+        vertical-align: baseline;
+        position: relative;
+    }
+    
+    label {
+        cursor: pointer;
+    }
+ }
 
 /* end **************************************************************************/
 
